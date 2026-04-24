@@ -4094,6 +4094,426 @@ This page contains all 10 Model Tests with full bilingual transcriptions.
 **14: b | 15: b | 16: b | 17: b | 18: b**
 
 
+---
+
+## ✅ Modeltest 28: Full Bilingual Version (Housing & Rental)
+
+### Lesen Teil 1 (Reading Part 1)
+
+1. **Sie suchen eine Firma, die Ihren Umzug in eine andere Stadt plant.**
+*(You are looking for a company to plan your move to another city.)*
+2. **Sie möchten wissen, wie man Schimmel in der Wohnung vermeidet.**
+*(You want to know how to avoid mold in the apartment.)*
+3. **Sie suchen eine Versicherung für Glasschäden in Ihrer Wohnung.**
+*(You are looking for insurance for glass damage in your apartment.)*
+4. **Sie möchten Ihre Wohnung untervermieten und suchen rechtliche Infos.**
+*(You want to sublet your apartment and are looking for legal info.)*
+5. **Sie suchen einen Notdienst für eine verstopfte Abflussleitung.**
+*(You are looking for an emergency service for a clogged drain pipe.)*
+
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Umzug-Logistik-Schmidt.de** <br> Deutschlandweite Umzüge! Wir packen, transportieren und montieren Ihre Möbel professionell. | **a) www.Umzug-Logistik-Schmidt.de** <br> Germany-wide moves! We pack, transport, and assemble your furniture professionally. |
+| **b) www.Gesund-Wohnen-Tipps.de** <br> Richtig lüften und heizen! Unser Ratgeber zeigt Ihnen, wie Sie Feuchtigkeit und Schimmel verhindern. | **b) www.Gesund-Wohnen-Tipps.de** <br> Ventilate and heat correctly! Our guide shows you how to prevent moisture and mold. |
+| **c) www.Glas-Schutz-Police.de** <br> Scherben bringen Glück? Nicht bei uns! Wir versichern Fenster, Spiegel und Glastische günstig. | **c) www.Glas-Schutz-Police.de** <br> Shards bring luck? Not with us! We insure windows, mirrors, and glass tables affordably. |
+| **d) www.Mietrecht-Direkt.de** <br> Darf ich untervermieten? Alles über Rechte und Pflichten von Mietern bei der Untervermietung. | **d) www.Mietrecht-Direkt.de** <br> Am I allowed to sublet? Everything about the rights and duties of tenants when subletting. |
+| **e) www.Rohr-Reinigung-24h.de** <br> Wasser staut sich? Unser Notdienst für Sanitärprobleme ist Tag und Nacht für Sie erreichbar. | **e) www.Rohr-Reinigung-24h.de** <br> Water backing up? Our emergency plumbing service is available for you day and night. |
+| **f) www.Garten-Gestaltung-Grün.de** <br> Wir machen Ihren Garten winterfest! Baumschnitt und Laubentsorgung zum Festpreis. | **f) www.Garten-Gestaltung-Grün.de** <br> We make your garden winterproof! Tree pruning and leaf disposal at a fixed price. |
+| **g) www.Möbel-Second-Hand.de** <br> Hochwertige gebrauchte Küchen und Schränke. Besuchen Sie unsere Ausstellung im Industriegebiet. | **g) www.Möbel-Second-Hand.de** <br> High-quality used kitchens and cabinets. Visit our showroom in the industrial area. |
+| **h) www.Hausmeister-Service-Fix.de** <br> Wir kümmern uns um Ihre Immobilie. Treppenhausreinigung und kleine Reparaturen zuverlässig erledigt. | **h) www.Hausmeister-Service-Fix.de** <br> We take care of your property. Stairwell cleaning and small repairs done reliably. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: b | 3: c | 4: d | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Vorschriften zur Treppenhausreinigung (Regulations for Stairwell Cleaning)**
+
+**Liebe Bewohnerinnen und Bewohner, laut Ihrem Mietvertrag sind Sie zur regelmäßigen Reinigung des Treppenhauses verpflichtet ("Kehrwoche"). Die Reinigung muss einmal pro Woche bis spätestens Samstagabend durchgeführt werden. Dazu gehört das Feucht-Wischen der Stufen von Ihrer Wohnungstür bis zur nächsttieferen Etage sowie das Putzen der dazugehörigen Fenster und Geländer. Das benötigte Putzmittel muss von jedem Mieter selbst gestellt werden. Falls Sie im Urlaub oder krank sind, sorgen Sie bitte eigenständig für eine Vertretung durch Nachbarn oder Freunde. Eine Nichtbeachtung kann dazu führen, dass wir eine Reinigungsfirma beauftragen und die Kosten dafür auf Sie umlegen.**
+*(Dear residents, according to your rental agreement, you are obliged to clean the stairwell regularly ("sweeping week"). Cleaning must be carried out once a week by Saturday evening at the latest. This includes damp-mopping the steps from your apartment door to the next floor down, as well as cleaning the corresponding windows and railings. The required cleaning agent must be provided by each tenant. If you are on holiday or ill, please independently arrange for a substitute through neighbors or friends. Non-compliance may lead to us hiring a cleaning company and passing the costs on to you.)*
+
+6. **Die Mieter müssen das Treppenhaus selbst putzen.**
+**richtig / falsch**
+*(The tenants must clean the stairwell themselves. - True/False)*
+
+7. **Was gehört alles zur Reinigungspflicht?**
+**a) Nur der Boden vor der Tür.** *(Only the floor in front of the door.)*
+**b) Boden, Fenster und Geländer.** *(Floor, windows, and railings.)*
+**c) Die gesamte Straße vor dem Haus.** *(The entire street in front of the house.)*
+
+8. **Woher kommen die Putzmittel?**
+**a) Die Hausverwaltung stellt sie bereit.** *(The building management provides them.)*
+**b) Jeder Mieter benutzt sein eigenes Mittel.** *(Each tenant uses their own agent.)*
+**c) Man braucht kein Putzmittel, nur Wasser.** *(You don't need cleaning agents, just water.)*
+
+9. **Was passiert, wenn man nicht putzt?**
+**a) Man bekommt eine Belohnung.** *(You get a reward.)*
+**b) Der Vermieter schickt eine teure Firma.** *(The landlord sends an expensive company.)*
+**c) Es ist egal, niemand kontrolliert es.** *(It doesn't matter, nobody checks it.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: richtig | 7: b | 8: b | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+
+**Betreffzeilen (Subject Lines):**
+
+* **a. Anmeldung zur jährlichen Heizungsablesung** *(Registration for annual heating reading)*
+* **b. Defekte Gegensprechanlage an der Haustür** *(Broken intercom at the front door)*
+* **c. Einladung zum Kennenlern-Abend im Viertel** *(Invitation to neighborhood meet-and-greet)*
+* **d. Information zur neuen Mülltonnen-Gebühr** *(Information on new trash bin fee)*
+* **e. Krankmeldung: Abwesenheit wegen Infekt** *(Sick leave: Absence due to infection)*
+* **f. Neue Zugangsdaten für das Mieter-Online-Portal** *(New login data for tenant online portal)*
+* **g. Terminbestätigung für die Wohnungsbesichtigung** *(Appointment confirmation for apartment viewing)*
+* **h. Warnung vor Frostschäden an Wasserrohren** *(Warning of frost damage to water pipes)*
+
+**10 Betreff:**
+**Hallo Herr Fischer, wie telefonisch besprochen, bestätige ich Ihnen hiermit den Termin zur Besichtigung der 3-Zimmer-Wohnung am kommenden Dienstag um 16:30 Uhr. Bitte bringen Sie Ihre letzten drei Gehaltsnachweise mit. Wir treffen uns direkt vor dem Hauseingang. Viele Grüße, Immobilien-Büro Sommer.**
+*(Hello Mr. Fischer, as discussed by phone, I hereby confirm the appointment to view the 3-room apartment next Tuesday at 4:30 PM. Please bring your last three pay slips. We will meet directly in front of the house entrance. Many regards, Real Estate Office Sommer.)*
+
+**11 Betreff:**
+**Sehr geehrte Mieter, ab nächsten Monat stellen wir unsere Kommunikation auf digital um. Sie erhalten in diesem Brief Ihre persönlichen Daten für unser neues Portal. Dort können Sie Mietbescheinigungen herunterladen oder Schäden melden. Bitte loggen Sie sich bis zum 15. des Monats einmal ein. Beste Grüße, Ihre Hausverwaltung.**
+*(Dear tenants, from next month we are switching our communication to digital. You will find your personal data for our new portal in this letter. There you can download rental certificates or report damages. Please log in once by the 15th of the month. Best regards, your building management.)*
+
+**12 Betreff:**
+**Guten Tag, mir ist aufgefallen, dass man Besucher unten an der Tür zwar hören kann, aber der Türöffner in meiner Wohnung nicht funktioniert. Ich muss jedes Mal nach unten laufen, um Gäste hereinzulassen. Könnten Sie bitte einen Techniker schicken? Herzlichen Dank, Frau Wagner (3. Stock).**
+*(Good day, I noticed that while I can hear visitors at the door below, the door opener in my apartment doesn't work. I have to walk down every time to let guests in. Could you please send a technician? Thank you very much, Ms. Wagner (3rd floor).)*
+
+**13 Betreff:**
+**Achtung an alle Bewohner: Für die nächste Woche ist extrem starker Frost gemeldet. Bitte stellen Sie sicher, dass alle Kellerfenster fest geschlossen sind und die Heizungen in ungenutzten Räumen mindestens auf der Stern-Position stehen, damit die Rohre nicht einfrieren. Danke für Ihre Mithilfe! Ihr Hausmeister.**
+*(Attention to all residents: extremely heavy frost is forecast for next week. Please ensure that all cellar windows are tightly closed and heaters in unused rooms are at least on the star position so that the pipes do not freeze. Thanks for your cooperation! Your caretaker.)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: g | 11: f | 12: b | 13: h**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Full Text (Bilingual)**
+
+**Das Projekt "Senioren-WG": Gemeinsam statt einsam (The "Senior Shared Flat" Project: Together instead of lonely)**
+
+**In Neustadt gibt es ein neues Wohnmodell für ältere Menschen: die Senioren-WG. Anstatt alleine in einer oft zu großen Wohnung zu leben oder in ein Pflegeheim zu gehen, ziehen hier mehrere Senioren in eine gemeinsame, barrierefreie Wohnung. Jeder Bewohner hat sein eigenes Zimmer als privaten Rückzugsort, aber Küche und Wohnzimmer werden gemeinsam genutzt. Das Ziel ist es, Einsamkeit im Alter zu verhindern und sich gegenseitig im Alltag zu unterstützen.**
+*(In Neustadt, there is a new housing model for older people: the senior shared flat. Instead of living alone in an often too large apartment or going to a nursing home, several seniors move into a shared, barrier-free apartment. Each resident has their own room as a private retreat, but the kitchen and living room are shared. The goal is to prevent loneliness in old age and to support each other in daily life.)*
+
+**"Wir kochen oft zusammen oder spielen abends Karten", erzählt der 75-jährige Bewohner Herr Meier. Wenn jemand Hilfe braucht, zum Beispiel beim Ausfüllen von Formularen oder beim Tragen schwerer Taschen, sind die anderen da. Zweimal pro Woche kommt eine Haushaltshilfe vorbei, um bei der Reinigung der Gemeinschaftsräume zu helfen. Die Kosten für die Miete und die Hilfe werden geteilt, was für viele Bewohner auch finanziell attraktiv ist. Das Projekt wird von der Stadt gefördert, da es die Selbstständigkeit älterer Menschen stärkt. Mittlerweile gibt es in Neustadt bereits drei solcher Wohngemeinschaften, und die Wartelisten sind lang.**
+*("We often cook together or play cards in the evening," says 75-year-old resident Mr. Meier. When someone needs help, for example with filling out forms or carrying heavy bags, the others are there. Twice a week, a domestic helper comes by to help with cleaning the common areas. The costs for rent and help are shared, which is also financially attractive for many residents. The project is supported by the city as it strengthens the independence of older people. Meanwhile, there are already three such shared apartments in Neustadt, and the waiting lists are long.)*
+
+14. **Was ist das Besondere an einer "Senioren-WG"?**
+**a) Die Bewohner haben keine eigenen Zimmer.** *(The residents have no rooms of their own.)*
+**b) Senioren wohnen zusammen und teilen sich Gemeinschaftsräume.** *(Seniors live together and share common rooms.)*
+**c) Man muss dort den ganzen Tag arbeiten.** *(You have to work there all day.)*
+
+15. **Was ist ein Hauptziel dieses Wohnmodells?**
+**a) Dass die Senioren weniger Geld ausgeben.** *(That seniors spend less money.)*
+**b) Einsamkeit zu vermeiden und gegenseitige Hilfe zu fördern.** *(To avoid loneliness and promote mutual help.)*
+**c) Dass die Kinder der Senioren mit einziehen.** *(That the seniors' children move in too.)*
+
+16. **Wie organisieren die Bewohner ihren Alltag?**
+**a) Jeder lebt komplett für sich allein.** *(Everyone lives completely for themselves.)*
+**b) Sie machen viele Dinge gemeinsam, wie Kochen oder Spielen.** *(They do many things together, like cooking or playing.)*
+**c) Eine Krankenschwester entscheidet alles für sie.** *(A nurse decides everything for them.)*
+
+17. **Wer hilft beim Saubermachen in der WG?**
+**a) Nur Herr Meier allein.** *(Only Mr. Meier alone.)*
+**b) Eine Haushaltshilfe, die regelmäßig kommt.** *(A domestic helper who comes regularly.)*
+**c) Die Stadtverwaltung jeden Tag.** *(The city administration every day.)*
+
+18. **Wie ist die Nachfrage nach diesem Projekt?**
+**a) Es möchte niemand dort wohnen.** *(Nobody wants to live there.)*
+**b) Das Interesse ist sehr groß (lange Wartelisten).** *(Interest is very high (long waiting lists).)*
+**c) Es ist nur für Menschen unter 60 Jahren.** *(It is only for people under 60.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: b | 18: b**
+
+---
+
+## ✅ Modeltest 29: Full Bilingual Version (Traffic & Mobility)
+
+### Lesen Teil 1 (Reading Part 1)
+
+1. **Sie möchten ein Monatsticket für den öffentlichen Nahverkehr kaufen.**
+*(You want to buy a monthly ticket for public transport.)*
+2. **Sie suchen einen Parkplatz für Ihr Auto am Flughafen.**
+*(You are looking for a parking space for your car at the airport.)*
+3. **Sie möchten wissen, wie man ein Elektroauto an einer Ladestation auflädt.**
+*(You want to know how to charge an electric car at a charging station.)*
+4. **Sie suchen Informationen über Baustellen und Staus in Ihrer Region.**
+*(You are looking for information about construction sites and traffic jams in your region.)*
+5. **Sie möchten sich über Car-Sharing-Angebote in Ihrer Stadt informieren.**
+*(You want to find out about car-sharing offers in your city.)*
+
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Verkehrsbetriebe-Online.de** <br> Abonnements leicht gemacht! Bestellen Sie Ihr Monatsticket oder Jahresabo bequem per App. | **a) www.Verkehrsbetriebe-Online.de** <br> Subscriptions made easy! Order your monthly ticket or annual sub conveniently via app. |
+| **b) www.Park-and-Fly-Airport.de** <br> Sicher und günstig parken! Buchen Sie Ihren Stellplatz direkt am Flughafen schon ab 5 Euro pro Tag. | **b) www.Park-and-Fly-Airport.de** <br> Park safely and cheaply! Book your parking space directly at the airport from 5 Euros per day. |
+| **c) www.E-Mobilität-Check.de** <br> Strom tanken leicht gemacht! Unsere Video-Anleitungen zeigen Ihnen den Umgang mit Ladesäulen. | **c) www.E-Mobilität-Check.de** <br> Charging electricity made easy! Our video tutorials show you how to handle charging stations. |
+| **d) www.Stau-Ticker-Regio.de** <br> Aktuelle Verkehrslage! Alle Sperrungen, Baustellen und Verzögerungen auf einen Blick. | **d) www.Stau-Ticker-Regio.de** <br> Current traffic situation! All closures, construction sites, and delays at a glance. |
+| **e) www.Stadt-Auto-Teilen.de** <br> Kein eigenes Auto? Nutzen Sie unsere Car-Sharing-Fahrzeuge an über 20 Standorten im Zentrum. | **e) www.Stadt-Auto-Teilen.de** <br> No car of your own? Use our car-sharing vehicles at over 20 locations in the center. |
+| **f) www.Rad-Verleih-City.de** <br> Fahrräder und E-Bikes für Touristen. Mieten Sie Ihr Rad stundenweise oder für den ganzen Tag. | **f) www.Rad-Verleih-City.de** <br> Bicycles and e-bikes for tourists. Rent your bike by the hour or for the whole day. |
+| **g) www.Taxi-Zentrale-Rund-um-die-Uhr.de** <br> Schnell und zuverlässig an Ihr Ziel. Bestellen Sie Ihr Taxi telefonisch oder per Klick. | **g) www.Taxi-Zentrale-Rund-um-die-Uhr.de** <br> Fast and reliable to your destination. Order your taxi by phone or by click. |
+| **h) www.Auto-Verkauf-Börse.de** <br> Verkaufen Sie Ihren Gebrauchtwagen zum Bestpreis. Kostenlose Bewertung direkt online. | **h) www.Auto-Verkauf-Börse.de** <br> Sell your used car at the best price. Free valuation directly online. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: b | 3: c | 4: d | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Vorschriften zur Nutzung von E-Scootern (Regulations for the Use of E-Scooters)**
+
+**Sehr geehrte Nutzer, E-Scooter sind eine praktische Ergänzung zum Verkehr, unterliegen aber klaren Regeln: Das Fahren auf Gehwegen ist streng verboten; bitte nutzen Sie ausschließlich Radwege oder die Straße. Ein Führerschein ist nicht erforderlich, jedoch gilt ein Mindestalter von 14 Jahren. Das Fahren zu zweit auf einem Roller ist nicht gestattet und wird mit einem Bußgeld bestraft. Bitte achten Sie beim Abstellen darauf, dass keine Fußgänger oder Rollstuhlfahrer behindert werden. Besonders in der Nähe von Bushaltestellen und Kreuzungen müssen die Wege frei bleiben. Bei Unfällen oder technischem Defekt informieren Sie bitte umgehend unseren Kundenservice über die App.**
+*(Dear users, e-scooters are a practical addition to traffic but are subject to clear rules: Riding on sidewalks is strictly prohibited; please only use cycle paths or the street. A driver's license is not required, but a minimum age of 14 applies. Riding in pairs on one scooter is not permitted and is punished with a fine. When parking, please ensure that no pedestrians or wheelchair users are obstructed. Especially near bus stops and intersections, the paths must remain clear. In case of accidents or technical defects, please immediately inform our customer service via the app.)*
+
+6. **Man darf mit dem E-Scooter auf dem Bürgersteig fahren.**
+**richtig / falsch**
+*(You are allowed to ride the e-scooter on the sidewalk. - True/False)*
+
+7. **Ab wie vielen Jahren darf man einen E-Scooter benutzen?**
+**a) Ab 12 Jahren.** *(From 12 years.)*
+**b) Ab 14 Jahren.** *(From 14 years.)*
+**c) Erst ab 18 Jahren.** *(Only from 18 years.)*
+
+8. **Ist es erlaubt, einen Freund auf dem Roller mitzunehmen?**
+**a) Ja, wenn man vorsichtig fährt.** *(Yes, if you drive carefully.)*
+**b) Nein, man muss immer alleine fahren.** *(No, you must always ride alone.)*
+**c) Nur wenn der Freund keinen eigenen Roller hat.** *(Only if the friend doesn't have their own scooter.)*
+
+9. **Worauf muss man beim Parken achten?**
+**a) Dass der Roller gut aussieht.** *(That the scooter looks good.)*
+**b) Dass man niemanden (z.B. Rollstuhlfahrer) behindert.** *(That you don't obstruct anyone (e.g., wheelchair users).)*
+**c) Dass man ihn in der Nähe einer Haltestelle versteckt.** *(That you hide it near a stop.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: falsch | 7: b | 8: b | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Betreffzeilen (Subject Lines):**
+
+* **a. Anmeldung zum Sicherheitstraining für Radfahrer** *(Registration for bike safety training)*
+* **b. Defekte Ampel an der Hauptkreuzung** *(Broken traffic light at the main intersection)*
+* **c. Einladung zur Einweihung der neuen Buslinie** *(Invitation to the inauguration of the new bus line)*
+* **d. Information zur Sperrung der Bahnhofstraße** *(Information on the closure of Bahnhofstraße)*
+* **e. Krankmeldung: Verspätung wegen Arzttermin** *(Sick leave: Delay due to doctor's appointment)*
+* **f. Neue Parkausweise für Anwohner verfügbar** *(New parking permits for residents available)*
+* **g. Terminänderung für die Fahrprüfung** *(Date change for the driving test)*
+* **h. Warnung vor Glatteis auf den Brücken** *(Warning of black ice on the bridges)*
+
+**10 Betreff:**
+**Liebe Bürgerinnen und Bürger, wir freuen uns, Ihnen mitteilen zu können, dass ab nächsten Montag die neue Express-Linie 500 in Betrieb geht. Sie verbindet das Stadtzentrum in nur 15 Minuten mit dem Industriegebiet. Zur Feier des Tages ist die Mitfahrt am Montag für alle kostenlos. Kommen Sie um 10:00 Uhr zum Rathausplatz! Ihr Bürgermeister.**
+*(Dear citizens, we are pleased to inform you that the new Express Line 500 will start operation next Monday. It connects the city center with the industrial area in just 15 minutes. To celebrate the day, rides on Monday are free for everyone. Come to the town hall square at 10:00 AM! Your mayor.)*
+
+**11 Betreff:**
+**Achtung Autofahrer, wegen dringender Asphaltarbeiten muss die Bahnhofstraße zwischen dem Marktplatz und dem Kino am kommenden Wochenende komplett gesperrt werden. Eine Umleitung über die Ringstraße ist ausgeschildert. Bitte planen Sie mehr Zeit für Ihren Weg ein. Ihre Stadtverwaltung.**
+*(Attention drivers, due to urgent asphalt work, Bahnhofstraße between the market square and the cinema must be completely closed next weekend. A diversion via the ring road is signposted. Please plan more time for your journey. Your city administration.)*
+
+**12 Betreff:**
+**Guten Tag, mir ist heute Morgen aufgefallen, dass die Ampel für Fußgänger an der Ecke Schulstraße / Hauptweg nicht auf Grün springt. Das ist besonders für die Schulkinder sehr gefährlich, da sie nun versuchen, bei Rot über die Straße zu rennen. Könnten Sie das bitte sofort prüfen? Vielen Dank, Herr Lehmann.**
+*(Good day, I noticed this morning that the pedestrian traffic light at the corner of Schulstraße / Hauptweg does not turn green. This is especially dangerous for schoolchildren, as they are now trying to run across the street on red. Could you please check this immediately? Many thanks, Mr. Lehmann.)*
+
+**13 Betreff:**
+**Werte Anwohner, ab sofort können Sie die neuen Parkberechtigungen für das Kalenderjahr 2024 im Bürgerbüro abholen. Bitte bringen Sie Ihren Personalausweis und den Fahrzeugschein im Original mit. Die Gebühr beträgt unverändert 30 Euro pro Jahr. Viele Grüße, Ihr Ordnungsamt.**
+*(Dear residents, you can now pick up the new parking permits for the 2024 calendar year at the citizens' office. Please bring your original ID card and vehicle registration. The fee remains unchanged at 30 Euros per year. Many regards, your Public Order Office.)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: c | 11: d | 12: b | 13: f**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Full Text (Bilingual)**
+
+**Das Projekt "Mitfahrbank": Mobilität auf dem Land (The "Ride-Sharing Bench" Project: Rural Mobility)**
+
+**In vielen kleinen Dörfern ist die Verbindung mit Bussen oft schlecht, besonders am Wochenende oder am späten Abend. Um dieses Problem zu lösen, wurde in der Region Neustadt das Projekt "Mitfahrbank" gestartet. Die Idee ist so einfach wie effektiv: In jedem Dorf wurde an einer zentralen Stelle eine auffällig gestaltete Bank aufgestellt. Wer dort Platz nimmt, signalisiert den vorbeifahrenden Autofahrern: "Ich möchte gerne mitgenommen werden."**
+*(In many small villages, bus connections are often poor, especially on weekends or late in the evening. To solve this problem, the "Ride-Sharing Bench" project was started in the Neustadt region. The idea is as simple as it is effective: in every village, a conspicuously designed bench was set up at a central location. Whoever takes a seat there signals to passing drivers: "I would like to be taken along.")*
+
+**Neben der Bank gibt es Schilder mit verschiedenen Zielen, wie zum Beispiel "Bahnhof", "Supermarkt" oder "Nachbarort". Der Wartende klappt einfach sein Wunschziel um. "Es ist eine tolle Ergänzung zum Bus und fördert den Zusammenhalt im Dorf", sagt die Initiatorin Frau Bauer. Der Service ist kostenlos und basiert auf Vertrauen. Besonders Senioren, die kein eigenes Auto mehr fahren, nutzen die Bänke gerne für kleine Besorgungen. Aber auch junge Leute ohne Führerschein sind begeistert. Damit sich alle sicher fühlen, können sich Fahrer und Mitfahrer registrieren lassen, dies ist jedoch keine Pflicht. Das Projekt ist mittlerweile so bekannt, dass bereits über 20 Bänke in der ganzen Region stehen.**
+*(Next to the bench, there are signs with various destinations, such as "Station," "Supermarket," or "Neighboring village." The waiting person simply flips over their desired destination. "It is a great addition to the bus and promotes cohesion in the village," says the initiator Ms. Bauer. The service is free and based on trust. Seniors in particular, who no longer drive their own car, like to use the benches for small errands. But young people without a driver's license are also enthusiastic. To make everyone feel safe, drivers and passengers can register, but this is not mandatory. The project is now so well-known that over 20 benches are already standing across the region.)*
+
+14. **Was ist eine "Mitfahrbank"?**
+**a) Eine Bank, auf der man nur ausruhen darf.** *(A bench where you are only allowed to rest.)*
+**b) Ein Treffpunkt für Menschen, die eine Mitfahrgelegenheit suchen.** *(A meeting point for people looking for a ride.)*
+**c) Eine Haltestelle für einen neuen Luxus-Bus.** *(A stop for a new luxury bus.)*
+
+15. **Warum wurde das Projekt gestartet?**
+**a) Weil die Busse auf dem Land oft zu selten fahren.** *(Because buses in the countryside often run too rarely.)*
+**b) Weil die Leute mehr Sport machen sollen.** *(Because people should do more sports.)*
+**c) Um die alten Bänke in den Dörfern zu reparieren.** *(To repair the old benches in the villages.)*
+
+16. **Wie erkennt ein Autofahrer das Ziel des Wartenden?**
+**a) Der Wartende ruft ganz laut.** *(The waiting person shouts very loudly.)*
+**b) Es gibt Schilder an der Bank, die man umklappen kann.** *(There are signs at the bench that you can flip over.)*
+**c) Man muss vorher eine SMS schicken.** *(You have to send an SMS beforehand.)*
+
+17. **Wer nutzt das Angebot besonders oft?**
+**a) Nur Touristen aus dem Ausland.** *(Only tourists from abroad.)*
+**b) Senioren und Jugendliche ohne Auto.** *(Seniors and young people without cars.)*
+**c) Professionelle LKW-Fahrer.** *(Professional truck drivers.)*
+
+18. **Muss man sich für die Nutzung registrieren?**
+**a) Ja, ohne Anmeldung darf man nicht mitfahren.** *(Yes, without registration you may not ride along.)*
+**b) Nein, es ist freiwillig und basiert auf Vertrauen.** *(No, it is voluntary and based on trust.)*
+**c) Nur wenn man über 50 Jahre alt ist.** *(Only if you are over 50 years old.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: a | 16: b | 17: b | 18: b**
+
+---
+
+## ✅ Modeltest 30: Full Bilingual Version (Media & Communication)
+
+### Lesen Teil 1 (Reading Part 1)
+
+1. **Sie möchten wissen, wie man ein sicheres Passwort erstellt.**
+*(You want to know how to create a secure password.)*
+2. **Sie suchen eine App, mit der Sie Ihre täglichen Ausgaben kontrollieren können.**
+*(You are looking for an app with which you can control your daily expenses.)*
+3. **Sie möchten alte Bücher online spenden oder verkaufen.**
+*(You want to donate or sell old books online.)*
+4. **Sie suchen einen Kurs zum Thema "Sicherer Umgang mit sozialen Medien".**
+*(You are looking for a course on "Safe handling of social media".)*
+5. **Sie möchten Ihr Handy-Abonnement kündigen.**
+*(You want to cancel your mobile phone subscription.)*
+
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Passwort-Safe-Check.de** <br> Schützen Sie Ihre Konten! Wir zeigen Ihnen, wie ein unknackbares Passwort aufgebaut sein muss. | **a) www.Passwort-Safe-Check.de** <br> Protect your accounts! We show you how an unbreakable password must be structured. |
+| **b) www.Finanz-Manager-App.de** <br> Behalten Sie den Überblick! Scannen Sie Ihre Kassenbons und sehen Sie, wohin Ihr Geld fließt. | **b) www.Finanz-Manager-App.de** <br> Keep track! Scan your receipts and see where your money goes. |
+| **c) www.Bücher-Spende-Online.de** <br> Gelesene Schätze weitergeben! Wir holen Ihre alten Bücher ab und unterstützen soziale Projekte. | **c) www.Bücher-Spende-Online.de** <br> Pass on read treasures! We pick up your old books and support social projects. |
+| **d) www.Medien-Kompetenz-Workshop.de** <br> Sicher im Netz! Lernen Sie alles über Privatsphäre und Datenschutz bei Facebook und Instagram. | **d) www.Medien-Kompetenz-Workshop.de** <br> Safe on the net! Learn everything about privacy and data protection on Facebook and Instagram. |
+| **e) www.Vertrags-Kündigung-Direkt.de** <br> Vertrag beenden leicht gemacht! Wir erstellen Ihr Kündigungsschreiben für Mobilfunk und Internet. | **e) www.Vertrags-Kündigung-Direkt.de** <br> Ending a contract made easy! We create your cancellation letter for mobile and internet. |
+| **f) www.Second-Hand-Elektronik.de** <br> Verkaufen Sie Ihr gebrauchtes Smartphone oder Tablet zum Festpreis. Schnell und unkompliziert. | **f) www.Second-Hand-Elektronik.de** <br> Sell your used smartphone or tablet at a fixed price. Fast and uncomplicated. |
+| **g) www.Vokabel-Trainer-Web.de** <br> Sprachen lernen am PC oder Handy. Über 5.000 Wörter mit Aussprache-Training inklusive. | **g) www.Vokabel-Trainer-Web.de** <br> Learn languages on PC or mobile. Over 5,000 words with pronunciation training included. |
+| **h) www.Kino-Welt-Neustadt.de** <br> Alle Filme, alle Zeiten. Buchen Sie Ihre Tickets für den nächsten Blockbuster direkt online. | **h) www.Kino-Welt-Neustadt.de** <br> All movies, all times. Book your tickets for the next blockbuster directly online. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: b | 3: c | 4: d | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Information zur Nutzung des Firmen-WLANs (Information on Using the Company Wi-Fi)**
+
+**Liebe Mitarbeiterinnen und Mitarbeiter, um die Sicherheit unseres Netzwerks zu gewährleisten, gelten für die Nutzung des Firmen-WLANs folgende Regeln: Der Zugang ist ausschließlich für geschäftliche Zwecke gestattet; privates Surfen oder das Herunterladen von Filmen und Musik ist untersagt. Bitte geben Sie Ihr persönliches Passwort niemals an externe Besucher oder Kunden weiter – für Gäste steht ein separates "Gäste-WLAN" zur Verfügung. Jedes mobile Gerät (Smartphone, Tablet), das mit dem Netzwerk verbunden wird, muss zuvor von der IT-Abteilung registriert werden. Bei Verlust eines Geräts informieren Sie uns bitte sofort, damit wir den Zugang sperren können. Verstöße gegen diese Richtlinien können arbeitsrechtliche Konsequenzen haben.**
+*(Dear employees, to ensure the security of our network, the following rules apply for the use of the company Wi-Fi: Access is permitted exclusively for business purposes; private surfing or downloading of movies and music is prohibited. Please never give your personal password to external visitors or customers – a separate "Guest Wi-Fi" is available for guests. Every mobile device (smartphone, tablet) that is connected to the network must be registered beforehand by the IT department. In case of loss of a device, please inform us immediately so that we can block the access. Violations of these guidelines can have consequences under labor law.)*
+
+6. **Man darf das Firmen-WLAN für private Zwecke nutzen.**
+**richtig / falsch**
+*(You are allowed to use the company Wi-Fi for private purposes. - True/False)*
+
+7. **Dürfen Kunden das Passwort der Mitarbeiter benutzen?**
+**a) Ja, wenn sie höflich fragen.** *(Yes, if they ask politely.)*
+**b) Nein, sie müssen das Gäste-WLAN nutzen.** *(No, they must use the guest Wi-Fi.)*
+**c) Nur wenn die IT-Abteilung es erlaubt.** *(Only if the IT department permits it.)*
+
+8. **Was muss man machen, bevor man ein privates Handy verbindet?**
+**a) Nichts, einfach einloggen.** *(Nothing, just log in.)*
+**b) Das Gerät bei der IT-Abteilung anmelden.** *(Register the device with the IT department.)*
+**c) Eine Gebühr bezahlen.** *(Pay a fee.)*
+
+9. **Was ist bei einem Diebstahl des Handys wichtig?**
+**a) Dass man sich ein neues Handy kauft.** *(That you buy a new phone.)*
+**b) Dass man die IT sofort informiert, um den Zugang zu sperren.** *(That you inform IT immediately to block the access.)*
+**c) Dass man das Passwort im Internet postet.** *(That you post the password on the internet.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: falsch | 7: b | 8: b | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Betreffzeilen (Subject Lines):**
+
+* **a. Anmeldung zum Seminar: Zeitmanagement im Home-Office** *(Registration for Home Office Time Management seminar)*
+* **b. Defekte Tastatur am Arbeitsplatz 4** *(Broken keyboard at workstation 4)*
+* **c. Einladung zum Workshop: Professionelle E-Mails schreiben** *(Invitation to workshop: Writing professional emails)*
+* **d. Information zur neuen Cloud-Speicherung** *(Information on new cloud storage)*
+* **e. Krankmeldung: Abwesenheit wegen Erkältung** *(Sick leave: Absence due to cold)*
+* **f. Neue Software für die Bildbearbeitung installiert** *(New photo editing software installed)*
+* **g. Termin für das IT-Sicherheits-Update** *(Date for IT security update)*
+* **h. Warnung vor verdächtigen E-Mail-Anhängen** *(Warning of suspicious email attachments)*
+
+**10 Betreff:**
+**Liebe Kolleginnen und Kollegen, bitte seid vorsichtig: Momentan werden viele gefälschte E-Mails verschickt, die angeblich von unserer Bank kommen. In diesen Mails wird man aufgefordert, einen Anhang zu öffnen. Bitte löscht diese Mails sofort und klickt auf keinen Link! Bei Fragen wendet euch bitte an mich. Viele Grüße, eure Sicherheitsbeauftragte.**
+*(Dear colleagues, please be careful: currently many fake emails are being sent, allegedly coming from our bank. In these emails, you are asked to open an attachment. Please delete these emails immediately and do not click on any link! If you have questions, please contact me. Many regards, your security officer.)*
+
+**11 Betreff:**
+**Hallo Team, ab nächsten Monat stellen wir unsere gesamte Dokumentenablage um. Wir speichern Dateien dann nicht mehr lokal auf dem Server, sondern in unserem neuen Online-System. Dadurch könnt ihr auch von zu Hause aus auf alle wichtigen Daten zugreifen. Eine kurze Videoanleitung findet ihr im Anhang. Beste Grüße, Marc (IT-Support).**
+*(Hello team, from next month we are changing our entire document storage. We will no longer save files locally on the server but in our new online system. This allows you to access all important data from home as well. You will find a short video tutorial in the attachment. Best regards, Marc (IT Support).)*
+
+**12 Betreff:**
+**Guten Tag Frau Berg, leider lässt sich mein Computer heute Morgen nicht richtig bedienen. Einige Tasten hängen fest und reagieren gar nicht mehr, wahrscheinlich ist gestern etwas Kaffee darüber gelaufen. Könnten Sie mir bitte ein Ersatzgerät ins Büro bringen lassen? Vielen Dank, Thomas.**
+*(Good day Ms. Berg, unfortunately my computer cannot be operated properly this morning. Some keys are stuck and don't react at all, probably some coffee spilled on it yesterday. Could you please have a replacement device brought to my office? Many thanks, Thomas.)*
+
+**13 Betreff:**
+**Hallo alle, ich biete am nächsten Freitag einen kurzen Kurs zum Thema "Korrespondenz mit Kunden" an. Wir lernen dort, wie man formelle E-Mails ohne Rechtschreibfehler verfasst und wie man auf Beschwerden richtig reagiert. Wer teilnehmen möchte, trägt sich bitte in die Liste an der Tür ein. Viele Grüße, eure Abteilungsleiterin.**
+*(Hello all, I am offering a short course on "Correspondence with Customers" next Friday. We will learn how to write formal emails without spelling mistakes and how to react correctly to complaints. Anyone who wants to participate, please sign up on the list at the door. Many regards, your department head.)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: h | 11: d | 12: b | 13: c**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Full Text (Bilingual)**
+
+**Das Projekt "Computer-Hilfe für Senioren" (The "Computer Help for Seniors" Project)**
+
+**In einer modernen Welt, in der fast alles über das Internet funktioniert, fühlen sich viele ältere Menschen oft ausgeschlossen. Ob Bankgeschäfte, Terminbuchungen beim Arzt oder der Kontakt zu den Enkeln – ohne Computerkenntnisse ist das Leben schwierig. Deshalb hat eine Gruppe von Schülern in Neustadt das Projekt "Generationen-Klick" gestartet. Einmal pro Woche treffen sich die Jugendlichen mit Senioren, um ihnen ehrenamtlich den Umgang mit dem Internet, E-Mails und sozialen Medien zu erklären.**
+*(In a modern world where almost everything works via the internet, many older people often feel excluded. Whether it's banking, booking appointments with the doctor, or keeping in touch with grandchildren – life is difficult without computer skills. Therefore, a group of students in Neustadt started the project "Generation Click." Once a week, the youngsters meet with seniors to explain voluntarily how to handle the internet, emails, and social media.)*
+
+**"Es geht nicht nur um Technik, sondern vor allem um Kommunikation", sagt der 16-jährige Helfer Lukas. Die Senioren lernen zum Beispiel, wie sie per Videoanruf ihre Familie im Ausland sehen können oder wie man sicher online einkauft. Die Treffen finden im Computerraum der Schule statt und sind für die Senioren kostenlos. Die Resonanz ist überwältigend: Die Senioren schätzen die Geduld der jungen Leute, und die Schüler lernen viel über das Leben früherer Generationen. Das Projekt hat bereits einen Preis für soziales Engagement gewonnen, da es Jung und Alt auf Augenhöhe zusammenbringt.**
+*("It's not just about technology, but above all about communication," says 16-year-old helper Lukas. The seniors learn, for example, how to see their family abroad via video call or how to shop safely online. The meetings take place in the school's computer room and are free for the seniors. The response is overwhelming: the seniors value the patience of the young people, and the students learn a lot about the life of earlier generations. The project has already won an award for social engagement because it brings young and old together at eye level.)*
+
+14. **Was ist das Hauptziel von "Generationen-Klick"?**
+**a) Dass Schüler neue Computer geschenkt bekommen.** *(That students get new computers as gifts.)*
+**b) Senioren den Umgang mit moderner Technik beizubringen.** *(To teach seniors how to handle modern technology.)*
+**c) Alte Computer im Museum zu zeigen.** *(To show old computers in a museum.)*
+
+15. **Welche praktischen Dinge lernen die Senioren bei Lukas?**
+**a) Wie man Computerspiele programmiert.** *(How to program computer games.)*
+**b) Videoanrufe und sicheres Online-Shopping.** *(Video calls and safe online shopping.)*
+**c) Wie man ein Handy selbst repariert.** *(How to repair a mobile phone yourself.)*
+
+16. **Wo finden die wöchentlichen Treffen statt?**
+**a) In einem teuren Hotel im Zentrum.** *(In an expensive hotel in the center.)*
+**b) Im Computerraum einer lokalen Schule.** *(In the computer room of a local school.)*
+**c) Nur im Internet per Video.** *(Only on the internet via video.)*
+
+17. **Müssen die Senioren für die Hilfe bezahlen?**
+**a) Ja, es gibt eine hohe Gebühr pro Stunde.** *(Yes, there is a high fee per hour.)*
+**b) Nein, die Hilfe der Schüler ist kostenlos.** *(No, the students' help is free.)*
+**c) Nur wenn sie den Computer mit nach Hause nehmen.** *(Only if they take the computer home.)*
+
+18. **Welchen Vorteil haben die Schüler von dem Projekt?**
+**a) Sie bekommen bessere Noten in Mathematik.** *(They get better grades in mathematics.)*
+**b) Sie lernen viel über das Leben der älteren Generation.** *(They learn a lot about the life of the older generation.)*
+**c) Sie dürfen während der Treffen Videospiele spielen.** *(They are allowed to play video games during the meetings.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: b | 18: b**
+
+
+
+
 
 
 
