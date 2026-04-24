@@ -1115,3 +1115,503 @@ This page contains all 10 Model Tests with full bilingual transcriptions.
 **14: b | 15: b | 16: c | 17: b | 18: b**
 
 
+---
+
+## ✅ Modeltest 08: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie sind auf der Suche nach einem neuen Fitnessstudio mit einem breiten Angebot an Kursen und modernen Geräten.**
+   *(You are looking for a new gym with a wide range of classes and modern equipment.)*
+2. **Sie möchten sich beruflich weiterentwickeln und suchen einen Kurs im Bereich Zeitmanagement und Effizienz.**
+   *(You want to develop professionally and are looking for a course in time management and efficiency.)*
+3. **Sie planen eine kulinarische Abendveranstaltung und suchen einen Dienst, der exotische Speisen liefert.**
+   *(You are planning a culinary evening event and looking for a service that delivers exotic food.)*
+4. **Sie benötigen einen zuverlässigen Reparaturservice für Ihre defekte Waschmaschine.**
+   *(You need a reliable repair service for your broken washing machine.)*
+5. **Sie suchen nach einem biologischen Bauernhof, bei dem Sie frisches Obst und Gemüse direkt ab Hof kaufen können.**
+   *(You are looking for an organic farm where you can buy fresh fruit and vegetables directly from the farm.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Kinderparadies-Animation.de** <br> Wir bringen Spaß und Freude zu jedem Kinderfest mit kreativen Spielen und pädagogischen Aktivitäten. | **a) www.Kinderparadies-Animation.de** <br> We bring fun and joy to every children's party with creative games and educational activities. |
+| **b) www.Effizienz-Seminare.de** <br> Steigern Sie Ihre Produktivität mit unseren professionellen Kursen in Zeitmanagement und Selbstorganisation. | **b) www.Effizienz-Seminare.de** <br> Increase your productivity with our professional courses in time management and self-organization. |
+| **c) www.ModernLiving-Einrichtungen.de** <br> Gestalten Sie Ihr Zuhause neu – mit unseren individuellen Wohnlösungen und Einrichtungsberatung. | **c) www.ModernLiving-Einrichtungen.de** <br> Redesign your home – with our individual living solutions and interior design advice. |
+| **d) www.QuickFix-Haushaltshilfe.de** <br> Schnelle und zuverlässige Reparatur Ihrer Haushaltsgeräte – damit Ihr Alltag reibungslos weiterläuft. | **d) www.QuickFix-Haushaltshilfe.de** <br> Fast and reliable repair of your household appliances – so your daily routine continues smoothly. |
+| **e) www.GrueneOase-Hofladen.de** <br> Frische vom Feld – besuchen Sie unseren Hofladen und genießen Sie gesunde, biologisch angebaute Produkte. | **e) www.GrueneOase-Hofladen.de** <br> Fresh from the field – visit our farm shop and enjoy healthy, organically grown products. |
+| **f) www.Sprachwelten-Institut.de** <br> Öffnen Sie Türen zu neuen Kulturen mit unseren Sprachkursen in angenehmer Lernatmosphäre. | **f) www.Sprachwelten-Institut.de** <br> Open doors to new cultures with our language courses in a pleasant learning atmosphere. |
+| **g) www.BodyFit-Zentrum.de** <br> Finden Sie Ihre Balance – mit Fitnesskursen, die Spaß machen, und Top-Geräten für optimales Training. | **g) www.BodyFit-Zentrum.de** <br> Find your balance – with fitness classes that are fun and top equipment for optimal training. |
+| **h) www.ExoticTastes-Catering.de** <br> Erleben Sie Geschmacksexplosionen mit unserem Catering für exotische Speisen – perfekt für Ihre Events! | **h) www.ExoticTastes-Catering.de** <br> Experience taste explosions with our catering for exotic foods – perfect for your events! |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: g | 2: b | 3: h | 4: d | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Im Viertel "Am alten Hafen" wird es keine Begrünungsprojekte geben. (richtig/falsch?)**
+   *(In the "Am alten Hafen" district, there will be no greening projects. - True/False?)*
+7. **Das neue Verkehrskonzept sieht vor,** *(The new traffic concept provides for...)*
+   * **a) die Hauptstraße in eine Autobahn umzuwandeln.** *(converting the main street into a highway.)*
+   * **b) mehr Parkplätze in der Hauptstraße zu schaffen.** *(creating more parking spaces on the main street.)*
+   * **c) die Hauptstraße in eine Fußgängerzone umzuwandeln.** *(converting the main street into a pedestrian zone.)*
+8. **Der "Bauernmarkt am Hafen"** *(The "Farmer's Market at the Harbor")...*
+   * **a) findet täglich statt.** *(takes place daily.)*
+   * **b) bietet Produkte von internationalen Großhändlern.** *(offers products from international wholesalers.)*
+   * **c) bietet regionale Produkte von Erzeugern an.** *(offers regional products from producers.)*
+9. **Die Neuerungen im Viertel zielen darauf ab,** *(The innovations in the district aim to...)*
+   * **a) die Gemeinschaft zu schwächen.** *(weaken the community.)*
+   * **b) den Lärm zu reduzieren und die Luftqualität zu verbessern.** *(reduce noise and improve air quality.)*
+   * **c) die Verkehrsdichte zu erhöhen.** *(increase traffic density.)*
+
+**Full Text (Bilingual)**
+**Liebe Anwohner des Viertels "Am alten Hafen", wir möchten Sie über einige Neuerungen informieren, die unser Viertel noch lebenswerter machen sollen:**
+*(Dear residents of the "Am alten Hafen" district, we would like to inform you about some innovations intended to make our district even more livable:)*
+
+**Stadtbegrünung: Die Stadt hat mit der Begrünung der Dachflächen begonnen, um die Luftqualität zu verbessern und neue kleine Oasen der Ruhe zu schaffen. Diese Grünflächen sind für alle Bewohner zugänglich.**
+*(Urban Greening: The city has begun greening roof surfaces to improve air quality and create new small oases of peace. These green spaces are accessible to all residents.)*
+
+**Verkehrskonzept: In den kommenden Monaten wird die Hauptstraße für den Autoverkehr gesperrt und in eine Fußgängerzone umgewandelt. Wir erhoffen uns dadurch eine angenehmere Atmosphäre und weniger Lärm.**
+*(Traffic Concept: In the coming months, the main street will be closed to car traffic and converted into a pedestrian zone. We hope this will result in a more pleasant atmosphere and less noise.)*
+
+**Lokale Märkte: Jeden Samstag findet nun der "Bauernmarkt am Hafen" statt, auf dem regionale Produkte direkt von den Erzeugern angeboten werden.**
+*(Local Markets: Every Saturday, the "Farmer's Market at the Harbor" now takes place, where regional products are offered directly by the producers.)*
+
+**Diese Maßnahmen wurden eingeführt, um die Lebensqualität in unserem Viertel zu steigern und eine Gemeinschaft zu fördern, in der sich alle wohlfühlen.**
+*(These measures were introduced to increase the quality of life in our district and to promote a community in which everyone feels comfortable.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Falsch | 7: c | 8: c | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Buchclub-Treffen** *(Book club meeting)*
+* **b. Schulveranstaltung für Eltern** *(School event for parents)*
+* **c. Neue Arbeitsrichtlinie** *(New work guideline)*
+* **d. Information zur Telearbeit** *(Information on telecommuting)*
+* **e. Lesekreis Veranstaltung** *(Reading group event)*
+* **f. Ankündigung Gebäudewartung** *(Building maintenance announcement)*
+* **g. Elternsprechtage Ankündigung** *(Parent-teacher conferences announcement)*
+* **h. Wartungsarbeiten Heizsystem** *(Heating system maintenance work)*
+
+**10 Betreff:**
+**Liebe Mitglieder des Buchclubs, nicht vergessen: Unser nächstes Treffen findet am 22. August statt, bei dem wir "Die verlorenen Spuren" diskutieren werden. Bitte lesen Sie das Buch bis zu diesem Datum, damit wir eine lebhafte Diskussion führen können. Lesefreudige Grüße, Marie-Luise Fink (Buchclub-Koordinatorin)**
+*(Dear members of the book club, don't forget: Our next meeting takes place on August 22nd, where we will discuss "The Lost Traces." Please read the book by this date so we can have a lively discussion. Joyful reading regards, Marie-Luise Fink (Book Club Coordinator))*
+
+**11 Betreff:**
+**Sehr geehrte Mieter, bitte beachten Sie, dass nächste Woche die Heizungsanlage in unserem Gebäude gewartet wird. Es ist möglich, dass es am Dienstag und Mittwoch zu temporären Ausfällen der Heizung kommt. Mit freundlichen Grüßen, Hausverwaltung Müller & Söhne**
+*(Dear tenants, please note that the heating system in our building will be serviced next week. It is possible that there will be temporary heating outages on Tuesday and Wednesday. Best regards, Müller & Söhne Property Management)*
+
+**12 Betreff:**
+**Hallo liebe Mitarbeiter, wir führen eine neue Richtlinie für mobiles Arbeiten ein. Alle Informationen dazu finden Sie in der beigefügten PDF-Datei. Bitte machen Sie sich mit den Inhalten vertraut und wenden Sie sich bei Fragen an Ihre Teamleitung. Beste Grüße, Johannes Bäcker (HR-Abteilung)**
+*(Hello dear employees, we are introducing a new policy for mobile work. You can find all information regarding this in the attached PDF file. Please familiarize yourself with the content and contact your team lead if you have questions. Best regards, Johannes Bäcker (HR Department))*
+
+**13 Betreff:**
+**Geehrte Eltern, wir freuen uns, die Termine für die kommenden Elternsprechtage bekanntzugeben. Diese werden vom 15. bis 17. September stattfinden. Sie können ab sofort online einen Termin mit den Lehrern buchen. Freundliche Grüße, Sekretariat der Grundschule Am Park**
+*(Dear parents, we are pleased to announce the dates for the upcoming parent-teacher conferences. These will take place from September 15th to 17th. You can book an appointment with the teachers online starting now. Friendly regards, Secretariat of the Elementary School Am Park)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: a | 11: h | 12: c | 13: g**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Gartenfestival im Park" – Eine Oase der Vielfalt und Farbenpracht**
+*("Garden Festival in the Park" – An Oasis of Diversity and Splendor of Color)*
+
+14. **Das "Gartenfestival im Park" zieht Besucher an, weil...**
+    *(The "Garden Festival in the Park" attracts visitors because...)*
+    * **a. es ausschließlich kommerzielle Ziele verfolgt.** *(it pursues exclusively commercial goals.)*
+    * **b. es eine Vielfalt an Pflanzen und Workshops bietet.** *(it offers a variety of plants and workshops.)*
+    * **c. nur preisgekrönte Gartenkonzepte gezeigt werden.** *(only award-winning garden concepts are shown.)*
+
+15. **Frau Grün...**
+    * **a. besucht das Festival nur als Gast.** *(visits the festival only as a guest.)*
+    * **b. organisiert das Festival und fördert den Austausch über Gartenthemen.** *(organizes the festival and promotes exchange on garden topics.)*
+    * **c. verkauft ihre eigenen Pflanzen auf dem Markt.** *(sells her own plants at the market.)*
+
+16. **Herr König...**
+    * **a. hat noch nie an einem Gartenwettbewerb teilgenommen.** *(has never participated in a garden competition before.)*
+    * **b. zeigt seine Gartenkreationen und tauscht sich mit anderen aus.** *(shows his garden creations and exchanges ideas with others.)*
+    * **c. ist ausschließlich als Käufer auf dem Markt vertreten.** *(is represented at the market exclusively as a buyer.)*
+
+17. **Beim Gartenfestival...** *(At the garden festival...)*
+    * **a. gibt es keine Möglichkeit, Pflanzen zu kaufen.** *(there is no possibility to buy plants.)*
+    * **b. werden ausschließlich internationale Experten eingeladen.** *(exclusively international experts are invited.)*
+    * **c. kann man sich in Workshops weiterbilden und Pflanzen kaufen.** *(one can further educate oneself in workshops and buy plants.)*
+
+18. **Das Festival zielt darauf ab,** *(The festival aims to...)*
+    * **a. den Verkauf von Gartenprodukten zu maximieren.** *(maximize the sale of garden products.)*
+    * **b. einen Raum für die Gemeinschaft und umweltfreundliches Gärtnern zu bieten.** *(offer a space for community and environmentally friendly gardening.)*
+    * **c. nur die schönsten Gärten der Stadt zu zeigen.** *(show only the most beautiful gardens in the city.)*
+
+**Full Text (Bilingual)**
+**Jedes Jahr verwandelt sich der Zentralpark in Fliederstadt in ein Paradies für Gartenliebhaber und Naturfreunde. Das "Gartenfestival im Park" lockt mit seiner Vielfalt an Pflanzen, Blumen und innovativen Gartengestaltungen. Es ist eine Plattform für Austausch, Inspiration und Entspannung inmitten der Natur.**
+*(Every year, the Central Park in Fliederstadt transforms into a paradise for garden lovers and nature enthusiasts. The "Garden Festival in the Park" attracts with its variety of plants, flowers, and innovative garden designs. It is a platform for exchange, inspiration, and relaxation in the midst of nature.)*
+
+**Die Veranstalterin, Frau Grün, hat in diesem Jahr Gartenexperten aus dem In- und Ausland eingeladen, um ihr Wissen in Workshops zu teilen. Zudem gibt es einen Markt, auf dem lokale Gärtner ihre Pflanzen und handgefertigte Gartenkunst anbieten. Frau Grüns Vision ist es, das Bewusstsein für umweltfreundliches Gärtnern zu stärken und einen Raum für kreative Ideen zu schaffen.**
+*(The organizer, Ms. Grün, has invited garden experts from home and abroad this year to share their knowledge in workshops. Additionally, there is a market where local gardeners offer their plants and handmade garden art. Ms. Grün's vision is to strengthen awareness for environmentally friendly gardening and to create a space for creative ideas.)*
+
+**Herr König, der im vergangenen Jahr den Preis für das beste Gartenkonzept gewann, wird auch dieses Mal seine neuesten Kreationen präsentieren. Er betont, wie wichtig solche Festivals für die Gemeinschaft der Gartenenthusiasten sind und freut sich auf den regen Austausch mit Gleichgesinnten.**
+*(Mr. König, who won the prize for the best garden concept last year, will present his latest creations again this time. He emphasizes how important such festivals are for the community of garden enthusiasts and looks forward to the lively exchange with like-minded people.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: c | 18: b**
+
+
+---
+
+## ✅ Modeltest 09: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie wollen Ihr Auto für den kommenden Winter vorbereiten und suchen nach einem zuverlässigen Autoservice.**
+   *(You want to prepare your car for the upcoming winter and are looking for a reliable car service.)*
+2. **Sie haben sich entschieden, Klavier zu lernen, und suchen nach einem Musikgeschäft, das Klaviere verkauft.**
+   *(You have decided to learn the piano and are looking for a music store that sells pianos.)*
+3. **Für die geplante Erneuerung Ihres Gartens suchen Sie nach einem Gartenarchitekten.**
+   *(For the planned renovation of your garden, you are looking for a landscape architect.)*
+4. **Sie suchen nach einem Geschenk und möchten handgemachte Keramik kaufen.**
+   *(You are looking for a gift and want to buy handmade ceramics.)*
+5. **Sie sind interessiert an einer Karriere im Marketing und suchen nach einem Einstiegspraktikum.**
+   *(You are interested in a career in marketing and are looking for an entry-level internship.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.LiteraturCafe-Buchgenuss.de** <br> Genießen Sie eine Tasse Kaffee, während Sie in unseren vielfältigen Buchauswahl schmökern. | **a) www.LiteraturCafe-Buchgenuss.de** <br> Enjoy a cup of coffee while browsing through our diverse selection of books. |
+| **b) www.MarketingStart-Up.de** <br> Starten Sie Ihre Karriere mit einem Praktikum in unserer dynamischen Marketingabteilung. | **b) www.MarketingStart-Up.de** <br> Start your career with an internship in our dynamic marketing department. |
+| **c) www.Gartenkunst-Architekten.de** <br> Lassen Sie Ihren Garten neu erblühen – mit individuellen Gestaltungskonzepten von unseren Experten. | **c) www.Gartenkunst-Architekten.de** <br> Let your garden bloom anew – with individual design concepts from our experts. |
+| **d) www.Fitness4You-Studio.de** <br> Ihr Weg zu einem gesunden Lebensstil – moderne Fitnessgeräte und persönliche Trainingspläne warten auf Sie. | **d) www.Fitness4You-Studio.de** <br> Your path to a healthy lifestyle – modern fitness equipment and personal training plans await you. |
+| **e) www.TastenTraum-Pianos.de** <br> Entdecken Sie Ihr musikalisches Talent mit einem unserer hochwertigen Klaviere für jedes Level. | **e) www.TastenTraum-Pianos.de** <br> Discover your musical talent with one of our high-quality pianos for every level. |
+| **f) www.WorldTravel-Reisebuero.de** <br> Ihr Traumurlaub beginnt hier – finden Sie bei uns inspirierende Reiseangebote und kompetente Beratung. | **f) www.WorldTravel-Reisebuero.de** <br> Your dream holiday starts here – find inspiring travel offers and competent advice with us. |
+| **g) www.KeramikKunst-Atelier.de** <br> Einzigartige, handgefertigte Keramik – das perfekte Geschenk für Ihre Liebsten oder für Ihr eigenes Heim. | **g) www.KeramikKunst-Atelier.de** <br> Unique, handmade ceramics – the perfect gift for your loved ones or for your own home. |
+| **h) www.AutoFit-Winterservice.de** <br> Machen Sie Ihr Auto winterfest! Unser Service umfasst Winterreifen, Frostschutz und mehr. | **h) www.AutoFit-Winterservice.de** <br> Make your car winter-proof! Our service includes winter tires, antifreeze, and more. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: h | 2: e | 3: c | 4: g | 5: b**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Telemedizinische Konsultationen sind nun möglich. (richtig/falsch?)**
+   *(Telemedical consultations are now possible. - True/False?)*
+7. **Die Online-Terminplanung...** *(Online appointment scheduling...)*
+   * **a) ist nicht verfügbar.** *(is not available.)*
+   * **b) soll den Prozess der Terminvergabe vereinfachen.** *(is intended to simplify the appointment process.)*
+   * **c) erhöht die Wartezeiten für Termine.** *(increases the waiting times for appointments.)*
+8. **Das Angebot an Vorsorgeuntersuchungen...** *(The range of preventive medical checkups...)*
+   * **a) wurde reduziert.** *(was reduced.)*
+   * **b) bleibt unverändert.** *(remains unchanged.)*
+   * **c) wurde erweitert.** *(was expanded.)*
+9. **Die Änderungen in der Praxis wurden vorgenommen, um...** *(The changes in the practice were made to...)*
+   * **a) die medizinische Versorgung zu verschlechtern.** *(worsen medical care.)*
+   * **b) die Verfügbarkeit der Ärzte zu reduzieren.** *(reduce the availability of doctors.)*
+   * **c) die medizinische Versorgung zu verbessern.** *(improve medical care.)*
+
+**Full Text (Bilingual)**
+**Liebe Patientinnen und Patienten unserer Praxis, um Ihnen eine bessere medizinische Versorgung bieten zu können, haben wir einige Änderungen vorgenommen:**
+*(Dear patients of our practice, in order to be able to offer you better medical care, we have made some changes:)*
+
+**Telemedizin: Wir bieten jetzt auch telemedizinische Konsultationen an. Dies ermöglicht es Ihnen, mit unseren Ärzten über Videoanruf zu sprechen, ohne die Praxis besuchen zu müssen.**
+*(Telemedicine: We now also offer telemedical consultations. This allows you to speak with our doctors via video call without having to visit the practice.)*
+
+**Online-Terminplanung: Sie können Ihre Termine nun bequem über unser neues Online-Portal buchen. Dies soll Wartezeiten reduzieren und die Terminvergabe vereinfachen.**
+*(Online Appointment Scheduling: You can now book your appointments conveniently via our new online portal. This is intended to reduce waiting times and simplify appointment scheduling.)*
+
+**Gesundheitsvorsorge: Wir haben unser Angebot an Vorsorgeuntersuchungen erweitert. Informieren Sie sich über unsere zusätzlichen Gesundheitschecks, die wir empfehlen.**
+*(Health Prevention: We have expanded our range of preventive checkups. Inform yourself about our additional health checks that we recommend.)*
+
+**Wir sind stets bemüht, den Bedürfnissen unserer Patienten gerecht zu werden und unsere Dienstleistungen zu verbessern.**
+*(We are always striving to meet the needs of our patients and to improve our services.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Richtig | 7: b | 8: c | 9: c**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Kundendienst-Erweiterung** *(Customer service expansion)*
+* **b. Einladung zur Nachbarschaftsversammlung** *(Invitation to neighborhood meeting)*
+* **c. Gesundheitsförderung im Unternehmen** *(Health promotion in the company)*
+* **d. Diskussionsabend Kunst** *(Art discussion evening)*
+* **e. Neue Öffnungszeiten** *(New opening hours)*
+* **f. Sicherheitsbesprechung** *(Security meeting)*
+* **g. Ankündigung der Gesundheitskampagne** *(Announcement of health campaign)*
+* **h. Vortrag zur zeitgenössischen Kunst** *(Lecture on contemporary art)*
+
+**10 Betreff:**
+**Liebe Nachbarn, zur Erinnerung: Die jährliche Nachbarschaftsversammlung findet am kommenden Samstag, den 10. September, um 16:00 Uhr im Gemeinschaftssaal statt. Wir werden wichtige Themen wie Sicherheit und die anstehenden Straßenarbeiten besprechen. Mitwirkende Grüße, Ihr Nachbarschaftsrat**
+*(Dear neighbors, as a reminder: the annual neighborhood meeting will take place this coming Saturday, September 10th, at 4:00 PM in the community hall. We will discuss important topics such as safety and the upcoming road works. Contributing regards, Your Neighborhood Council)*
+
+**11 Betreff:**
+**Sehr geehrte Damen und Herren, ich freue mich, Ihnen mitzuteilen, dass wir ab Oktober erweiterte Servicezeiten anbieten. Unser Kundenservice ist dann werktags bis 20:00 Uhr und samstags bis 16:00 Uhr erreichbar. Kundenorientierte Grüße, Service-Center CityBank**
+*(Dear Ladies and Gentlemen, I am pleased to inform you that we will be offering extended service hours starting in October. Our customer service will then be reachable on weekdays until 8:00 PM and on Saturdays until 4:00 PM. Customer-oriented regards, Service Center CityBank)*
+
+**12 Betreff:**
+**Hallo Team, wie besprochen, startet unsere Kampagne "Gesund am Arbeitsplatz" nächste Woche. Bitte werfen Sie einen Blick auf die Initiativen zu ergonomischem Arbeiten und den geplanten Gesundheitstagen in der Anlage. Aktive Grüße, Personalentwicklung**
+*(Hello Team, as discussed, our "Healthy at the Workplace" campaign starts next week. Please take a look at the initiatives for ergonomic working and the planned health days in the attachment. Active regards, Personnel Development)*
+
+**13 Betreff:**
+**Liebe Kunstliebhaber, nicht verpassen: Unser Vortrag zum Thema "Moderne Kunst im 21. Jahrhundert" findet morgen Abend um 19:30 Uhr statt. Der Eintritt ist frei, und wir freuen uns auf eine angeregte Diskussion nach dem Vortrag. Inspirierende Grüße, Kulturverein Moderne Horizonte**
+*(Dear art lovers, don't miss it: Our lecture on the topic of "Modern Art in the 21st Century" takes place tomorrow evening at 7:30 PM. Admission is free, and we look forward to a stimulating discussion after the lecture. Inspiring regards, Cultural Association Modern Horizons)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: b | 11: a | 12: c | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Sterne über Sommernacht" - Das Astronomie-Event für die ganze Familie**
+*("Stars over Summer Night" - The Astronomy Event for the Whole Family)*
+
+14. **"Sterne über Sommernacht" ist ein Event,**
+    *("Stars over Summer Night" is an event...)*
+    * **a. das ausschließlich bei schlechtem Wetter stattfindet.** *(that only takes place in bad weather.)*
+    * **b. bei dem nur professionelle Astronomen teilnehmen dürfen.** *(where only professional astronomers may participate.)*
+    * **c. dass eine Nacht lang Astronomie für Familien zugänglich macht.** *(that makes astronomy accessible to families for one night.)*
+
+15. **Dr. Lena Forsberg...**
+    * **a. setzt mobile Teleskope ein und fördert die wissenschaftliche Bildung.** *(uses mobile telescopes and promotes scientific education.)*
+    * **b. hält nur Vorträge im Planetarium.** *(only gives lectures in the planetarium.)*
+    * **c. verkauft Teleskope an die Besucher.** *(sells telescopes to the visitors.)*
+
+16. **Familie Weber...**
+    * **a. besucht das Event zum ersten Mal.** *(is visiting the event for the first time.)*
+    * **b. ist fasziniert von der Planetariumsshow und dem Austausch mit Experten.** *(is fascinated by the planetarium show and the exchange with experts.)*
+    * **c. interessiert sich nur für die Shows, nicht für die Beobachtung.** *(is only interested in the shows, not the observation.)*
+
+17. **Bei "Sterne über Sommernacht" können Besucher...**
+    *(At "Stars over Summer Night," visitors can...)*
+    * **a. keine Sterne beobachten.** *(not observe any stars.)*
+    * **b. nur im Planetarium die Sterne sehen.** *(only see the stars in the planetarium.)*
+    * **c. durch mobile Teleskope und an Lernstationen den Himmel erforschen.** *(explore the sky through mobile telescopes and at learning stations.)*
+
+18. **Das Hauptziel des Astronomie-Events ist,** *(The main goal of the astronomy event is,)*
+    * **a. Gewinne durch den Verkauf von Fernrohren zu erzielen.** *(to achieve profits through the sale of telescopes.)*
+    * **b. das Verständnis und die Begeisterung für Astronomie zu fördern.** *(to promote understanding and enthusiasm for astronomy.)*
+    * **c. den Park für nächtliche Veranstaltungen zu nutzen.** *(to use the park for nightly events.)*
+
+**Full Text (Bilingual)**
+**In der klaren Sommernacht veranstaltet die Sternwarte Sonnenblick ein Astronomie-Event, das Jung und Alt die Wunder des Nachthimmels näherbringt. "Sterne über Sommernacht" bietet eine Nacht voller Sternenbeobachtung, Planetariumsshows und interaktiven Lernstationen zum Thema Weltraum und Astronomie.**
+*(In the clear summer night, the Sonnenblick Observatory organizes an astronomy event that brings the wonders of the night sky closer to young and old. "Stars over Summer Night" offers a night full of stargazing, planetarium shows, and interactive learning stations on the subject of space and astronomy.)*
+
+**Die Organisatorin des Events, Astronomin Dr. Lena Forsberg, hat dieses Jahr auch mobile Teleskope im Einsatz, sodass Besucher die Sterne nicht nur vom festen Standpunkt der Sternwarte, sondern auch von verschiedenen Orten im Park aus betrachten können. Es ist ihr ein besonderes Anliegen, das Interesse an der Astronomie zu wecken und wissenschaftliche Bildung spielerisch zu vermitteln.**
+*(The organizer of the event, astronomer Dr. Lena Forsberg, also has mobile telescopes in use this year, so that visitors can view the stars not only from the fixed point of the observatory but also from various locations in the park. It is her special concern to awaken interest in astronomy and to convey scientific education in a playful way.)*
+
+**Familie Weber, Stammgäste der Veranstaltung, freut sich jedes Jahr auf die beeindruckende Planetariumsshow und die Gespräche mit den Astronomen. Für die Kinder ist es jedes Mal ein spannendes Abenteuer, und sie lernen spielerisch Neues über das Universum.**
+*(The Weber family, regulars at the event, looks forward every year to the impressive planetarium show and the conversations with the astronomers. For the children, it is an exciting adventure every time, and they learn new things about the universe through play.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: c | 15: a | 16: b | 17: c | 18: b**
+
+
+---
+
+## ✅ Modeltest 10: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie möchten Ihre Sprachkenntnisse in Spanisch verbessern und suchen nach einem intensiven Sprachkurs.**
+   *(You would like to improve your Spanish language skills and are looking for an intensive language course.)*
+2. **Sie planen eine große Jubiläumsfeier und suchen einen Partyservice, der auch vegetarische Optionen bietet.**
+   *(You are planning a large anniversary celebration and looking for a party service that also offers vegetarian options.)*
+3. **Sie sind an einem Fotografie-Workshop interessiert, der sich auf Porträtaufnahmen spezialisiert.**
+   *(You are interested in a photography workshop that specializes in portrait shots.)*
+4. **Sie benötigen eine professionelle Reinigungsfirma für Ihre Bürogebäude.**
+   *(You need a professional cleaning company for your office buildings.)*
+5. **Sie suchen nach einem Bio-Bauernmarkt in Ihrer Nähe, um frische, lokale Produkte zu kaufen.**
+   *(You are looking for an organic farmers' market near you to buy fresh, local products.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.SauberBüro-Reinigung.de** <br> Wir sorgen für glänzende Büros! Professionelle Reinigungsdienste für Geschäftsräume jeder Größe. | **a) www.SauberBüro-Reinigung.de** <br> We ensure shiny offices! Professional cleaning services for business premises of all sizes. |
+| **b) www.VeggieFest-Partyservice.de** <br> Ihr Partyservice für jede Gelegenheit – mit einer großen Auswahl an köstlichen vegetarischen Gerichten. | **b) www.VeggieFest-Partyservice.de** <br> Your party service for every occasion – with a large selection of delicious vegetarian dishes. |
+| **c) www.PortraitMeister-Workshops.de** <br> Lernen Sie die Kunst der Porträtfotografie in unseren professionellen Workshops – für Anfänger und Fortgeschrittene. | **c) www.PortraitMeister-Workshops.de** <br> Learn the art of portrait photography in our professional workshops – for beginners and advanced. |
+| **d) www.SpanischProfi-Kurse.de** <br> Verbessern Sie Ihr Spanisch in unserem intensiven Sprachkurs – ideal für schnelle Lernerfolge. | **d) www.SpanischProfi-Kurse.de** <br> Improve your Spanish in our intensive language course – ideal for fast learning success. |
+| **e) www.TechnikHilfe-Service.de** <br> Probleme mit Ihren elektronischen Geräten? Unsere Technikexperten bieten schnelle und effiziente Hilfe. | **e) www.TechnikHilfe-Service.de** <br> Problems with your electronic devices? Our technical experts offer fast and efficient help. |
+| **f) www.FitnessBoost-Studio.de** <br> Bringen Sie Ihren Körper in Form in unserem modernen Fitnessstudio mit persönlichen Trainingsplänen. | **f) www.FitnessBoost-Studio.de** <br> Get your body in shape in our modern gym with personal training plans. |
+| **g) www.KreativMalerei-Kurse.de** <br> Entdecken Sie Ihre kreative Ader in unseren Malerei-Kursen – Spaß und Entspannung garantiert. | **g) www.KreativMalerei-Kurse.de** <br> Discover your creative side in our painting classes – fun and relaxation guaranteed. |
+| **h) www.Gruenmarkt-FrischeErnte.de** <br> Besuchen Sie unseren Bio-Bauernmarkt und genießen Sie frische, lokal angebaute Produkte direkt vom Erzeuger. | **h) www.Gruenmarkt-FrischeErnte.de** <br> Visit our organic farmers' market and enjoy fresh, locally grown products directly from the producer. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: d | 2: b | 3: c | 4: a | 5: h**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Die "Bank am Fluss" bietet nun keine Mobile-Banking-Option an. (richtig/falsch?)**
+   *(The "Bank am Fluss" now offers no mobile banking option. - True/False?)*
+7. **Die erweiterten Öffnungszeiten...** *(The extended opening hours...)*
+   * **a) gelten auch am Wochenende.** *(also apply on the weekend.)*
+   * **b) sind nur werktags gültig.** *(are only valid on weekdays.)*
+   * **c) betreffen ausschließlich die Beratungsdienste.** *(only concern the advisory services.)*
+8. **Die Beratungsdienste...** *(The advisory services...)*
+   * **a) wurden reduziert.** *(were reduced.)*
+   * **b) sind nun ohne Termin verfügbar.** *(are now available without an appointment.)*
+   * **c) wurden durch zusätzliche Finanzberater verstärkt.** *(were strengthened by additional financial advisors.)*
+9. **Das Ziel der vorgenommenen Änderungen ist es,** *(The goal of the changes made is to...)*
+   * **a) die Bankgeschäfte komplizierter zu machen.** *(make banking transactions more complicated.)*
+   * **b) den Kunden weniger Service zu bieten.** *(offer the customers less service.)*
+   * **c) den Kunden besseren Service zu bieten.** *(offer the customers better service.)*
+
+**Full Text (Bilingual)**
+**Sehr geehrte Kunden der "Bank am Fluss", um unseren Service für Sie zu optimieren, haben wir einige wichtige Änderungen eingeführt:**
+*(Dear customers of the "Bank am Fluss", to optimize our service for you, we have introduced some important changes:)*
+
+**Mobile Banking: Unsere neue Mobile-Banking-App ist jetzt verfügbar. Damit können Sie Überweisungen tätigen, Ihren Kontostand überprüfen und vieles mehr, direkt von Ihrem Smartphone aus.**
+*(Mobile Banking: Our new mobile banking app is now available. With it, you can make transfers, check your account balance, and much more, directly from your smartphone.)*
+
+**Erweiterte Öffnungszeiten: Unsere Filialen haben jetzt auch am Samstag von 10:00 bis 14:00 Uhr geöffnet, um Ihnen mehr Flexibilität bei der Erledigung Ihrer Bankgeschäfte zu bieten.**
+*(Extended Opening Hours: Our branches are now also open on Saturday from 10:00 AM to 2:00 PM to offer you more flexibility in handling your banking transactions.)*
+
+**Beratungsdienste: Wir haben unser Team von Finanzberatern verstärkt. Vereinbaren Sie einen Termin für eine persönliche Beratung zu Ihren Anlageoptionen und Finanzplänen.**
+*(Advisory Services: We have strengthened our team of financial advisors. Arrange an appointment for a personal consultation regarding your investment options and financial plans.)*
+
+**Wir verpflichten uns, Ihnen stets den besten Service zu bieten und freuen uns darauf, Sie bei all Ihren Finanzangelegenheiten zu unterstützen.**
+*(We commit ourselves to always offering you the best service and look forward to supporting you in all your financial matters.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Falsch | 7: a | 8: c | 9: c**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die folgenden E-Mails 14–17 und die acht Betreffzeilen i–p. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the following emails 14–17 and the eight subject lines i–p. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **i. Jährliche Sicherheitsschulung** *(Annual safety training)*
+* **j. Neue Zeiten im Eltern-Kind-Zentrum** *(New times at the parent-child center)*
+* **k. Gartenmesse Event** *(Garden fair event)*
+* **l. Jährliche Sicherheitsschulung (Duplicate)**
+* **m. Buchdiskussion "Die Zeitenwende"** *(Book discussion "The Turning Point")*
+* **n. Erweiterung der Betreuungszeiten** *(Expansion of care times)*
+* **o. Grüne Oase Messe** *(Green Oasis Fair)*
+* **p. Sicherheitsunterweisung für Mitarbeiter** *(Safety instruction for employees)*
+
+**14 Betreff:**
+**Liebe Mitglieder des Buchclubs, nur eine kurze Erinnerung, dass unser nächstes Treffen zur Diskussion des Buches "Die Zeitenwende" diesen Freitag stattfindet. Wir treffen uns um 18:30 Uhr in der Stadtbibliothek. Bitte denken Sie daran, Ihre Notizen und Gedanken zum Buch mitzubringen. Lesefreudige Grüße, Ihr Literaturkreis Buchliebhaber**
+*(Dear members of the book club, just a short reminder that our next meeting to discuss the book "The Turning Point" takes place this Friday. We meet at 6:30 PM in the city library. Please remember to bring your notes and thoughts on the book. Joyful reading regards, Your Literature Circle Book Lovers)*
+
+**15 Betreff:**
+**Sehr geehrte Eltern, wir möchten Sie über die neuen Öffnungszeiten des Eltern-Kind-Zentrums informieren. Ab nächsten Monat sind wir von Montag bis Freitag von 8:00 bis 18:00 Uhr für Sie da. Familiäre Grüße, Eltern-Kind-Zentrum Sonnenschein**
+*(Dear parents, we would like to inform you about the new opening hours of the parent-child center. From next month, we are there for you from Monday to Friday from 8:00 AM to 6:00 PM. Family regards, Parent-Child Center Sonnenschein)*
+
+**16 Betreff:**
+**Guten Tag an alle Hobbygärtner, vergessen Sie nicht, dass unsere Gartenmesse "Grüne Oase" dieses Wochenende stattfindet. Es gibt Workshops, Pflanzenverkäufe und Beratungen zu nachhaltigem Gärtnern. Kommen Sie vorbei und tauschen Sie sich mit Gleichgesinnten aus! Grüne Grüße, Gartenfreunde Naturpur**
+*(Good day to all hobby gardeners, don't forget that our garden fair "Green Oasis" takes place this weekend. There are workshops, plant sales, and consultations on sustainable gardening. Come by and exchange ideas with like-minded people! Green regards, Garden Friends Pure Nature)*
+
+**17 Betreff:**
+**An alle Mitarbeiter, bitte beachten Sie, dass die jährliche Sicherheitsschulung nächste Woche Mittwoch um 10:00 Uhr im Konferenzraum stattfindet. Die Teilnahme ist für alle Angestellten verpflichtend. Sicherheitsbewusste Grüße, Ihre Geschäftsleitung**
+*(To all employees, please note that the annual safety training will take place next Wednesday at 10:00 AM in the conference room. Participation is mandatory for all employees. Safety-conscious regards, Your Management)*
+
+**Lösungen (Answer Key) Teil 3:**
+**14: m | 15: j | 16: o | 17: i**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Jazz unter den Sternen" – Ein musikalisches Highlight im Freien**
+*("Jazz under the Stars" – A Musical Highlight Outdoors)*
+
+14. **"Jazz unter den Sternen" bietet...**
+    *("Jazz under the Stars" offers...)*
+    * **a. ausschließlich traditionellen Jazz.** *(exclusively traditional jazz.)*
+    * **b. ein Indoor-Musikfestival.** *(an indoor music festival.)*
+    * **c. eine Mischung aus verschiedenen Jazzstilen in einer besonderen Umgebung.** *(a mix of different jazz styles in a special setting.)*
+
+15. **Frau Gabriele Becker...**
+    * **a. besucht das Event nur als Gast.** *(visits the event only as a guest.)*
+    * **b. organisiert das Event und kuratiert das musikalische Programm.** *(organizes the event and curates the musical program.)*
+    * **c. spielt selbst als Musikerin beim Festival.** *(plays as a musician at the festival herself.)*
+
+16. **Herr Fabian Richter...**
+    * **a. genießt die Atmosphäre und die musikalische Vielfalt des Events.** *(enjoys the atmosphere and musical variety of the event.)*
+    * **b. besucht das Festival zum ersten Mal.** *(is visiting the festival for the first time.)*
+    * **c. findet das Festival zu kommerziell.** *(finds the festival too commercial.)*
+
+17. **Die "Jazz-Lounge" ist...** *(The "Jazz Lounge" is...)*
+    * **a. ein VIP-Bereich für besondere Gäste.** *(a VIP area for special guests.)*
+    * **b. ein Ort, an dem Besucher den Musikern nahe sein und lokale Speisen probieren können.** *(a place where visitors can be close to the musicians and try local dishes.)*
+    * **c. nur für die Musiker und das Personal.** *(only for the musicians and the staff.)*
+
+18. **Das Ziel von "Jazz unter den Sternen" ist es,** *(The goal of "Jazz under the Stars" is to...)*
+    * **a. hohe Ticketpreise zu verlangen.** *(charge high ticket prices.)*
+    * **b. die Kultur und Gemeinschaft durch Musik zu fördern.** *(promote culture and community through music.)*
+    * **c. das Schloss Altburg zu renovieren.** *(renovate Altburg Castle.)*
+
+**Full Text (Bilingual)**
+**Der Sommer in Altburg wird jedes Jahr durch das Event "Jazz unter den Sternen" bereichert, das in den malerischen Ruinen des Altburger Schlosses stattfindet. Musikbegeisterte kommen zusammen, um den Klängen von lokalen und internationalen Jazzmusikern zu lauschen, die eine einzigartige Atmosphäre unter dem nächtlichen Himmel kreieren.**
+*(Summer in Altburg is enriched every year by the "Jazz under the Stars" event, which takes place in the picturesque ruins of Altburg Castle. Music enthusiasts come together to listen to the sounds of local and international jazz musicians who create a unique atmosphere under the night sky.)*
+
+**Die Eventmanagerin, Frau Gabriele Becker, ist bekannt für ihre Fähigkeit, eine vielseitige Auswahl an Jazz-Ensembles zusammenzustellen, die sowohl traditionellen Jazz als auch moderne Interpretationen darbieten. Dieses Jahr hat sie zudem eine besondere "Jazz-Lounge" eingerichtet, wo Besucher in entspannter Atmosphäre den Musikern näherkommen und lokale Köstlichkeiten genießen können.**
+*(The event manager, Ms. Gabriele Becker, is known for her ability to put together a versatile selection of jazz ensembles that perform both traditional jazz and modern interpretations. This year, she has also set up a special "Jazz Lounge," where visitors can get closer to the musicians in a relaxed atmosphere and enjoy local delicacies.)*
+
+**Herr Fabian Richter, ein langjähriger Fan des Festivals, schätzt vor allem die entspannte Stimmung und die Qualität der Musik. Er meint, dass "Jazz unter den Sternen" nicht nur ein Konzert ist, sondern eine Erfahrung, die die Seele berührt und das kulturelle Leben in Altburg belebt.**
+*(Mr. Fabian Richter, a longtime fan of the festival, especially values the relaxed atmosphere and the quality of the music. He believes that "Jazz under the Stars" is not just a concert, but an experience that touches the soul and enlivens cultural life in Altburg.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: c | 15: b | 16: a | 17: b | 18: b**
+
+
+
