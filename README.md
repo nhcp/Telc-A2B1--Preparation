@@ -621,3 +621,497 @@ This page contains all 10 Model Tests with full bilingual transcriptions.
 **Lösungen (Answer Key) Teil 4:**
 **14: b | 15: b | 16: b | 17: c | 18: a**
 
+
+---
+
+## ✅ Modeltest 05: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie planen eine Überraschungsparty und suchen einen DJ, der eine gute Musikauswahl bietet.**
+   *(You are planning a surprise party and looking for a DJ who offers a good music selection.)*
+2. **Sie möchten Ihre Sprachkenntnisse in Französisch auffrischen und suchen einen Kurs mit Muttersprachlern.**
+   *(You want to brush up your French language skills and are looking for a course with native speakers.)*
+3. **Sie brauchen einen kompetenten Handwerker, um Ihr Badezimmer zu renovieren.**
+   *(You need a competent craftsman to renovate your bathroom.)*
+4. **Sie sind an biologischer Ernährung interessiert und suchen nach einem Bio-Lebensmittel-Lieferservice.**
+   *(You are interested in organic nutrition and looking for an organic food delivery service.)*
+5. **Sie wollen Ihre alten Möbel restaurieren und suchen einen Fachbetrieb für Möbelrestauration.**
+   *(You want to restore your old furniture and are looking for a specialist business for furniture restoration.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.BioBox-Frischeparadies.de** <br> Frische Bio-Lebensmittel bequem nach Hause geliefert. Gesund essen, gesund leben! | **a) www.BioBox-Frischeparadies.de** <br> Fresh organic food conveniently delivered to your home. Eat healthy, live healthy! |
+| **b) www.TierSitter-Mobile.de** <br> Liebevolle und verlässliche Betreuung für Ihre Haustiere, wann immer Sie es brauchen. | **b) www.TierSitter-Mobile.de** <br> Loving and reliable care for your pets, whenever you need it. |
+| **c) www.Handwerksmeister-Klug.de** <br> Qualitätsarbeit von Meisterhand – Wir verwandeln Ihr Badezimmer in eine Wohlfühloase. | **c) www.Handwerksmeister-Klug.de** <br> Quality work from a master's hand – We transform your bathroom into an oasis of well-being. |
+| **d) www.DJ-SoundWave.de** <br> Die beste Musik für Ihre Events. DJ SoundWave bringt Schwung in jede Party mit individuell abgestimmten Playlists! | **d) www.DJ-SoundWave.de** <br> The best music for your events. DJ SoundWave brings momentum to every party with individually tailored playlists! |
+| **e) www.AntikMöbel-Kunsthandwerk.de** <br> Traditionelle Möbelrestauration mit Liebe zum Detail. Geben Sie Ihren Stücken neues Leben! | **e) www.AntikMöbel-Kunsthandwerk.de** <br> Traditional furniture restoration with attention to detail. Give your pieces new life! |
+| **f) www.SprachCamp-International.de** <br> Sprachen lernen, Freundschaften schließen – unser Sprachcamp macht's möglich! | **f) www.SprachCamp-International.de** <br> Learn languages, make friends – our language camp makes it possible! |
+| **g) www.Gartenbau-GreenOasis.de** <br> Ihr Garten, unser Projekt – vom Design bis zur Pflege. Alles aus einer Hand für Ihr grünes Paradies. | **g) www.Gartenbau-GreenOasis.de** <br> Your garden, our project – from design to maintenance. Everything from one source for your green paradise. |
+| **h) www.ParlezVous-Francais.de** <br> Verbessern Sie Ihr Französisch mit unseren interaktiven Kursen, geleitet von erfahrenen Muttersprachlern. | **h) www.ParlezVous-Francais.de** <br> Improve your French with our interactive courses, led by experienced native speakers. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: d | 2: h | 3: c | 4: a | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Im Büro wird Müll jetzt strikt getrennt. (richtig/falsch?)**
+   *(In the office, waste is now strictly separated. - True/False?)*
+7. **Im Rahmen des Gesundheitsmanagements...** *(As part of health management...)*
+   * **a) ist die Teilnahme an Fitnesskursen verpflichtend.** *(participation in fitness classes is mandatory.)*
+   * **b) gibt es keine neuen Angebote.** *(there are no new offers.)*
+   * **c) werden wöchentliche Fitnesskurse angeboten.** *(weekly fitness classes are offered.)*
+8. **Die Arbeitsplätze...** *(The workstations...)*
+   * **a) bleiben unverändert.** *(remain unchanged.)*
+   * **b) erhalten neue ergonomische Möbel und Pflanzen.** *(receive new ergonomic furniture and plants.)*
+   * **c) werden kleiner, um Platz zu sparen.** *(are getting smaller to save space.)*
+9. **Das Ziel der Neuerungen ist es,** *(The goal of the innovations is,)*
+   * **a) die Kosten zu senken.** *(to reduce costs.)*
+   * **b) die Umwelt zu belasten.** *(to burden the environment.)*
+   * **c) die Zufriedenheit und Gesundheit der Mitarbeiter zu fördern.** *(to promote the satisfaction and health of employees.)*
+
+**Full Text (Bilingual)**
+**Liebe Kolleginnen und Kollegen, um unser Büroumfeld zu optimieren, führen wir die folgenden Änderungen ein:**
+*(Dear colleagues, to optimize our office environment, we are introducing the following changes:)*
+
+**Klimaschutz im Büro: Wir haben jetzt ein neues System zur Mülltrennung eingeführt. Bitte entsorgen Sie Papier, Plastik und organische Abfälle in den dafür vorgesehenen Behältern. Außerdem werden alle Büromaterialien ab sofort umweltfreundlich beschafft.**
+*(Climate protection in the office: We have now introduced a new system for waste separation. Please dispose of paper, plastic, and organic waste in the designated containers. Furthermore, all office materials will now be procured in an environmentally friendly manner.)*
+
+**Gesundheitsmanagement: Für Ihre Gesundheit bieten wir jetzt wöchentliche Fitnesskurse im Büro an. Diese finden jeden Dienstag und Donnerstag von 17:30 bis 18:30 Uhr statt. Die Teilnahme ist freiwillig, aber wir ermutigen alle dazu.**
+*(Health management: For your health, we now offer weekly fitness classes in the office. These take place every Tuesday and Thursday from 5:30 PM to 6:30 PM. Participation is voluntary, but we encourage everyone to join.)*
+
+**Neugestaltung der Arbeitsplätze: Alle Arbeitsplätze werden mit ergonomischen Stühlen und höhenverstellbaren Schreibtischen ausgestattet. Zusätzlich sorgen Pflanzen für bessere Luftqualität und eine angenehmere Arbeitsatmosphäre.**
+*(Redesign of workstations: All workstations will be equipped with ergonomic chairs and height-adjustable desks. Additionally, plants will ensure better air quality and a more pleasant working atmosphere.)*
+
+**Wir hoffen, dass diese Maßnahmen zu Ihrer Zufriedenheit beitragen und unsere gemeinsamen Werte unterstützen.**
+*(We hope that these measures contribute to your satisfaction and support our shared values.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Richtig | 7: c | 8: b | 9: c**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Letzte Chance zur Anmeldung** *(Last chance to register)*
+* **b. Sommeröffnungszeiten** *(Summer opening hours)*
+* **c. Zusätzliche Theateraufführungen** *(Additional theater performances)*
+* **d. Bauarbeiten in der Lindenstraße** *(Construction work in Lindenstraße)*
+* **e. Einladung zum Firmenevent** *(Invitation to company event)*
+* **f. Erinnerung an Gesundheitswoche** *(Reminder of health week)*
+* **g. Veränderte Ladenzeiten** *(Changed shop hours)*
+* **h. Ankündigung von Straßenarbeiten** *(Announcement of road works)*
+
+**10 Betreff:**
+**Liebe Belegschaft, ich möchte Sie daran erinnern, dass die Anmeldefrist für die betriebliche Gesundheitswoche am kommenden Montag endet. Nutzen Sie die Chance für kostenlose Gesundheitschecks, Fitnesskurse und Vorträge zum Thema Ernährung. Gesunde Grüße, Monika Lenz (Betriebliches Gesundheitsmanagement)**
+*(Dear staff, I would like to remind you that the registration deadline for the company health week ends this coming Monday. Take the chance for free health checks, fitness classes, and lectures on the topic of nutrition. Healthy regards, Monika Lenz (Occupational Health Management))*
+
+**11 Betreff:**
+**Hallo liebe Kunden, wir möchten Sie über unsere geänderten Öffnungszeiten im Sommer informieren. Vom 1. Juli bis 31. August öffnen wir eine Stunde später und schließen eine Stunde früher. Wir danken Ihnen für Ihr Verständnis und wünschen einen schönen Sommer. Ihr Team vom "Café Morgensonne"**
+*(Hello dear customers, we would like to inform you about our changed opening hours in the summer. From July 1st to August 31st, we will open one hour later and close one hour earlier. We thank you for your understanding and wish you a beautiful summer. Your team from "Café Morgensonne")*
+
+**12 Betreff:**
+**Liebe Theaterfreunde, aufgrund der großen Nachfrage haben wir zusätzliche Vorstellungen unserer Erfolgskomödie "Lachen ist die beste Medizin" angesetzt. Sichern Sie sich schnell Ihre Tickets für die zusätzlichen Termine im August. Vorhang auf! Kulturhaus Rosenheim**
+*(Dear theater friends, due to high demand, we have scheduled additional performances of our successful comedy "Laughter is the best medicine." Secure your tickets quickly for the additional dates in August. Curtain up! Kulturhaus Rosenheim)*
+
+**13 Betreff:**
+**Werte Anwohner der Lindenstraße, die Stadtwerke werden in der nächsten Woche mit der Erneuerung der Wasserleitungen beginnen. Es kann zeitweise zu Lärmbelästigungen kommen. Wir bitten um Ihr Verständnis für diese notwendigen Maßnahmen. Informative Grüße, Stadtwerke Musterstadt**
+*(Dear residents of Lindenstraße, the municipal utilities will begin renewing the water pipes next week. There may be temporary noise disturbances. We ask for your understanding for these necessary measures. Informative regards, Municipal Utilities Musterstadt)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: f | 11: b | 12: c | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Lauf für einen guten Zweck" – Gemeinschaftsgeist fördern und helfen**
+*("Run for a Good Cause" – Promoting Community Spirit and Helping)*
+
+14. **Der "Lauf für einen guten Zweck" wird veranstaltet, um...**
+    *(The "Run for a Good Cause" is organized to...)*
+    * **a. professionelle Sportler zu fördern.** *(promote professional athletes.)*
+    * **b. Geld für wohltätige Zwecke zu sammeln und den Gemeinschaftsgeist zu stärken.** *(collect money for charitable purposes and strengthen community spirit.)*
+    * **c. die Stadt Grünberg für Touristen attraktiver zu machen.** *(make the city of Grünberg more attractive for tourists.)*
+
+15. **Sarah Neumann...**
+    * **a. ist eine Teilnehmerin des Laufs.** *(is a participant in the run.)*
+    * **b. organisiert die Veranstaltung und sucht Sponsoren.** *(organizes the event and looks for sponsors.)*
+    * **c. berichtet für lokale Medien über den Lauf.** *(reports for local media about the run.)*
+
+16. **Die Atmosphäre beim Lauf ist...**
+    * **a. exklusiv und nur für erfahrene Läufer gedacht.** *(exclusive and intended only for experienced runners.)*
+    * **b. freundlich und inklusiv für alle Teilnehmer.** *(friendly and inclusive for all participants.)*
+    * **c. wettbewerbsorientiert und ernst.** *(competitive and serious.)*
+
+17. **Bürgermeister Thomas Berger...**
+    * **a. sieht den Lauf als eine Pflichtveranstaltung.** *(sees the run as a mandatory event.)*
+    * **b. ist stolz auf die Solidarität und das Gesundheitsbewusstsein seiner Bürger.** *(is proud of the solidarity and health awareness of his citizens.)*
+    * **c. nimmt selbst am Lauf als Spitzensportler teil.** *(participates in the run himself as a top athlete.)*
+
+18. **Das Event unterstützt...**
+    * **a. jedes Jahr denselben sozialen Zweck.** *(the same social cause every year.)*
+    * **b. keine sozialen Zwecke, sondern nur den Sport.** *(no social causes, but only sports.)*
+    * **c. unterschiedliche soziale Zwecke jedes Jahr.** *(different social causes every year.)*
+
+**Full Text (Bilingual)**
+**Jedes Jahr im Frühling veranstaltet die Stadt Grünberg den "Lauf für einen guten Zweck". Dieses Event zieht Menschen aus der ganzen Region an, die bereit sind, für wohltätige Organisationen zu laufen und zu spenden. Der Lauf hat nicht nur das Ziel, Geld für den guten Zweck zu sammeln, sondern auch, den Gemeinschaftsgeist zu stärken und das Bewusstsein für Gesundheit und Fitness zu fördern.**
+*(Every year in spring, the city of Grünberg organizes the "Run for a Good Cause." This event attracts people from the entire region who are ready to run and donate to charitable organizations. The run aims not only to collect money for a good cause but also to strengthen community spirit and promote awareness of health and fitness.)*
+
+**Organisiert wird die Veranstaltung von der gemeinnützigen Organisation "Hilfe Hand in Hand", die von der engagierten Sarah Neumann geleitet wird. Sie arbeitet das ganze Jahr über daran, Sponsoren zu gewinnen, die Strecke sicher zu gestalten und lokale Medien für die Berichterstattung zu mobilisieren.**
+*(The event is organized by the non-profit organization "Hilfe Hand in Hand," led by the dedicated Sarah Neumann. She works all year round to win sponsors, make the route safe, and mobilize local media for reporting.)*
+
+**Der Lauf ist bekannt für seine freundliche Atmosphäre, bei der Spitzensportler neben Hobbyläufern und Familien anzutreffen sind. Für Bürgermeister Thomas Berger ist es ein Highlight des Jahres, das zeigt, wie solidarisch und gesundheitsbewusst die Bürger seiner Stadt sind. Jedes Jahr wird ein anderer sozialer Zweck unterstützt, wodurch die Vielfältigkeit und der Zusammenhalt der Gemeinde gefördert werden.**
+*(The run is known for its friendly atmosphere, where top athletes can be found alongside hobby runners and families. For Mayor Thomas Berger, it is a highlight of the year that shows how solidary and health-conscious the citizens of his city are. Every year, a different social cause is supported, thereby promoting the diversity and cohesion of the community.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: b | 18: c**
+
+---
+
+## ✅ Modeltest 06: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie möchten am Wochenende einen entspannenden Tag in einem Wellness-Spa verbringen.**
+   *(You would like to spend a relaxing day in a wellness spa this weekend.)*
+2. **Sie suchen eine erfahrene Garten- und Landschaftsbau-Firma für die Neugestaltung Ihres Gartens.**
+   *(You are looking for an experienced garden and landscaping company to redesign your garden.)*
+3. **Sie sind auf der Suche nach einem neuen Hobby und interessieren sich für Malereikurse.**
+   *(You are looking for a new hobby and are interested in painting classes.)*
+4. **Sie benötigen einen professionellen Reinigungsservice für Ihre frisch renovierte Wohnung.**
+   *(You need a professional cleaning service for your freshly renovated apartment.)*
+5. **Sie wollen Ihre Kochfähigkeiten verbessern und suchen einen Kochkurs für mediterrane Küche.**
+   *(You want to improve your cooking skills and are looking for a cooking class for Mediterranean cuisine.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.ComputerStart-EinfachLernen.de** <br> Computerkurse für Einsteiger: Verlieren Sie die Angst vor der Technik und werden Sie zum Computerprofi. | **a) www.ComputerStart-EinfachLernen.de** <br> Computer courses for beginners: Lose your fear of technology and become a computer pro. |
+| **b) www.BlitzBlank-Reinigung.de** <br> Unser Reinigungsteam sorgt für makellose Sauberkeit in Ihrem Zuhause. Schnell, gründlich und zuverlässig. | **b) www.BlitzBlank-Reinigung.de** <br> Our cleaning team ensures spotless cleanliness in your home. Fast, thorough, and reliable. |
+| **c) www.KreativAtelier-Artistik.de** <br> Entdecken Sie den Künstler in sich mit unseren Mal- und Zeichenkursen. Für Anfänger und Fortgeschrittene. | **c) www.KreativAtelier-Artistik.de** <br> Discover the artist in you with our painting and drawing classes. For beginners and advanced students. |
+| **d) www.GrünDesign-Gartenbau.de** <br> Ihr Partner für kreative Gartengestaltung und professionelle Landschaftsbauarbeiten. Verwirklichen Sie Ihren Traumgarten mit uns. | **d) www.GrünDesign-Gartenbau.de** <br> Your partner for creative garden design and professional landscaping. Realize your dream garden with us. |
+| **e) www.Mediterrano-Kochkunst.de** <br> Tauchen Sie ein in die Welt der mediterranen Aromen und lernen Sie, wie man authentische Gerichte zubereitet. | **e) www.Mediterrano-Kochkunst.de** <br> Immerse yourself in the world of Mediterranean flavors and learn how to prepare authentic dishes. |
+| **f) www.Spaoase-Entspannung.de** <br> Gönnen Sie sich eine Auszeit in unserer Wellness-Oase. Entspannende Massagen und Sauna warten auf Sie. | **f) www.Spaoase-Entspannung.de** <br> Treat yourself to a timeout in our wellness oasis. Relaxing massages and sauna are waiting for you. |
+| **g) www.SprachenMixer-Global.de** <br> Lernen Sie neue Sprachen und treffen Sie Menschen mit ähnlichen Interessen in unseren Sprachkursen. | **g) www.SprachMixer-Global.de** <br> Learn new languages and meet people with similar interests in our language courses. |
+| **h) www.FitnessPower-Club.de** <br> Bringen Sie Ihren Körper in Form mit unseren maßgeschneiderten Fitnessprogrammen für jedes Niveau. | **h) www.FitnessPower-Club.de** <br> Get your body in shape with our tailored fitness programs for every level. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: f | 2: d | 3: c | 4: b | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Die Fitnessgeräte im Verein sind veraltet. (richtig/falsch?)**
+   *(The fitness equipment in the club is outdated. - True/False?)*
+7. **Im Kursangebot des Sportvereins...** *(In the sports club's course offerings...)*
+   * **a) gibt es nur Yoga und Pilates.** *(there is only Yoga and Pilates.)*
+   * **b) sind jetzt auch Aquafitness und Zumba verfügbar.** *(Aquafitness and Zumba are now also available.)*
+   * **c) kann man keine Kurse online einsehen.** *(one cannot view courses online.)*
+8. **Das Club-Café...** *(The club cafe...)*
+   * **a) bietet ausschließlich Fast Food an.** *(offers exclusively fast food.)*
+   * **b) steht den Mitgliedern nicht zur Verfügung.** *(is not available to members.)*
+   * **c) hat jetzt eine Auswahl an gesunden Snacks und Smoothies.** *(now has a selection of healthy snacks and smoothies.)*
+9. **Die Neuerungen im Sportverein sollen...** *(The innovations in the sports club are intended to...)*
+   * **a) den Aufenthalt der Mitglieder verschlechtern.** *(worsen the members' stay.)*
+   * **b) für weniger Vielfalt im Kursangebot sorgen.** *(provide less variety in the courses.)*
+   * **c) die Zufriedenheit der Mitglieder erhöhen.** *(increase member satisfaction.)*
+
+**Full Text (Bilingual)**
+**Liebe Mitglieder des Sportvereins, wir freuen uns, Ihnen einige aufregende Neuerungen in unserem Club mitteilen zu können:**
+*(Dear members of the sports club, we are pleased to inform you of some exciting innovations in our club:)*
+
+**Trainingsausrüstung: Unsere Fitnessgeräte sind auf dem neuesten Stand der Technik aktualisiert worden. Nutzen Sie unsere neuen Laufbänder, Cross-Trainer und Gewichtsmaschinen für ein effektives Training.**
+*(Training equipment: Our fitness equipment has been updated to the latest state of the art. Use our new treadmills, cross-trainers, and weight machines for an effective workout.)*
+
+**Kursangebot: Zusätzlich zu unseren beliebten Kursen wie Yoga und Pilates bieten wir nun auch Aquafitness und Zumba an. Alle Kurse finden Sie in unserem Online-Kursplan.**
+*(Course offerings: In addition to our popular courses like Yoga and Pilates, we now also offer Aquafitness and Zumba. You can find all courses in our online course schedule.)*
+
+**Club-Café: Nach dem Training können Sie im neu eingerichteten Club-Café entspannen. Es bietet eine Auswahl an gesunden Snacks und Smoothies zur Erfrischung.**
+*(Club Cafe: After training, you can relax in the newly furnished club cafe. It offers a selection of healthy snacks and smoothies for refreshment.)*
+
+**Wir hoffen, dass Sie diese Verbesserungen genießen und Ihren Aufenthalt bei uns noch mehr schätzen werden.**
+*(We hope you enjoy these improvements and will appreciate your stay with us even more.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Falsch | 7: b | 8: c | 9: c**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Club-Eröffnung** *(Club opening)*
+* **b. Restaurantrenovierung** *(Restaurant renovation)*
+* **c. Nachbarschaftsfest** *(Neighborhood festival)*
+* **d. Sprachkursanmeldung** *(Language course registration)*
+* **e. Einladung zum Sommerfest** *(Invitation to summer festival)*
+* **f. Schließungshinweis** *(Closing notice)*
+* **g. Anmeldeende naht** *(Registration deadline approaching)*
+* **h. Neue Trainingsmöglichkeiten** *(New training opportunities)*
+
+**10 Betreff:**
+**Sehr geehrte Clubmitglieder, wir freuen uns, die Eröffnung unseres neuen Fitnessstudios im Club anzukündigen. Ab dem 1. September stehen Ihnen modernste Trainingsgeräte zur Verfügung. Mitglieder sind eingeladen, an der Eröffnungsfeier teilzunehmen. Sportliche Grüße, Clubmanagement**
+*(Dear club members, we are pleased to announce the opening of our new fitness studio in the club. Starting September 1st, state-of-the-art training equipment will be available to you. Members are invited to participate in the opening ceremony. Sporting regards, Club Management)*
+
+**11 Betreff:**
+**Werte Gäste, bitte beachten Sie, dass das Restaurant "Zur alten Mühle" wegen Renovierungsarbeiten vom 15. bis einschließlich 30. August geschlossen bleibt. Wir freuen uns, Sie ab dem 1. September in unserem neu gestalteten Ambiente begrüßen zu dürfen. Kulinarische Grüße, Das Team von "Zur alten Mühle"**
+*(Dear guests, please note that the restaurant "Zur alten Mühle" will remain closed due to renovation work from August 15th up to and including August 30th. We look forward to welcoming you to our newly designed ambiance starting September 1st. Culinary regards, The Team from "Zur alten Mühle")*
+
+**12 Betreff:**
+**Liebe Nachbarschaft, wir planen ein Straßenfest für den 10. September, um das Gemeinschaftsgefühl zu stärken und unsere Nachbarschaft zu feiern. Für Spiel, Spaß und das leibliche Wohl ist gesorgt. Freiwillige Helfer können sich gerne melden. Gemeinschaftliche Grüße, Organisationsteam Straßenfest**
+*(Dear neighborhood, we are planning a street festival for September 10th to strengthen the sense of community and celebrate our neighborhood. Games, fun, and food are provided. Volunteers are welcome to get in touch. Community regards, Street Festival Organizing Team)*
+
+**13 Betreff:**
+**Liebe Studierende, wir möchten Sie daran erinnern, dass die Anmeldefrist für die Sprachkurse im Wintersemester am 20. August endet. Nutzen Sie die Gelegenheit, neue Sprachen zu lernen und interkulturelle Kompetenzen zu erweitern. Bildungsgrüße, Sprachenzentrum der Universität**
+*(Dear students, we would like to remind you that the registration deadline for language courses in the winter semester ends on August 20th. Take the opportunity to learn new languages and expand intercultural skills. Educational regards, University Language Center)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: a | 11: f | 12: c | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Stadtradeln" – Raus aus dem Auto, rauf aufs Fahrrad**
+*("City Cycling" – Out of the car, onto the bike)*
+
+14. **"Stadtradeln" in Kleinburg zielt darauf ab,**
+    *("City Cycling" in Kleinburg aims to...)*
+    * **a. den Autoverkehr zu erhöhen.** *(increase car traffic.)*
+    * **b. Fahrradfahren zu fördern und CO2-Emissionen zu reduzieren.** *(promote cycling and reduce CO2 emissions.)*
+    * **c. den Verkauf von Fahrrädern zu steigern.** *(increase the sale of bicycles.)*
+
+15. **Frau Müller...**
+    * **a. ist eine Teilnehmerin, die viele Kilometer fährt.** *(is a participant who rides many kilometers.)*
+    * **b. leitet das Projekt und organisiert Informationsveranstaltungen.** *(leads the project and organizes information events.)*
+    * **c. bietet selbst Fahrrad-Service-Checks an.** *(offers bicycle service checks herself.)*
+
+16. **Herr Schmidt...**
+    * **a. fährt nur am Wochenende Fahrrad.** *(only rides a bike on the weekend.)*
+    * **b. hat bereits einen wesentlichen Beitrag zur Aktion geleistet.** *(has already made a significant contribution to the campaign.)*
+    * **c. findet die Aktion nicht sinnvoll und nimmt widerwillig teil.** *(does not find the campaign useful and participates reluctantly.)*
+
+17. **Die Initiative "Stadtradeln"...**
+    * **a. wird ausschließlich von der Stadtverwaltung durchgeführt.** *(is carried out exclusively by the city administration.)*
+    * **b. schafft eine Gemeinschaft unter den Radfahrern.** *(creates a community among the cyclists.)*
+    * **c. ist auf professionelle Radfahrer beschränkt.** *(is limited to professional cyclists.)*
+
+18. **Eines der Ziele der Kampagne ist es,**
+    * **a. gesundheitliche Vorteile des Radfahrens zu ignorieren.** *(to ignore the health benefits of cycling.)*
+    * **b. die Bürger zum Kauf neuer Autos zu bewegen.** *(to move citizens to buy new cars.)*
+    * **c. die Lebensqualität in der Stadt zu verbessern und die Umwelt zu schützen.** *(to improve the quality of life in the city and protect the environment.)*
+
+**Full Text (Bilingual)**
+**Die Aktion "Stadtradeln" in Kleinburg ist ein Teil der bundesweiten Kampagne, die Bürger dazu motivieren soll, das Auto stehen zu lassen und stattdessen das Fahrrad für den Weg zur Arbeit oder in der Freizeit zu nutzen. Ziel ist es, den CO2-Ausstoß zu verringern und die Lebensqualität in der Stadt zu erhöhen. Als Projektleiterin hat sich Frau Müller das ehrgeizige Ziel gesetzt, in diesem Jahr die Marke von 100.000 geradelten Kilometern zu knacken.**
+*(The "City Cycling" campaign in Kleinburg is part of a nationwide campaign designed to motivate citizens to leave the car behind and use the bicycle instead for the way to work or in their free time. The goal is to reduce CO2 emissions and increase the quality of life in the city. As project leader, Ms. Müller has set the ambitious goal of breaking the mark of 100,000 cycled kilometers this year.)*
+
+**Sie organisiert Info-Veranstaltungen, stellt Werbematerialien bereit und kooperiert mit lokalen Fahrradläden, die kostenlose Service-Checks für Teilnehmer anbieten. Herr Schmidt, ein engagierter Teilnehmer der Aktion, hat bereits 500 Kilometer beigetragen. Er genießt die frische Luft auf dem Weg zur Arbeit und freut sich über die gesundheitlichen Vorteile. Er ist begeistert von der Gemeinschaft, die sich durch "Stadtradeln" bildet, und ermutigt auch Kollegen und Freunde zur Teilnahme.**
+*(She organizes info events, provides promotional materials, and cooperates with local bike shops that offer free service checks for participants. Mr. Schmidt, a committed participant in the campaign, has already contributed 500 kilometers. He enjoys the fresh air on the way to work and is happy about the health benefits. He is enthusiastic about the community that forms through "City Cycling" and also encourages colleagues and friends to participate.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: b | 18: c**
+
+---
+
+## ✅ Modeltest 07: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie möchten Ihre Sommergarderobe mit trendigen Accessoires aufpeppen.**
+   *(You would like to spice up your summer wardrobe with trendy accessories.)*
+2. **Sie suchen nach einem vertrauenswürdigen Umzugsunternehmen für Ihren bevorstehenden Umzug.**
+   *(You are looking for a trustworthy moving company for your upcoming move.)*
+3. **Ihr Interesse gilt der Fotografie, insbesondere möchten Sie einen Kurs für Landschaftsfotografie besuchen.**
+   *(Your interest is in photography; in particular, you would like to attend a course for landscape photography.)*
+4. **Sie haben beschlossen, ein Instrument zu lernen und interessieren sich für Klavierunterricht.**
+   *(You have decided to learn an instrument and are interested in piano lessons.)*
+5. **Sie planen eine große Feier und benötigen einen Cateringservice, der auch vegetarische Optionen anbietet.**
+   *(You are planning a large celebration and need a catering service that also offers vegetarian options.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Naturblich-Fotokurse.de** <br> Erfassen Sie die Schönheit der Natur mit Ihrer Kamera. Unser Kurs für Landschaftsfotografie zeigt Ihnen, wie es geht! | **a) www.Naturblich-Fotokurse.de** <br> Capture the beauty of nature with your camera. Our course for landscape photography shows you how it's done! |
+| **b) www.Sorglos-Umzugsservice.de** <br> Ihr Umzug sollte stressfrei sein! Verlassen Sie sich auf unsere erfahrenen Umzugsprofis für einen sorglosen Start in Ihrem neuen Zuhause. | **b) www.Sorglos-Umzugsservice.de** <br> Your move should be stress-free! Rely on our experienced moving professionals for a carefree start in your new home. |
+| **c) www.ModeTrends-Accessoires.de** <br> Stilvolle Accessoires für jede Gelegenheit! Entdecken Sie unsere neueste Sommerkollektion und geben Sie Ihrem Outfit das gewisse Etwas. | **c) www.ModeTrends-Accessoires.de** <br> Stylish accessories for every occasion! Discover our latest summer collection and give your outfit that certain something. |
+| **d) www.TastenTraum-Klavier.de** <br> Der Klang des Klaviers fasziniert Sie? Beginnen Sie Ihre musikalische Reise mit unseren erfahrenen Lehrkräften. | **d) www.TastenTraum-Klavier.de** <br> Does the sound of the piano fascinate you? Begin your musical journey with our experienced teachers. |
+| **e) www.GrünGourmet-Catering.de** <br> Schmackhaft und gesund! Unser Cateringservice bietet eine große Auswahl an köstlichen vegetarischen Gerichten für Ihr Event. | **e) www.GrünGourmet-Catering.de** <br> Tasty and healthy! Our catering service offers a large selection of delicious vegetarian dishes for your event. |
+| **f) www.Sprachwelten-Institut.de** <br> Erobern Sie neue Sprachwelten! Unsere Kurse öffnen Türen zu neuen Kulturen und Kommunikation. | **f) www.Sprachwelten-Institut.de** <br> Conquer new language worlds! Our courses open doors to new cultures and communication. |
+| **g) www.HausundHof-Handwerker.de** <br> Handwerksarbeiten rund ums Haus? Unser Team steht für Qualität und Zuverlässigkeit bei all Ihren Projekten. | **g) www.HausundHof-Handwerker.de** <br> Handyman work around the house? Our team stands for quality and reliability in all your projects. |
+| **h) www.BuchClub-Literaturliebe.de** <br> Tauchen Sie ein in die Welt der Bücher. Unser Buchclub bietet regelmäßige Treffen und Diskussionen für Literaturliebhaber. | **h) www.BuchClub-Literaturliebe.de** <br> Immerse yourself in the world of books. Our book club offers regular meetings and discussions for book lovers. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: c | 2: b | 3: a | 4: d | 5: e**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Das Kulturzentrum hat sein Angebot an Veranstaltungen reduziert. (richtig/falsch?)**
+   *(The cultural center has reduced its range of events. - True/False?)*
+7. **Die neuen Workshops und Kurse...** *(The new workshops and courses...)*
+   * **a) konzentrieren sich ausschließlich auf Malerei.** *(concentrate exclusively on painting.)*
+   * **b) umfassen verschiedene kulturelle Themen.** *(include various cultural topics.)*
+   * **c) sind nur für professionelle Künstler gedacht.** *(are intended only for professional artists.)*
+8. **Das erweiterte Kinderprogramm...** *(The expanded children's program...)*
+   * **a) schließt kreative Workshops ein.** *(includes creative workshops.)*
+   * **b) besteht nur aus interaktiven Führungen.** *(consists only of interactive tours.)*
+   * **c) ist für Erwachsene gedacht.** *(is intended for adults.)*
+9. **Ziel des Kulturzentrums ist es,** *(The goal of the cultural center is,)*
+   * **a) die Besucherzahlen zu verringern.** *(to reduce visitor numbers.)*
+   * **b) die Inspiration und Bereicherung der Gäste zu fördern.** *(to promote the inspiration and enrichment of the guests.)*
+   * **c) ausschließlich kommerzielle Veranstaltungen anzubieten.** *(to offer exclusively commercial events.)*
+
+**Full Text (Bilingual)**
+**Liebe Gäste unseres Kulturzentrums, wir möchten Sie über die neuesten Entwicklungen in unserem Programm informieren:**
+*(Dear guests of our cultural center, we would like to inform you about the latest developments in our program:)*
+
+**Veranstaltungskalender: Unser Kulturzentrum bietet nun eine breitere Palette von Veranstaltungen an, darunter Theateraufführungen, Kunstausstellungen und Musikabende. Den vollständigen Veranstaltungskalender finden Sie auf unserer Webseite.**
+*(Event Calendar: Our cultural center now offers a wider range of events, including theater performances, art exhibitions, and music evenings. You can find the full event calendar on our website.)*
+
+**Workshops und Kurse: Ab diesem Monat bieten wir eine Reihe von Workshops an, die sich mit verschiedenen kulturellen Themen befassen, von Malerei und Bildhauerei bis hin zu Literatur und Fotografie.**
+*(Workshops and Courses: Starting this month, we are offering a series of workshops dealing with various cultural themes, from painting and sculpture to literature and photography.)*
+
+**Kinderprogramm: Für unsere jüngeren Besucher haben wir das Kinderprogramm erweitert, das jetzt kreative Workshops und interaktive Führungen beinhaltet.**
+*(Children's Program: For our younger visitors, we have expanded the children's program, which now includes creative workshops and interactive tours.)*
+
+**Ihr Besuch bei uns soll inspirierend und bereichernd sein. Wir freuen uns auf Sie.**
+*(Your visit with us should be inspiring and enriching. We look forward to seeing you.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Falsch | 7: b | 8: a | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Abonnenten-Information** *(Subscriber information)*
+* **b. Vorbereitung auf die Besprechung** *(Preparation for the meeting)*
+* **c. Einladung zum Stadtfest** *(Invitation to the city festival)*
+* **d. Hochschul-Event** *(University event)*
+* **e. Team-Meeting** *(Team meeting)*
+* **f. Willkommen zur neuen Spielzeit** *(Welcome to the new season)*
+* **g. Monatlicher Jour Fixe** *(Monthly regular meeting)*
+* **h. Tag der offenen Tür** *(Open house day)*
+
+**10 Betreff:**
+**Liebe Abonnenten des Stadttheaters, die neue Spielzeit beginnt bald, und wir möchten Sie über unser verbessertes Abonnentensystem informieren. Sie können jetzt Ihre Plätze für die gesamte Saison online reservieren und verwalten. Theatergrüße, Ihr Stadttheater-Team**
+*(Dear subscribers of the city theater, the new season is starting soon, and we would like to inform you about our improved subscriber system. You can now reserve and manage your seats for the entire season online. Theater regards, Your City Theater Team)*
+
+**11 Betreff:**
+**Liebe Kollegen und Kolleginnen, ich möchte Sie an unsere monatliche Abteilungsbesprechung erinnern, die diesen Freitag um 15:00 Uhr stattfindet. Bitte bereiten Sie einen kurzen Bericht über Ihre aktuellen Projekte vor. Grüße aus dem Büro, Simone Jäger (Abteilungsleiterin)**
+*(Dear colleagues, I would like to remind you of our monthly department meeting, which takes place this Friday at 3:00 PM. Please prepare a short report on your current projects. Greetings from the office, Simone Jäger (Department Head))*
+
+**12 Betreff:**
+**Geschätzte Anwohner, dieses Wochenende findet das alljährliche Stadtfest statt. Wir erwarten eine Vielzahl von Besuchern und freuen uns auf ein buntes Programm mit Musik, Essen und Aktivitäten für die ganze Familie. Feierliche Grüße, Das Organisationskomitee**
+*(Estimated residents, this weekend the annual city festival takes place. We expect a large number of visitors and look forward to a colorful program with music, food, and activities for the whole family. Festive regards, The Organizing Committee)*
+
+**13 Betreff:**
+**Liebe Studieninteressierte, unsere Hochschule veranstaltet am nächsten Samstag einen Tag der offenen Tür. Nutzen Sie die Chance, unseren Campus und Studiengänge kennenzulernen. Wir freuen uns auf Ihren Besuch. Informative Grüße, Zentrale Studienberatung**
+*(Dear prospective students, our university is holding an open house day next Saturday. Take the chance to get to know our campus and study programs. We look forward to your visit. Informative regards, Central Student Advisory Service)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: f | 11: b | 12: c | 13: h**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Lesenacht in der Bücherei" – Ein Abenteuer zwischen den Regalen**
+*("Reading Night in the Library" – An Adventure Between the Shelves)*
+
+14. **Die "Lesenacht" in der Stadtbücherei Buchheim...**
+    *(The "Reading Night" in the Buchheim city library...)*
+    * **a. schließt für Besucher während der Nacht.** *(closes for visitors during the night.)*
+    * **b. ist ein jährliches Event, das das Lesen und die Gemeinschaft feiert.** *(is an annual event that celebrates reading and community.)*
+    * **c. beschränkt sich auf das Ausleihen von Büchern.** *(is limited to borrowing books.)*
+
+15. **Frau Vogel...**
+    * **a. ist eine Besucherin, die jedes Jahr zur Lesenacht kommt.** *(is a visitor who comes to the reading night every year.)*
+    * **b. organisiert als Leiterin der Bücherei spezielle Aktivitäten für die Lesenacht.** *(as the library head, organizes special activities for the reading night.)*
+    * **c. liest aus ihren eigenen Werken vor.** *(reads from her own works.)*
+
+16. **Herr Bauer...**
+    * **a. nimmt zum ersten Mal an der Lesenacht teil.** *(is participating in the reading night for the first time.)*
+    * **b. interessiert sich vor allem für die Schnitzeljagd.** *(is mainly interested in the scavenger hunt.)*
+    * **c. freut sich auf die Begegnung mit Autoren und deren Lesungen.** *(looks forward to meeting authors and their readings.)*
+
+17. **Zu den Aktivitäten der Lesenacht gehören...** *(Activities of the reading night include...)*
+    * **a. nur Aktivitäten für Kinder.** *(only activities for children.)*
+    * **b. eine Autorenlesung und ein kreativer Schreibworkshop.** *(an author reading and a creative writing workshop.)*
+    * **c. ausschließlich Bücherverkäufe.** *(exclusively book sales.)*
+
+18. **Das Ziel der "Lesenacht" ist es,** *(The goal of the "Reading Night" is,)*
+    * **a. nur Unterhaltung zu bieten.** *(to offer only entertainment.)*
+    * **b. die Bücherei als wichtigen kulturellen Treffpunkt zu etablieren.** *(to establish the library as an important cultural meeting point.)*
+    * **c. die Ausleihe von Büchern zu fördern.** *(to promote the borrowing of books.)*
+
+**Full Text (Bilingual)**
+**Die alljährliche "Lesenacht" in der Stadtbücherei von Buchheim ist ein besonderes Ereignis für Buchliebhaber jeden Alters. In dieser Nacht öffnet die Bücherei ihre Türen für eine unvergessliche Nacht voller Geschichten und Abenteuer. Besucher können in Sitzsäcken stöbern, lesen und an verschiedenen literarischen Aktivitäten teilnehmen.**
+*(The annual "Reading Night" in the Buchheim city library is a special event for book lovers of all ages. On this night, the library opens its doors for an unforgettable night full of stories and adventure. Visitors can browse in beanbags, read, and participate in various literary activities.)*
+
+**Die Leiterin der Bücherei, Frau Vogel, hat dieses Jahr einige besondere Attraktionen organisiert: eine Lesung bekannter Autoren, einen Workshop zum kreativen Schreiben und eine Schnitzeljagd durch die Welt der Literatur. Sie möchte damit die Begeisterung für das Lesen wecken und die Bedeutung der Bücherei als Kulturzentrum der Stadt hervorheben.**
+*(The library director, Ms. Vogel, has organized some special attractions this year: a reading by well-known authors, a workshop on creative writing, and a scavenger hunt through the world of literature. She wants to awaken enthusiasm for reading and highlight the importance of the library as the city's cultural center.)*
+
+**Herr Bauer, treuer Besucher der Lesenacht, freut sich besonders auf die Autorenlesung. Er schätzt die persönliche Begegnung mit den Schriftstellern und die Möglichkeit, tiefer in die Hintergründe der Werke einzutauchen. Für ihn ist die Lesenacht jedes Jahr ein Höhepunkt und ein wichtiges Datum im Kalender.**
+*(Mr. Bauer, a loyal visitor of the reading night, especially looks forward to the author reading. He values the personal meeting with the writers and the opportunity to dive deeper into the backgrounds of the works. For him, the reading night is a highlight every year and an important date in the calendar.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: c | 17: b | 18: b**
+
+
