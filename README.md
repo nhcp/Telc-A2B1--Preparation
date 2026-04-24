@@ -289,3 +289,335 @@ This page contains all 10 Model Tests with full bilingual transcriptions.
 
 **Lösungen (Answer Key) Teil 4:**
 **14: a | 15: c | 16: b | 17: c | 18: a**
+
+---
+
+## ✅ Modeltest 03: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie planen eine Reise und suchen nach einer kompetenten Reiseberatung.**
+   *(You are planning a trip and looking for competent travel advice.)*
+2. **Sie möchten Ihre Küche modernisieren und benötigen einen Fachmann für Küchenbau.**
+   *(You want to modernize your kitchen and need a specialist for kitchen construction.)*
+3. **Ihr Sohn möchte Gitarre spielen lernen und sucht nach qualifiziertem Unterricht.**
+   *(Your son wants to learn to play the guitar and is looking for qualified lessons.)*
+4. **Sie möchten Ihre Englischkenntnisse verbessern und suchen nach einem Sprachkurs.**
+   *(You want to improve your English skills and are looking for a language course.)*
+5. **Sie haben Interesse an einem neuen Hobby und möchten einen Töpferkurs besuchen.**
+   *(You are interested in a new hobby and want to attend a pottery course.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Traumm-Global.de** <br> Lassen Sie sich von unseren Reiseexperten Ihre nächste Traumreise zusammenstellen. Persönliche Beratung und maßgeschneiderte Angebote erwarten Sie! | **a) www.Traumm-Global.de** <br> Let our travel experts put together your next dream trip. Personal advice and tailor-made offers await you! |
+| **b) www.SpeakEasy-Sprachschule.de** <br> Sprechen Sie Englisch wie ein Muttersprachler mit unseren interaktiven und maßgeschneiderten Sprachkursen. | **b) www.SpeakEasy-Sprachschule.de** <br> Speak English like a native speaker with our interactive and tailor-made language courses. |
+| **c) www.KMeisterwerke.de** <br> Ihre Traumküche wartet auf Sie! Professionelle Planung und Montage nach Maß – alles aus einer Hand. | **c) www.KMeisterwerke.de** <br> Your dream kitchen is waiting for you! Professional planning and custom assembly – all from a single source. |
+| **d) www.TanzTempo.de** <br> Lust auf Salsa, Tango oder Walzer? Tanzen Sie sich glücklich in unseren Tanzkursen für jedes Level. | **d) www.TanzTempo.de** <br> Fancy Salsa, Tango, or Waltz? Dance yourself happy in our dance courses for every level. |
+| **e) www.PC-Hilfe-und-Mehr.de** <br> Computerprobleme? Wir bieten schnelle und zuverlässige Unterstützung für alle Ihre IT-Fragen. | **e) www.PC-Hilfe-und-Mehr.de** <br> Computer problems? We offer fast and reliable support for all your IT questions. |
+| **f) www.Gitarrenvirtuose.de** <br> Gitarrenunterricht für Anfänger und Fortgeschrittene. Lernen Sie von einem professionellen Musiker mit Leidenschaft. | **f) www.Gitarrenvirtuose.de** <br> Guitar lessons for beginners and advanced students. Learn from a professional musician with passion. |
+| **g) www.KreativeKeramik-Kunst.de** <br> Entdecken Sie die Kunst des Töpferns in unseren Workshops. Gestalten Sie Ihr eigenes Geschirr und Kunstwerke! | **g) www.KreativeKeramik-Kunst.de** <br> Discover the art of pottery in our workshops. Create your own dishes and artworks! |
+| **h) www.PflanzenParadies-Gartencenter.de** <br> Alles für Ihren grünen Daumen! Besuchen Sie uns für Pflanzen, Gartenbedarf und professionelle Beratung. | **h) www.PflanzenParadies-Gartencenter.de** <br> Everything for your green thumb! Visit us for plants, garden supplies, and professional advice. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: c | 3: f | 4: b | 5: g**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Die Universitätsbibliothek hat ihre Öffnungszeiten erweitert. (richtig/falsch?)**
+   *(The university library has extended its opening hours. - True/False?)*
+7. **Bei der Studienberatung...** *(At the student advisory service...)*
+   * **a) müssen Termine immer persönlich wahrgenommen werden.** *(appointments must always be attended in person.)*
+   * **b) ist eine Beratung auch via Skype möglich.** *(consultation is also possible via Skype.)*
+   * **c) können nur Kurse ausgewählt werden.** *(only courses can be selected.)*
+8. **Die Campus-Grünflächen...** *(The campus green spaces...)*
+   * **a) wurden verkleinert, um mehr Sitzgelegenheiten zu schaffen.** *(were reduced to create more seating.)*
+   * **b) bieten jetzt WLAN-Hotspots und Sitzgelegenheiten.** *(now offer Wi-Fi hotspots and seating.)*
+   * **c) sind nur für Lehrpersonal zugänglich.** *(are only accessible to teaching staff.)*
+9. **Das Ziel der Universität ist es,** *(The goal of the university is,)*
+   * **a) nur die Bildung zu fördern.** *(to only promote education.)*
+   * **b) einen Campus nur für Studierende zu schaffen.** *(to create a campus only for students.)*
+   * **c) Bildung, Wohlbefinden und Gemeinschaft zu fördern.** *(to promote education, well-being, and community.)*
+
+**Full Text (Bilingual)**
+**Liebe Studierende, um das akademische Umfeld an unserer Universität zu verbessern, wurden folgende Änderungen vorgenommen:**
+*(Dear students, in order to improve the academic environment at our university, the following changes have been made:)*
+
+**Bibliotheksservices: Die Universitätsbibliothek hat nun erweiterte Öffnungszeiten von 08:00 bis 22:00 Uhr an Wochentagen und von 10:00 bis 18:00 Uhr an Wochenenden. Studierende können zudem über das Online-Portal Bücher für bis zu zwei Wochen ausleihen.**
+*(Library Services: The university library now has extended opening hours from 8:00 AM to 10:00 PM on weekdays and from 10:00 AM to 6:00 PM on weekends. Students can also borrow books via the online portal for up to two weeks.)*
+
+**Studienberatung: Eine neue Studienberatung steht zur Verfügung, um Sie bei der Kursauswahl und Karriereplanung zu unterstützen. Beratungsgespräche können persönlich oder via Skype durchgeführt werden.**
+*(Student Advisory Service: A new student advisory service is available to support you with course selection and career planning. Advisory meetings can be conducted in person or via Skype.)*
+
+**Campus-Grünflächen: Die Grünflächen auf dem Campus wurden neu gestaltet, um Erholungsräume im Freien zu bieten. Es sind nun mehr Sitzgelegenheiten und WLAN-Hotspots verfügbar, sodass Sie auch außerhalb der Hörsäle lernen und arbeiten können.**
+*(Campus Green Spaces: The green spaces on campus have been redesigned to provide outdoor recreational areas. More seating and Wi-Fi hotspots are now available so that you can also study and work outside the lecture halls.)*
+
+**Es ist unser Ziel, einen Campus zu schaffen, der Bildung, Wohlbefinden und Gemeinschaft fördert.**
+*(It is our goal to create a campus that promotes education, well-being, and community.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Richtig | 7: b | 8: b | 9: c**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Neuer Kaffee im Büro** *(New coffee in the office)*
+* **b. Feedback zum Büroservice** *(Feedback on office service)*
+* **c. Firmenfeier Ankündigung** *(Company party announcement)*
+* **d. Wöchentliche Zeiterfassung** *(Weekly time tracking)*
+* **e. Einladung zum Innovationsworkshop** *(Invitation to innovation workshop)*
+* **f. Sicherheitsupdate für Reisende** *(Security update for travelers)*
+* **g. Reiseplanänderungen wegen Wetter** *(Travel plan changes due to weather)*
+* **h. Allgemeine Hinweise zur Arbeitsorganisation** *(General notes on work organization)*
+
+**10 Betreff:**
+**Liebe Mitarbeiterinnen und Mitarbeiter, bitte denken Sie daran, dass unsere Firmenfeier dieses Jahr unter dem Motto "Zukunft der Innovation" steht. Wir erwarten Sie alle am 30. Juni um 18:00 Uhr im Hauptsaal. Ihre Ideen und Vorschläge für Präsentationen sind herzlich willkommen. Mit innovativen Grüßen, Maximilian Roth (Event-Management)**
+*(Dear employees, please remember that our company party this year is under the motto "Future of Innovation." We expect you all on June 30th at 6:00 PM in the main hall. Your ideas and suggestions for presentations are very welcome. With innovative regards, Maximilian Roth (Event Management))*
+
+**11 Betreff:**
+**Sehr geehrte Damen und Herren, aufgrund der aktuellen Wetterwarnung wird empfohlen, alle Dienstreisen in die betroffenen Gebiete zu verschieben. Bitte prüfen Sie Ihre Reisepläne und nehmen Sie ggf. Änderungen vor. Sicherheit geht vor! Vorsichtige Grüße, Sabine Krüger (Sicherheitsbeauftragte)**
+*(Dear Ladies and Gentlemen, due to the current weather warning, it is recommended to postpone all business trips to the affected areas. Please check your travel plans and make changes if necessary. Safety first! Cautious regards, Sabine Krüger (Safety Officer))*
+
+**12 Betreff:**
+**Hallo alle, wir haben nun einen neuen Kaffeeanbieter für unser Büro. Ab Montag können Sie eine Auswahl an fair gehandelten und biologischen Kaffeesorten genießen. Feedback zum neuen Kaffee ist erwünscht und kann direkt am Automaten hinterlassen werden. Einen koffeinhaltigen Tag wünscht Lars Hoffmann (Einkauf)**
+*(Hello everyone, we now have a new coffee provider for our office. Starting Monday, you can enjoy a selection of fair-trade and organic coffee varieties. Feedback on the new coffee is welcome and can be left directly at the machine. Wishing you a caffeinated day, Lars Hoffmann (Purchasing))*
+
+**13 Betreff:**
+**Liebe Teamleiter, bitte erinnern Sie Ihr Team daran, dass die Zeiterfassungsbögen bis zum Ende jeder Woche eingereicht werden müssen. Es ist wichtig, dass wir die Arbeitsstunden korrekt dokumentieren, um eine genaue Abrechnung zu gewährleisten. Beste Grüße, Janina Berger (Controlling)**
+*(Dear team leaders, please remind your team that the time tracking sheets must be submitted by the end of each week. It is important that we document the working hours correctly to ensure accurate billing. Best regards, Janina Berger (Controlling))*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: c | 11: g | 12: a | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**Das Projekt "Grüne Dächer" – Mehr Natur in der Stadt**
+*(The "Green Roofs" Project – More Nature in the City)*
+
+14. **Das Projekt "Grüne Dächer" wurde gestartet, um...**
+    *(The "Green Roofs" project was started to...)*
+    * **a. die Baukosten für Gebäude zu erhöhen.** *(increase construction costs for buildings.)*
+    * **b. die Lebensqualität und Umweltbedingungen zu verbessern.** *(improve quality of life and environmental conditions.)*
+    * **c. die Dächer für landwirtschaftliche Zwecke zu nutzen.** *(use the roofs for agricultural purposes.)*
+
+15. **Sandra Bauer...**
+    * **a. ist eine Umweltaktivistin ohne technischen Hintergrund.** *(is an environmental activist without a technical background.)*
+    * **b. arbeitet allein an diesem Projekt.** *(works alone on this project.)*
+    * **c. koordiniert die Umsetzung des Projekts mit verschiedenen Beteiligten.** *(coordinates the implementation of the project with various stakeholders.)*
+
+16. **Herr Wagner...**
+    * **a. hat eines der ersten grünen Dächer in der Stadt.** *(has one of the first green roofs in the city.)*
+    * **b. ist unzufrieden mit der Ästhetik seines grünen Dachs.** *(is dissatisfied with the aesthetics of his green roof.)*
+    * **c. berichtet von höheren Kosten durch das grüne Dach.** *(reports higher costs due to the green roof.)*
+
+17. **Das grüne Dach auf Herrn Wagners Gebäude...**
+    * **a. erfordert viel Wartung.** *(requires a lot of maintenance.)*
+    * **b. hat zu einer Kostenersparnis geführt.** *(has led to cost savings.)*
+    * **c. kann nur im Sommer genutzt werden.** *(can only be used in summer.)*
+
+18. **Ein Ziel des Projekts "Grüne Dächer" ist...**
+    * **a. die Schaffung neuer Wohnräume.** *(the creation of new living spaces.)*
+    * **b. die Unterstützung der lokalen Fauna und Flora.** *(the support of local fauna and flora.)*
+    * **c. die Verringerung der städtischen Bevölkerung.** *(the reduction of the urban population.)*
+
+**Full Text (Bilingual)**
+**In der stetig wachsenden Stadt Neuhausen hat die Stadtverwaltung das Projekt "Grüne Dächer" ins Leben gerufen, um die Lebensqualität in der urbanen Umgebung zu verbessern. Die Initiative zielt darauf ab, die Dachflächen von öffentlichen und privaten Gebäuden zu begrünen. Dies soll nicht nur zur ökologischen Vielfalt beitragen, sondern auch helfen, die Temperatur in der Stadt zu regulieren und die Luftqualität zu verbessern.**
+*(In the steadily growing city of Neuhausen, the city administration has launched the "Green Roofs" project to improve the quality of life in the urban environment. The initiative aims to green the roof areas of public and private buildings. This is intended not only to contribute to ecological diversity but also to help regulate the temperature in the city and improve air quality.)*
+
+**Die Architektin Sandra Bauer ist die Leiterin des Projekts. Sie koordiniert die Umsetzung mit Bauherren, Stadtplanern und Umweltschützern. Ihr Ziel ist es, bis zum Ende des Jahres mindestens 20 Gebäude mit neuen grünen Oasen auszustatten. Dies erfordert sorgfältige Planung und spezielle Pflanzenauswahl, um sicherzustellen, dass die Dächer das ganze Jahr über grün bleiben und die lokale Fauna unterstützen.**
+*(Architect Sandra Bauer is the head of the project. She coordinates the implementation with developers, urban planners, and environmentalists. Her goal is to equip at least 20 buildings with new green oases by the end of the year. This requires careful planning and special plant selection to ensure that the roofs remain green all year round and support the local fauna.)*
+
+**Herr Wagner, Besitzer eines Gebäudes mit einem kürzlich installierten grünen Dach, hat bereits eine positive Veränderung bemerkt. Er sagt, dass das grüne Dach nicht nur das Stadtbild verschönert, sondern dass er auch eine Abnahme der Heiz- und Kühlkosten festgestellt hat, da das Dach zur Isolierung beiträgt.**
+*(Mr. Wagner, owner of a building with a recently installed green roof, has already noticed a positive change. He says that the green roof not only beautifies the cityscape, but that he has also noticed a decrease in heating and cooling costs, as the roof contributes to insulation.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: c | 16: a | 17: b | 18: b**
+
+
+---
+
+## ✅ Modeltest 04: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie möchten für eine Abendveranstaltung ein elegantes Outfit leihen.**
+   *(You would like to rent an elegant outfit for an evening event.)*
+2. **Sie suchen nach einem zuverlässigen Babysitter für gelegentliche Abende.**
+   *(You are looking for a reliable babysitter for occasional evenings.)*
+3. **Sie interessieren sich für einen Kurs in digitaler Fotografie.**
+   *(You are interested in a course in digital photography.)*
+4. **Sie suchen einen erfahrenen Personal Trainer, um zu Hause zu trainieren.**
+   *(You are looking for an experienced personal trainer to train at home.)*
+5. **Sie wollen Italienisch lernen und suchen nach einem Sprachkurs in Ihrer Nähe.**
+   *(You want to learn Italian and are looking for a language course near you.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.GlamourLook-Verleih.de** <br> Finden Sie das perfekte Kleid oder den eleganten Anzug für jeden Anlass bei uns. Modebewusst leihen statt kaufen! | **a) www.GlamourLook-Verleih.de** <br> Find the perfect dress or elegant suit for every occasion with us. Fashion-consciously rent instead of buy! |
+| **b) www.ParlaConNoi-Italienisch.de** <br> Tauchen Sie ein in die Sprache und Kultur Italiens mit unseren lebendigen und interaktiven Italienischkursen. | **b) www.ParlaConNoi-Italienisch.de** <br> Immerse yourself in the language and culture of Italy with our lively and interactive Italian courses. |
+| **c) www.GourmetGenuss-Catering.de** <br> Exquisite Speisen für Ihre Veranstaltung – lassen Sie sich von unserem Catering-Service verwöhnen. | **c) www.GourmetGenuss-Catering.de** <br> Exquisite dishes for your event – let yourself be pampered by our catering service. |
+| **d) www.PIAkademie.de** <br> Meistern Sie die Kunst der digitalen Fotografie mit unseren Expertenkursen - für Anfänger bis Fortgeschrittene. | **d) www.PIAkademie.de** <br> Master the art of digital photography with our expert courses - from beginners to advanced. |
+| **e) www.TierParadies-Haustierservice.de** <br> Alles für Ihr Haustier - von Pflege bis Spaziergänge. Wir kümmern uns liebevoll um Ihre vierbeinigen Freunde. | **e) www.TierParadies-Haustierservice.de** <br> Everything for your pet - from grooming to walks. We lovingly take care of your four-legged friends. |
+| **f) www.Huu-Coach.de** <br> Individuelles Training in Ihren eigenen vier Wänden. Personalisierte Workouts und flexible Terminvereinbarung. | **f) www.Huu-Coach.de** <br> Individual training within your own four walls. Personalized workouts and flexible appointment scheduling. |
+| **g) www.Kwelt-Betreuung.de** <br> Vertrauenswürdige und erfahrene Babysitter in Ihrer Umgebung. Wir sorgen dafür, dass Sie Ihren Abend genießen können! | **g) www.Kwelt-Betreuung.de** <br> Trustworthy and experienced babysitters in your area. We ensure that you can enjoy your evening! |
+| **h) www.Stadtbibliothek-Sprachen.de** <br> Eine Vielzahl von Sprachkursen direkt in Ihrer Bibliothek. Lernen Sie in einer angenehmen Atmosphäre. | **h) www.Stadtbibliothek-Sprachen.de** <br> A variety of language courses directly in your library. Learn in a pleasant atmosphere. |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: g | 3: d | 4: f | 5: b**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Die Mülltrennungsanlage befindet sich jetzt im Innenhof. (richtig/falsch?)**
+   *(The waste separation system is now located in the inner courtyard. - True/False?)*
+7. **Hinsichtlich der Sicherheitsmaßnahmen...** *(Regarding the security measures...)*
+   * **a) sollten die Eingangstüren immer offen gelassen werden.** *(the entrance doors should always be left open.)*
+   * **b) wurden keine zusätzlichen Maßnahmen getroffen.** *(no additional measures were taken.)*
+   * **c) wurden zusätzliche Sicherheitskameras installiert.** *(additional security cameras were installed.)*
+8. **Der Gemeinschaftsraum...** *(The community room...)*
+   * **a) darf nicht für private Veranstaltungen genutzt werden.** *(may not be used for private events.)*
+   * **b) kann über ein Online-Buchungssystem reserviert werden.** *(can be reserved via an online booking system.)*
+   * **c) steht nur dem Verwaltungspersonal zur Verfügung.** *(is only available to the administrative staff.)*
+9. **Das Ziel der Wohnanlagenverwaltung ist es,** *(The goal of the residential complex management is,)*
+   * **a) die Sicherheit zu vernachlässigen.** *(to neglect safety.)*
+   * **b) den Bewohnern ein angenehmes und sicheres Wohnen zu ermöglichen.** *(to enable pleasant and safe living for the residents.)*
+   * **c) private Veranstaltungen zu verbieten.** *(to forbid private events.)*
+
+**Full Text (Bilingual)**
+**Sehr geehrte Mieterinnen und Mieter, wir möchten Sie über einige Neuerungen in unserer Wohnanlage informieren:**
+*(Dear tenants, we would like to inform you about some innovations in our residential complex:)*
+
+**Mülltrennung: Ab sofort gibt es eine verbesserte Mülltrennungsanlage im Innenhof. Bitte sortieren Sie Ihren Müll entsprechend in die beschrifteten Container für Papier, Glas, Plastik und Restmüll.**
+*(Waste separation: From now on, there is an improved waste separation system in the inner courtyard. Please sort your waste accordingly into the labeled containers for paper, glass, plastic, and residual waste.)*
+
+**Sicherheitsmaßnahmen: Zum Schutz aller Bewohner wurden zusätzliche Sicherheitskameras an den Eingängen installiert. Wir bitten Sie, die Eingangstüren nach 22:00 Uhr nicht offen zu lassen.**
+*(Security measures: To protect all residents, additional security cameras have been installed at the entrances. We ask you not to leave the entrance doors open after 10:00 PM.)*
+
+**Gemeinschaftsraum: Der Gemeinschaftsraum im Erdgeschoss steht nun für private Veranstaltungen zur Verfügung. Sie können diesen Raum über unser Online-Buchungssystem reservieren.**
+*(Community room: The community room on the ground floor is now available for private events. You can reserve this room via our online booking system.)*
+
+**Wir sind bestrebt, das Wohnen in unserer Anlage so angenehm und sicher wie möglich zu gestalten.**
+*(We strive to make living in our complex as pleasant and safe as possible.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Richtig | 7: c | 8: b | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Fertigstellung der Renovierungsarbeiten** *(Completion of renovation work)*
+* **b. Einladung zum Marketingworkshop** *(Invitation to marketing workshop)*
+* **c. Einladung zur Fotoausstellung** *(Invitation to photo exhibition)*
+* **d. Start des Sommerleseclubs** *(Start of the summer reading club)*
+* **e. Ankündigung der Clubversammlung** *(Announcement of club meeting)*
+* **f. Update zu Bauarbeiten** *(Update on construction work)*
+* **g. Einreichungsfrist für Beiträge** *(Submission deadline for contributions)*
+* **h. Erinnerung an die Brainstorming-Sitzung** *(Reminder of the brainstorming session)*
+
+**10 Betreff:**
+**Liebe Mitglieder des Fotoclubs, unsere jährliche Fotoausstellung steht vor der Tür. Bitte reichen Sie Ihre Fotos bis spätestens den 5. Juli ein. Die besten Werke werden im Stadtmuseum präsentiert. Details zur Einreichung und zum Thema finden Sie im Anhang. Kreative Grüße, Eva Schwarz (Vorsitzende des Fotoclubs)**
+*(Dear members of the photo club, our annual photo exhibition is just around the corner. Please submit your photos by July 5th at the latest. The best works will be presented in the city museum. Details on submission and the topic can be found in the attachment. Creative regards, Eva Schwarz (Chairperson of the photo club))*
+
+**11 Betreff:**
+**Liebe Kolleginnen und Kollegen der Marketingabteilung, ich möchte Sie an unsere wöchentliche Brainstorming-Sitzung erinnern, die jeden Montag um 10:00 Uhr stattfindet. Bitte kommen Sie mit frischen Ideen und bereiten Sie Ihre Vorschläge für unsere neue Kampagne vor. Innovative Grüße, Daniel Meier (Marketingleiter)**
+*(Dear colleagues of the marketing department, I would like to remind you of our weekly brainstorming session, which takes place every Monday at 10:00 AM. Please come with fresh ideas and prepare your proposals for our new campaign. Innovative regards, Daniel Meier (Marketing Manager))*
+
+**12 Betreff:**
+**Sehr geehrte Bewohner des Wohnkomplexes "Sonnengarten", wir freuen uns, Ihnen mitteilen zu können, dass die Renovierungsarbeiten im Eingangsbereich abgeschlossen sind. Der Zugang zu den Wohnungen ist nun wieder ohne Einschränkungen möglich. Vielen Dank für Ihre Geduld. Verwaltung "Sonnengarten"**
+*(Dear residents of the "Sonnengarten" residential complex, we are pleased to inform you that the renovation work in the entrance area has been completed. Access to the apartments is now possible again without restrictions. Thank you for your patience. "Sonnengarten" Management)*
+
+**13 Betreff:**
+**Geehrte Eltern, wir möchten Ihre Kinder zu unserem Sommerleseclub einladen. Die Anmeldung ist ab sofort möglich und der Club beginnt am 1. August. Weitere Informationen und das Anmeldeformular finden Sie in der Bücherei oder auf unserer Webseite. Lesefreude teilen, Bibliotheksteam**
+*(Dear parents, we would like to invite your children to our summer reading club. Registration is now possible and the club starts on August 1st. Further information and the registration form can be found in the library or on our website. Share the joy of reading, Library Team)*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: g | 11: h | 12: a | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**"Musik in der Altstadt" - Ein Festival belebt die Geschichte**
+*("Music in the Old Town" - A Festival Brings History to Life)*
+
+14. **Das Festival "Musik in der Altstadt" findet statt, weil...**
+    *(The festival "Music in the Old Town" takes place because...)*
+    * **a. es sonst keine kulturellen Veranstaltungen in Altburg gibt.** *(there are otherwise no cultural events in Altburg.)*
+    * **b. es die historische Altstadt mit Musik beleben soll.** *(it is intended to enliven the historic old town with music.)*
+    * **c. die Stadt sonst zu wenig Besucher anzieht.** *(the city otherwise attracts too few visitors.)*
+
+15. **Lena Krause...**
+    * **a. ist ausschließlich für die Finanzen des Festivals verantwortlich.** *(is exclusively responsible for the festival's finances.)*
+    * **b. stellt sicher, dass das musikalische Programm zur Altstadt passt.** *(ensures that the musical program fits the old town.)*
+    * **c. bucht ausschließlich internationale Stars für das Festival.** *(exclusively books international stars for the festival.)*
+
+16. **Bürgermeister Schneider...**
+    * **a. glaubt, dass das Festival für die Stadt nicht wichtig ist.** *(believes that the festival is not important for the city.)*
+    * **b. sieht das Festival als Mittel, um Handel und Tourismus zu fördern.** *(sees the festival as a means to promote trade and tourism.)*
+    * **c. möchte das Festival aufgrund der hohen Kosten absagen.** *(wants to cancel the festival due to the high costs.)*
+
+17. **Während des Festivals...**
+    * **a. gibt es nur klassische Musik zu hören.** *(there is only classical music to be heard.)*
+    * **b. ist die Altstadt geschlossen für den Verkehr.** *(the old town is closed to traffic.)*
+    * **c. erlebt die Altstadt einen Anstieg an Besuchern.** *(the old town experiences an increase in visitors.)*
+
+18. **Ein Ziel des Festivals ist...**
+    * **a. die Förderung junger, unbekannter Künstler.** *(the promotion of young, unknown artists.)*
+    * **b. die ausschließliche Unterhaltung der Altburger.** *(the exclusive entertainment of the Altburgers.)*
+    * **c. die Reduzierung der kulturellen Angebote der Stadt.** *(the reduction of the city's cultural offerings.)*
+
+**Full Text (Bilingual)**
+**Die historische Altstadt von Altburg wird einmal im Jahr zur Bühne für das beliebte Musikfestival "Musik in der Altstadt". Bei diesem Event treffen sich Musikliebhaber, um ein Wochenende lang verschiedensten musikalischen Darbietungen beizuwohnen. Von klassischer Musik über Jazz bis hin zu modernen Pop-Auftritten ist für jeden Geschmack etwas dabei.**
+*(The historic old town of Altburg becomes a stage once a year for the popular music festival "Music in the Old Town". At this event, music lovers meet to attend various musical performances for a weekend. From classical music to jazz to modern pop performances, there is something for every taste.)*
+
+**Lena Krause, die Direktorin des Festivals, legt großen Wert darauf, dass die Musik die historische Kulisse der Altstadt ergänzt und bereichert. Sie arbeitet eng mit lokalen Künstlern zusammen, um ein vielfältiges Programm zusammenzustellen, das auch junge Talente fördert.**
+*(Lena Krause, the director of the festival, attaches great importance to the music complementing and enriching the historic backdrop of the old town. She works closely with local artists to put together a diverse program that also promotes young talents.)*
+
+**Der Bürgermeister von Altburg, Herr Schneider, unterstützt das Festival nach Kräften. Er sieht darin eine Chance, die Kultur und Geschichte der Stadt zu präsentieren und gleichzeitig den lokalen Tourismus und Handel zu beleben. Dank des Festivals hat die Altstadt an diesen Tagen einen deutlichen Anstieg an Besuchern.**
+*(The mayor of Altburg, Mr. Schneider, supports the festival to the best of his ability. He sees it as an opportunity to present the city's culture and history while simultaneously boosting local tourism and trade. Thanks to the festival, the old town has a significant increase in visitors on these days.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: b | 15: b | 16: b | 17: c | 18: a**
+
