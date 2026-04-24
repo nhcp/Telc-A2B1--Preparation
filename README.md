@@ -127,6 +127,165 @@ This page contains all 10 Model Tests with full bilingual transcriptions.
 
 ---
 
-## 🕒 Modeltest 02 (In Progress)
 
-*(Awaiting screenshots for Modeltest 2)*
+---
+
+## ✅ Modeltest 02: Full Bilingual Version
+
+### Lesen Teil 1 (Reading Part 1)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die Aufgaben 1–5 und die Anzeigen a–h. Welche Anzeige passt am besten zu welcher Situation? Für eine Aufgabe gibt es keine Lösung. Wählen Sie dann x.**
+*(Read tasks 1–5 and advertisements a–h. Which advertisement fits best for which situation? For one task there is no solution. In that case, choose x.)*
+
+1. **Sie möchten Ihr Wohnzimmer mit einer modernen Couchgarnitur neu einrichten.**
+   *(You would like to refurnish your living room with a modern sofa set.)*
+2. **Sie planen einen Kindergeburtstag und suchen nach Unterhaltung für die kleinen Gäste.**
+   *(You are planning a child's birthday party and are looking for entertainment for the little guests.)*
+3. **Sie benötigen einen professionellen Fotografen für Ihre Hochzeit.**
+   *(You need a professional photographer for your wedding.)*
+4. **Sie wollen Spanisch lernen und suchen nach einem Sprachkurs.**
+   *(You want to learn Spanish and are looking for a language course.)*
+5. **Sie suchen nach einem neuen Fitnessstudio mit modernen Kursangeboten.**
+   *(You are looking for a new gym with modern course offerings.)*
+
+### Anzeigen (Advertisements)
+| Deutsch (Original) | English (Translation) |
+| :--- | :--- |
+| **a) www.Möbelhaus-Wohntraum.de** <br> Entdecken Sie unsere breite Palette an stilvollen Möbeln, die Ihr Zuhause verzaubern werden. Große Auswahl, faire Preise! | **a) www.Möbelhaus-Wohntraum.de** <br> Discover our wide range of stylish furniture that will enchant your home. Large selection, fair prices! |
+| **b) www.Zauberclown-Partyfun.de** <br> Bunte Ballons, magische Tricks und jede Menge Spaß – buchen Sie unseren Zauberclown für unvergessliche Kinderpartys! | **b) www.Zauberclown-Partyfun.de** <br> Colorful balloons, magic tricks, and lots of fun – book our magic clown for unforgettable children's parties! |
+| **c) www.DIY-Workshop-Creatives.de** <br> Werde kreativ in unseren Do-it-yourself-Workshops! Alles für Ihr nächstes Heimprojekt unter professioneller Anleitung. | **c) www.DIY-Workshop-Creatives.de** <br> Get creative in our DIY workshops! Everything for your next home project under professional guidance. |
+| **d) www.Gourmet-Catering-Deluxe.de** <br> Exklusive Speisen für Ihre Veranstaltung – unser Catering-Service macht Ihr Event unvergesslich. | **d) www.Gourmet-Catering-Deluxe.de** <br> Exclusive food for your event – our catering service makes your event unforgettable. |
+| **e) www.Tanzschule-SwingStep.de** <br> Finden Sie den Rhythmus und lernen Sie Tanzen in unseren Kursen für Anfänger und Fortgeschrittene. | **e) www.Tanzschule-SwingStep.de** <br> Find the rhythm and learn to dance in our courses for beginners and advanced students. |
+| **f) www.bbbblick.de** <br> Ihr großer Tag verdient besondere Erinnerungen. Unser erfahrenes Fototeam fängt die schönsten Momente für Sie ein. | **f) www.bbbblick.de** <br> Your big day deserves special memories. Our experienced photo team captures the most beautiful moments for you. |
+| **g) www.Idiomas-Online.com** <br> Sprechen Sie fließend Spanisch in nur drei Monaten mit unserem interaktiven Online-Kurs. Jetzt anmelden! | **g) www.Idiomas-Online.com** <br> Speak fluent Spanish in just three months with our interactive online course. Register now! |
+| **h) www.Urban-Fit-Club.de** <br> Ihr Zentrum für Fitness und Wohlbefinden. Innovative Kurse, persönliche Trainer und modernste Ausstattung erwarten Sie! | **h) www.Urban-Fit-Club.de** <br> Your center for fitness and well-being. Innovative courses, personal trainers, and state-of-the-art equipment await you! |
+
+**Lösungen (Answer Key) Teil 1:**
+**1: a | 2: b | 3: f | 4: g | 5: h**
+
+---
+
+### Lesen Teil 2 (Reading Part 2)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 6–9. Welche Lösung ist richtig?**
+*(Read the text and tasks 6–9. Which solution is correct?)*
+
+6. **Flexible Arbeitszeiten sollen die Work-Life-Balance verbessern. (richtig/falsch?)**
+   *(Flexible working hours are intended to improve work-life balance. - True/False?)*
+7. **Home-Office...**
+   * **a) ist nur nach vorheriger Genehmigung erlaubt.** *(is only allowed after prior approval.)*
+   * **b) kann bis zu zwei Tage pro Woche genutzt werden.** *(can be used up to two days per week.)*
+   * **c) sollte täglich genutzt werden.** *(should be used daily.)*
+8. **Steharbeitsplätze...**
+   * **a) wurden in jedem Büro eingerichtet.** *(were set up in every office.)*
+   * **b) stehen auf jedem Stockwerk zur Verfügung.** *(are available on every floor.)*
+   * **c) sind nur für Teamleiter vorgesehen.** *(are intended only for team leaders.)*
+9. **Für die Gesundheit der Mitarbeiter...**
+   * **a) gibt es verpflichtende Yoga-Sitzungen.** *(there are mandatory yoga sessions.)*
+   * **b) werden wöchentliche Yoga-Sitzungen angeboten.** *(weekly yoga sessions are offered.)*
+   * **c) muss jeder Mitarbeiter einen Steharbeitsplatz nutzen.** *(every employee must use a standing desk.)*
+
+**Full Text (Bilingual)**
+**Liebe Teammitglieder, unsere Agentur legt großen Wert auf eine ausgewogene Work-Life-Balance. Beachten Sie daher bitte die folgenden Neuerungen:**
+*(Dear team members, our agency places great value on a balanced work-life balance. Therefore, please note the following innovations:)*
+
+**Flexible Arbeitszeiten: Ab sofort können Sie Ihre Arbeitszeit flexibler gestalten. Kernarbeitszeiten sind von 10:00 bis 15:00 Uhr. Außerhalb dieser Zeiten können Sie Ihre Arbeitsstunden nach Absprache mit Ihrem Team frei wählen.**
+*(Flexible working hours: From now on, you can organize your working hours more flexibly. Core working hours are from 10:00 AM to 3:00 PM. Outside of these times, you can choose your working hours freely after consultation with your team.)*
+
+**Home-Office: Jeder Mitarbeiter hat das Recht, bis zu zwei Tage pro Woche im Home-Office zu arbeiten. Bitte stimmen Sie Ihre Home-Office-Tage im Voraus mit Ihrem Team ab, um eine stetige Teamverfügbarkeit zu gewährleisten.**
+*(Home office: Every employee has the right to work in the home office up to two days per week. Please coordinate your home office days with your team in advance to ensure constant team availability.)*
+
+**Gesundheit im Büro: Wir haben in jedem Stockwerk neue Steharbeitsplätze eingerichtet. Zusätzlich bieten wir wöchentliche Yoga-Sitzungen im Konferenzraum an. Diese sind freiwillig und finden jeden Mittwoch um 16:00 Uhr statt. Vergessen Sie nicht, sich Zeit für Pausen zu nehmen und nutzen Sie unsere Entspannungsräume für kurze Auszeiten.**
+*(Health in the office: We have set up new standing desks on every floor. Additionally, we offer weekly yoga sessions in the conference room. These are voluntary and take place every Wednesday at 4:00 PM. Don't forget to take time for breaks and use our relaxation rooms for short timeouts.)*
+
+**Lösungen (Answer Key) Teil 2:**
+**6: Richtig | 7: b | 8: b | 9: b**
+
+---
+
+### Lesen Teil 3 (Reading Part 3)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie die vier E-Mails 10–13 und die acht Betreffzeilen a–h. Welche Betreffzeile passt zu welcher E-Mail?**
+*(Read the four emails 10–13 and the eight subject lines a–h. Which subject line fits which email?)*
+
+**Mögliche Betreffzeilen (Subject Line Options):**
+* **a. Änderung der Bürozeiten** *(Change of office hours)*
+* **b. IT-Wartungsarbeiten** *(IT maintenance work)*
+* **c. Sicherheitstraining** *(Security training)*
+* **d. Bonuszahlung** *(Bonus payment)*
+* **e. Neue Parkplatzregelung** *(New parking regulations)*
+* **f. Erinnerung: Entwicklungspläne** *(Reminder: Development plans)*
+* **g. Einreichung von Urlaubsanträgen** *(Submission of vacation requests)*
+* **h. Kantine geschlossen** *(Canteen closed)*
+
+**10 Betreff:**
+**Liebe Kolleginnen und Kollegen, wir möchten Sie daran erinnern, dass die Frist für die Einreichung Ihrer persönlichen Entwicklungspläne für das nächste Jahr Ende dieser Woche endet. Bitte stellen Sie sicher, dass Sie Ihre Dokumente rechtzeitig im HR-Portal hochladen. Herzliche Grüße, Andrea Fischer (Personalabteilung)**
+*(Dear colleagues, we would like to remind you that the deadline for submitting your personal development plans for next year ends at the end of this week. Please ensure that you upload your documents to the HR portal in time. Warm regards, Andrea Fischer (HR Department))*
+
+**11 Betreff:**
+**Hallo Team, für das kommende Wochenende ist die jährliche Wartung unserer IT-Systeme geplant. Bitte speichern Sie alle notwendigen Dokumente lokal, da der Serverzugriff von Freitagabend bis Sonntagabend nicht möglich sein wird. Danke für Ihre Kooperation. Markus Weber (IT-Abteilung)**
+*(Hello team, the annual maintenance of our IT systems is planned for the coming weekend. Please save all necessary documents locally, as server access will not be possible from Friday evening to Sunday evening. Thanks for your cooperation. Markus Weber (IT Department))*
+
+**12 Betreff:**
+**Guten Tag, bitte beachten Sie, dass die Kantine nächste Woche aufgrund von Renovierungsarbeiten geschlossen bleibt. Alternativ stehen in der Lounge Mikrowellen und Kühlschränke zur Verfügung, um mitgebrachte Speisen zu erwärmen und zu lagern. Mit freundlichen Grüßen, Petra Schmidt (Facility Management)**
+*(Good day, please note that the canteen will remain closed next week due to renovation work. Alternatively, microwaves and refrigerators are available in the lounge to heat and store food brought from home. Best regards, Petra Schmidt (Facility Management))*
+
+**13 Betreff:**
+**Werte Kolleginnen und Kollegen, ich freue mich, Ihnen mitteilen zu können, dass unsere Abteilung für den herausragenden Beitrag zum Unternehmenserfolg im letzten Quartal eine Prämie erhalten wird. Details zur Auszahlung folgen in Kürze. Beste Grüße, Frank Lehmann (Abteilungsleiter)**
+*(Dear colleagues, I am pleased to inform you that our department will receive a bonus for its outstanding contribution to the company's success in the last quarter. Details regarding the payment will follow shortly. Best regards, Frank Lehmann (Department Head))*
+
+**Lösungen (Answer Key) Teil 3:**
+**10: f | 11: b | 12: h | 13: d**
+
+---
+
+### Lesen Teil 4 (Reading Part 4)
+
+**Aufgaben (Instructions & Tasks)**
+**Lesen Sie den Text und die Aufgaben 14–18. Welche Lösung ist richtig?**
+*(Read the text and tasks 14–18. Which solution is correct?)*
+
+**Der "Fahrbibliothek" Service – Bücher auf Bestellung**
+*(The "Mobile Library" Service – Books on Order)*
+
+14. **Die "Fahrbibliothek" wurde eingerichtet, weil...**
+    *(The "Mobile Library" was set up because...)*
+    * **a. die lokale Bibliothek geschlossen wurde.** *(the local library was closed.)*
+    * **b. die Leute in Waldenbuch keine Bücher mögen.** *(the people in Waldenbuch don't like books.)*
+    * **c. es zu viele Bücher in der Stadtverwaltung gab.** *(there were too many books in the city administration.)*
+
+15. **Frau Zimmermann...**
+    * **a. verkauft Bücher aus dem Bus heraus.** *(sells books out of the bus.)*
+    * **b. bietet nur eine begrenzte Auswahl an Büchern.** *(offers only a limited selection of books.)*
+    * **c. gibt Leseempfehlungen und organisiert Buchclubs.** *(gives reading recommendations and organizes book clubs.)*
+
+16. **Herr Müller...**
+    * **a. hat den Service noch nie genutzt.** *(has never used the service.)*
+    * **b. schätzt die persönliche Beratung der Fahrbibliothek.** *(values the personal advice of the mobile library.)*
+    * **c. bevorzugt es, Bücher online zu kaufen.** *(prefers to buy books online.)*
+
+17. **Die Fahrbibliothek...**
+    * **a. fährt nur einmal im Monat.** *(runs only once a month.)*
+    * **b. ist nur für ältere Menschen gedacht.** *(is intended only for older people.)*
+    * **c. ist ein beliebter Service unter den Bewohnern.** *(is a popular service among the residents.)*
+
+18. **Der Service ist besonders wertvoll für die Gemeinschaft, weil...**
+    * **a. er Leseinteresse und den Zugang zu Büchern fördert.** *(it promotes interest in reading and access to books.)*
+    * **b. er kostenlose Bücher an jeden verteilt.** *(it distributes free books to everyone.)*
+    * **c. er nur Bestseller-Bücher führt.** *(it only carries bestseller books.)*
+
+**Full Text (Bilingual)**
+**In der kleinen Stadt Waldenbuch haben die Einwohner einen innovativen Weg gefunden, um die Kultur des Lesens trotz der Schließung der lokalen Bibliothek aufrechtzuerhalten. Der "Fahrbibliothek" Service bringt Bücher und andere Medien direkt zu den Lesern nach Hause. Jeden Dienstag und Donnerstag fährt der bunte Bus, gefüllt mit einer Vielfalt an Literatur für Jung und Alt, durch die Stadt und die umliegenden Dörfer.**
+*(In the small town of Waldenbuch, residents have found an innovative way to maintain the culture of reading despite the closure of the local library. The "Mobile Library" service brings books and other media directly to the readers' homes. Every Tuesday and Thursday, the colorful bus, filled with a variety of literature for young and old, drives through the town and surrounding villages.)*
+
+**Die Fahrbibliothek wird von Frau Anke Zimmermann geleitet, die nicht nur Bücher verleiht, sondern auch Leseempfehlungen gibt und Buchclubs organisiert. Ihre Mission ist es, die Liebe zum Lesen in der Gemeinschaft zu fördern, besonders unter denen, die keinen einfachen Zugang zu Büchern haben.**
+*(The mobile library is managed by Ms. Anke Zimmermann, who not only lends books but also gives reading recommendations and organizes book clubs. Her mission is to promote the love of reading in the community, especially among those who do not have easy access to books.)*
+
+**Herr Müller, ein regelmäßiger Nutzer des Services, schwärmt von der persönlichen Beratung, die er erhält. Er genießt besonders die Diskussionen über neue Titel und Autoren, die Frau Zimmermann anbietet. Für ihn und viele andere ist die Fahrbibliothek ein Fenster zur Welt der Bücher, das direkt vor ihrer Haustür parkt.**
+*(Mr. Müller, a regular user of the service, raves about the personal advice he receives. He especially enjoys the discussions about new titles and authors that Ms. Zimmermann offers. For him and many others, the mobile library is a window to the world of books that parks directly in front of their doorstep.)*
+
+**Lösungen (Answer Key) Teil 4:**
+**14: a | 15: c | 16: b | 17: c | 18: a**
