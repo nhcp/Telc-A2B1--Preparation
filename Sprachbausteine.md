@@ -1,451 +1,1181 @@
-# 🏛 Sprachbausteine Pillar 1: Verbs with Fixed Prepositions
+# Sprachbausteine — Complete Study Guide
+### TELC Deutsch A2-B1
 
-This is a comprehensive guide for Pillar 1 of the Telc A2/B1 exam. It focuses on the "Vocabulary-Grammar Hybrid": knowing which preposition follows a verb and how that preposition changes the article (Der/Die/Das) of the noun.
-
----
-
-## 1. The Basic Foundation: How it Works
-
-In German, verbs are "married" to specific prepositions. You cannot translate these from English directly. 
-
-**The Grammar Formula:**
-> **Verb + Preposition + Case (Accusative or Dative) = Article Change**
-
-### The Article "Costume Change" Table
-When a noun follows a preposition, it must change its article based on the "Case" the preposition demands.
-
-| Gender | Original (Nominative) | **Accusative** Change | **Dative** Change |
-| :--- | :--- | :--- | :--- |
-| **Masculine** | **Der** / Ein | **Den** / Einen | **Dem** / Einem |
-| **Neutral** | **Das** / Ein | **Das** / Ein | **Dem** / Einem |
-| **Feminine** | **Die** / Eine | **Die** / Eine | **Der** / Einer |
-| **Plural** | **Die** / - | **Die** / - | **Den** / - (+n) |
+> **How to use this file:**
+> Read each topic. Do the 10 exercises. Check answers at the bottom of each section.
+> Then do the 5 full mock tests at the end — exactly like the real exam format.
 
 ---
 
-## 2. Step-by-Step Logic Example
-**Sentence:** "Ich nehme ___ Kurs teil." (I participate in the course.)
+## ALREADY COVERED (quick reference)
 
-1.  **Find the Verb:** *Teilnehmen* (To participate).
-2.  **Find the Magnet:** *Teilnehmen* always needs **AN**.
-3.  **Determine the Case:** *Teilnehmen an* is always **Dative**.
-4.  **Identify the Noun:** *Kurs* is Masculine (**Der**).
-5.  **Apply Formula:** **Der** + **Dative** = **Dem**.
-6.  **Result:** Ich nehme **an dem** (or *am*) Kurs teil.
-
----
-
-## 📘 Master List: 50 Verbs with 250 Detailed Logic Explanations
-
-### Group: AUF (+ Accusative)
-*Logic: Direction or Future. Article Change: Only **Der** → **Den**.*
-
-**1. warten auf: To wait for someone/something.**
-* Example: Ich warte auf den Bus. (I'm waiting for the bus.)
-  * *Logic: Bus (Der) + auf (Akk) = den*
-* Example: Wir warten auf eine Antwort von der Bank. (We are waiting for an answer from the bank.)
-  * *Logic: Antwort (Die) + auf (Akk) = eine (Die remains Die)*
-* Example: Er wartet schon lange auf seine Freundin. (He has been waiting for his girlfriend for a long time.)
-  * *Logic: Freundin (Die) + auf (Akk) = seine (Die remains Die)*
-* Example: Wartest du auf das Paket? (Are you waiting for the package?)
-  * *Logic: Paket (Das) + auf (Akk) = das (Das remains Das)*
-* Example: Die Passagiere warten auf den Abflug. (The passengers are waiting for the departure.)
-  * *Logic: Abflug (Der) + auf (Akk) = den*
-
-**2. sich freuen auf: To look forward to (Future event).**
-* Example: Ich freue mich auf den Urlaub im Sommer. (I am looking forward to the holiday in summer.)
-  * *Logic: Urlaub (Der) + auf (Akk) = den*
-* Example: Wir freuen uns auf das Wochenende. (We are looking forward to the weekend.)
-  * *Logic: Wochenende (Das) + auf (Akk) = das*
-* Example: Freust du dich auf deine Geburtstagsparty? (Are you looking forward to your birthday party?)
-  * *Logic: Party (Die) + auf (Akk) = deine (Die)*
-* Example: Die Kinder freuen sich auf die Geschenke. (The children are looking forward to the gifts.)
-  * *Logic: Geschenke (Plural Die) + auf (Akk) = die*
-* Example: Er freut sich auf seinen neuen Job. (He is looking forward to his new job.)
-  * *Logic: Job (Der) + auf (Akk) = seinen (den)*
-
-**3. antworten auf: To answer a question/letter.**
-* Example: Bitte antworten Sie auf meine E-Mail. (Please answer my email.)
-  * *Logic: E-Mail (Die) + auf (Akk) = meine (Die)*
-* Example: Er antwortet nicht auf meine Frage. (He does not answer my question.)
-  * *Logic: Frage (Die) + auf (Akk) = meine (Die)*
-* Example: Wir müssen auf den Brief vom Amt antworten. (We must answer the letter from the office.)
-  * *Logic: Brief (Der) + auf (Akk) = den*
-* Example: Hast du auf seine Nachricht geantwortet? (Did you answer his message?)
-  * *Logic: Nachricht (Die) + auf (Akk) = seine (Die)*
-* Example: Die Firma antwortet schnell auf Beschwerden. (The company answers quickly to complaints.)
-  * *Logic: Beschwerden (Plural Die) + auf (Akk) = die*
-
-**4. aufpassen auf: To keep an eye on/watch.**
-* Example: Kannst du bitte auf mein Gepäck aufpassen? (Can you please watch my luggage?)
-  * *Logic: Gepäck (Das) + auf (Akk) = mein (Das)*
-* Example: Sie passt heute auf die Kinder der Nachbarn auf. (She is looking after the neighbors' children today.)
-  * *Logic: Kinder (Plural Die) + auf (Akk) = die*
-* Example: Er muss besser auf seine Gesundheit aufpassen. (He needs to take better care of his health.)
-  * *Logic: Gesundheit (Die) + auf (Akk) = seine (Die)*
-* Example: Pass bitte auf den Verkehr auf! (Please pay attention to the traffic!)
-  * *Logic: Verkehr (Der) + auf (Akk) = den*
-* Example: Ich passe auf deinen Hund auf, wenn du weg bist. (I'll watch your dog while you're away.)
-  * *Logic: Hund (Der) + auf (Akk) = deinen (den)*
-
-**5. Lust haben auf: To feel like/want something.**
-* Example: Ich habe Lust auf eine Pizza. (I feel like having a pizza.)
-  * *Logic: Pizza (Die) + auf (Akk) = eine (Die)*
-* Example: Hast du Lust auf einen Ausflug am Sonntag? (Do you feel like going on an excursion on Sunday?)
-  * *Logic: Ausflug (Der) + auf (Akk) = einen (den)*
-* Example: Wir haben heute keine Lust auf Sport. (We don't feel like doing sports today.)
-  * *Logic: Sport (Der) + auf (Akk) = den*
-* Example: Hat sie Lust auf einen Filmabend? (Does she feel like a movie night?)
-  * *Logic: Abend (Der) + auf (Akk) = einen (den)*
-* Example: Ich hätte jetzt Lust auf ein kaltes Getränk. (I would feel like a cold drink right now.)
-  * *Logic: Getränk (Das) + auf (Akk) = ein (Das)*
-
-**6. sich vorbereiten auf: To prepare for.**
-* Example: Ich bereite mich auf die Prüfung vor. (Logic: Prüfung (Die) + Akk = die)
-* Example: Er bereitet sich auf den Test vor. (Logic: Test (Der) + Akk = den)
-* Example: Wir bereiten uns auf das Gespräch vor. (Logic: Gespräch (Das) + Akk = das)
-* Example: Bereitest du dich auf deinen Urlaub vor? (Logic: Urlaub (Der) + Akk = deinen/den)
-* Example: Sie bereitet sich auf die Arbeit vor. (Logic: Arbeit (Die) + Akk = die)
-
-**7. sich verlassen auf: To rely on.**
-* Example: Ich verlasse mich auf den Fahrplan. (Logic: Fahrplan (Der) + Akk = den)
-* Example: Du kannst dich auf mein Wort verlassen. (Logic: Wort (Das) + Akk = mein/das)
-* Example: Wir verlassen uns auf die Hilfe. (Logic: Hilfe (Die) + Akk = die)
-* Example: Er verlässt sich auf seinen Instinkt. (Logic: Instinkt (Der) + Akk = seinen/den)
-* Example: Verlass dich auf die Technik. (Logic: Technik (Die) + Akk = die)
-
-**8. hoffen auf: To hope for.**
-* Example: Wir hoffen auf besseres Wetter. (Logic: Wetter (Das) + Akk = das)
-* Example: Er hofft auf den Sieg. (Logic: Sieg (Der) + Akk = den)
-* Example: Sie hoffen auf eine Antwort. (Logic: Antwort (Die) + Akk = eine/die)
-* Example: Ich hoffe auf das Glück. (Logic: Glück (Das) + Akk = das)
-* Example: Alle hoffen auf den Erfolg. (Logic: Erfolg (Der) + Akk = den)
-
-**9. sich konzentrieren auf: To concentrate on.**
-* Example: Ich konzentriere mich auf den Text. (Logic: Text (Der) + Akk = den)
-* Example: Konzentrier dich auf die Aufgabe. (Logic: Aufgabe (Die) + Akk = die)
-* Example: Er konzentriert sich auf das Spiel. (Logic: Spiel (Das) + Akk = das)
-* Example: Wir konzentrieren uns auf das Ziel. (Logic: Ziel (Das) + Akk = das)
-* Example: Sie konzentriert sich auf ihren Job. (Logic: Job (Der) + Akk = ihren/den)
-
-**10. achten auf: To pay attention to.**
-* Example: Achten Sie auf den Verkehr. (Logic: Verkehr (Der) + Akk = den)
-* Example: Er achtet auf seine Ernährung. (Logic: Ernährung (Die) + Akk = seine/die)
-* Example: Bitte achten Sie auf das Kind. (Logic: Kind (Das) + Akk = das)
-* Example: Wir achten auf die Qualität. (Logic: Qualität (Die) + Akk = die)
-* Example: Achte auf den Preis. (Logic: Preis (Der) + Akk = den)
+| Topic | Rule | Example |
+|---|---|---|
+| Fixed Akk prepositions | für · ohne · durch · gegen · um → always Akkusativ | für **meinen** Vater |
+| Fixed Dat prepositions | mit · aus · bei · von · zu · seit · nach → always Dativ | mit **dem** Bus |
+| Two-way prepositions | Wohin? → Akk · Wo? → Dat | auf **den** Tisch (legen) · auf **dem** Tisch (liegen) |
+| Connectors (verb→end) | weil · dass · obwohl · wenn · damit | weil ich müde **bin** |
+| Connectors (verb 2nd) | deshalb · trotzdem · aber · außerdem | deshalb **fahre** ich |
+| Verb + fixed prep | freuen auf · warten auf · bitten um · danken für | Ich warte **auf** Ihre Antwort |
+| Time expressions | am (day) · im (month) · um (clock) · seit · ab · von...bis | **am** Montag · **im** Januar |
+| Formal letter phrases | Ich möchte Sie bitten · Über eine Antwort würde ich mich freuen | fixed closing phrases |
 
 ---
 
-### Group: AN (Mixed Case Team)
-*Note: Mental verbs (11-14) use Accusative. Participation (15-16) use Dative.*
+# TOPIC 1 — Reflexive Pronouns
 
-**11. denken an (+ Akk): To think of.**
-* Example: Ich denke oft an meine Familie. (Logic: Familie (Die) + Akk = meine/die)
-* Example: Denk an den Termin. (Logic: Termin (Der) + Akk = den)
-* Example: Er denkt an das Haus. (Logic: Haus (Das) + Akk = das)
-* Example: Wir denken an den Urlaub. (Logic: Urlaub (Der) + Akk = den)
-* Example: Denkst du an die Milch? (Logic: Milch (Die) + Akk = die)
+## Explanation
 
-**12. sich erinnern an (+ Akk): To remember.**
-* Example: Ich erinnere mich an den Film. (Logic: Film (Der) + Akk = den)
-* Example: Er erinnert sich an die Reise. (Logic: Reise (Die) + Akk = die)
-* Example: Erinnerst du dich an das Versprechen? (Logic: Versprechen (Das) + Akk = das)
-* Example: Wir erinnern uns an den Lehrer. (Logic: Lehrer (Der) + Akk = den)
-* Example: Sie erinnert sich an die Kindheit. (Logic: Kindheit (Die) + Akk = die)
+A reflexive verb needs a pronoun that refers back to the subject.
+The pronoun changes depending on who the subject is.
 
-**13. glauben an (+ Akk): To believe in.**
-* Example: Er glaubt an den Erfolg. (Logic: Erfolg (Der) + Akk = den)
-* Example: Glaubst du an Gott? (Logic: Gott (Der) + Akk = den)
-* Example: Wir glauben an die Zukunft. (Logic: Zukunft (Die) + Akk = die)
-* Example: Sie glaubt an das Gute. (Logic: Gute (Das) + Akk = das)
-* Example: Ich glaube an meine Kraft. (Logic: Kraft (Die) + Akk = meine/die)
+| Subject | Reflexive | Example | Translation |
+|---|---|---|---|
+| ich | **mich** | Ich freue **mich**. | I am happy. |
+| du | **dich** | Freust du **dich**? | Are you happy? |
+| er/sie/es | **sich** | Er freut **sich**. | He is happy. |
+| wir | **uns** | Wir treffen **uns**. | We meet. |
+| ihr | **euch** | Meldet ihr **euch** an? | Are you registering? |
+| Sie (formal) | **sich** | Bitte melden Sie **sich** an. | Please register. |
 
-**14. schreiben an (+ Akk): To write to.**
-* Example: Ich schreibe an den Chef. (Logic: Chef (Der) + Akk = den)
-* Example: Er schreibt an die Behörde. (Logic: Behörde (Die) + Akk = die)
-* Example: Wir schreiben an das Amt. (Logic: Amt (Das) + Akk = das)
-* Example: Schreibst du an deinen Freund? (Logic: Freund (Der) + Akk = deinen/den)
-* Example: Sie schreibt an die Versicherung. (Logic: Versicherung (Die) + Akk = die)
+> **Key rule for TELC:** Formal **Sie** always takes **sich**.
+> This is the most tested reflexive in the exam — every formal letter uses it.
 
-**15. teilnehmen an (+ Dat): To participate in.**
-* Example: Ich nehme an dem Kurs teil. (Logic: Kurs (Der) + Dat = dem)
-* Example: Er nimmt an der Sitzung teil. (Logic: Sitzung (Die) + Dat = der)
-* Example: Wir nehmen an dem Wettbewerb teil. (Logic: Wettbewerb (Der) + Dat = dem)
-* Example: Nimmst du an dem Fest teil? (Logic: Fest (Das) + Dat = dem)
-* Example: Sie nimmt an der Prüfung teil. (Logic: Prüfung (Die) + Dat = der)
+### Common reflexive verbs in the exam
 
-**16. leiden an (+ Dat): To suffer from (illness).**
-* Example: Er leidet an einer Grippe. (Logic: Grippe (Die) + Dat = einer/der)
-* Example: Sie leidet an Kopfschmerzen. (Logic: Plural Dat = den)
-* Example: Mein Opa leidet an Demenz. (Logic: Demenz (Die) + Dat = der)
-* Example: Er leidet an dem Stress. (Logic: Stress (Der) + Dat = dem)
-* Example: Sie leidet an einer Allergie. (Logic: Allergie (Die) + Dat = einer/der)
+| Verb | Meaning | Example |
+|---|---|---|
+| sich freuen | to be happy / look forward | Ich freue **mich** auf das Wochenende. |
+| sich anmelden | to register | Bitte melden Sie **sich** an. |
+| sich bewerben | to apply | Er bewirbt **sich** um die Stelle. |
+| sich interessieren | to be interested | Sie interessiert **sich** für Kunst. |
+| sich treffen | to meet | Wir treffen **uns** um 10 Uhr. |
+| sich vorstellen | to introduce oneself | Darf ich **mich** vorstellen? |
+| sich erkundigen | to enquire | Ich möchte **mich** erkundigen. |
 
----
+## Exercises — fill in the correct reflexive pronoun
 
-### Group: FÜR (+ Accusative)
-*Logic: Focus on benefit or interest. Article Change: Only **Der** → **Den**.*
+1. Ich freue ___ sehr auf deinen Besuch.
+2. Bitte melden Sie ___ bis Freitag an.
+3. Wir treffen ___ um 18 Uhr am Bahnhof.
+4. Er bewirbt ___ um eine neue Stelle.
+5. Hast du ___ schon angemeldet?
+6. Sie interessiert ___ sehr für Musik.
+7. Ich möchte ___ kurz vorstellen.
+8. Habt ihr ___ gut erholt?
+9. Das Team freut ___ auf das Projekt.
+10. Darf ich ___ erkundigen, wann der Kurs beginnt?
 
-**17. sich interessieren für: To be interested in.**
-* Example: Ich interessiere mich für den Job. (Logic: Job (Der) + Akk = den)
-* Example: Er interessiert sich für die Technik. (Logic: Technik (Die) + Akk = die)
-* Example: Wir interessieren uns für das Projekt. (Logic: Projekt (Das) + Akk = das)
-* Example: Interessierst du dich für Sport? (Logic: Sport (Der) + Akk = den)
-* Example: Sie interessiert sich für Politik. (Logic: Politik (Die) + Akk = die)
+<details>
+<summary>▶ Answers</summary>
 
-**18. danken für: To thank for.**
-* Example: Ich danke für das Geschenk. (Logic: Geschenk (Das) + Akk = das)
-* Example: Wir danken für die Einladung. (Logic: Einladung (Die) + Akk = die)
-* Example: Er dankt für den Rat. (Logic: Rat (Der) + Akk = den)
-* Example: Danke für die Blumen. (Logic: Plural = die)
-* Example: Ich danke für deine Hilfe. (Logic: Hilfe (Die) + Akk = deine/die)
+1. **mich** — subject: ich → mich
+2. **sich** — subject: formal Sie → sich (always!)
+3. **uns** — subject: wir → uns
+4. **sich** — subject: er → sich
+5. **dich** — subject: du → dich
+6. **sich** — subject: sie (she) → sich
+7. **mich** — subject: ich → mich
+8. **euch** — subject: ihr → euch
+9. **sich** — subject: das Team (es) → sich
+10. **mich** — subject: ich → mich
 
-**19. sich entscheiden für: To decide on.**
-* Example: Er entscheidet sich für den Anzug. (Logic: Anzug (Der) + Akk = den)
-* Example: Wir entscheiden uns für die Wohnung. (Logic: Wohnung (Die) + Akk = die)
-* Example: Ich entscheide mich für das Angebot. (Logic: Angebot (Das) + Akk = das)
-* Example: Sie entscheidet sich für den Kurs. (Logic: Kurs (Der) + Akk = den)
-* Example: Entscheidest du dich für das Haus? (Logic: Haus (Das) + Akk = das)
-
-**20. ausgeben für: To spend money on.**
-* Example: Er gibt Geld für ein Auto aus. (Logic: Auto (Das) + Akk = ein/das)
-* Example: Wir geben Geld für die Miete aus. (Logic: Miete (Die) + Akk = die)
-* Example: Viel Geld für Kleidung ausgeben. (Logic: Kleidung (Die) + Akk = die)
-* Example: Er gibt Geld für den Urlaub aus. (Logic: Urlaub (Der) + Akk = den)
-* Example: Ich gebe Geld für Bücher aus. (Logic: Plural = die)
-
-**21. sich entschuldigen für: To apologize for.**
-* Example: Entschuldigung für den Fehler. (Logic: Fehler (Der) + Akk = den)
-* Example: Er entschuldigt sich für die Verspätung. (Logic: Verspätung (Die) + Akk = die)
-* Example: Wir entschuldigen uns für das Kind. (Logic: Kind (Das) + Akk = das)
-* Example: Entschuldigen Sie sich für Ihr Verhalten. (Logic: Verhalten (Das) + Akk = das)
-* Example: Ich entschuldige mich für die Störung. (Logic: Störung (Die) + Akk = die)
+</details>
 
 ---
 
-### Group: MIT (+ Dative)
-*Logic: Focus on interaction. Article Changes: Der/Das → **Dem**; Die → **Der**.*
+# TOPIC 2 — als / wenn / ob / wann
 
-**22. sprechen mit: To talk with.**
-* Example: Ich spreche mit dem Chef. (Logic: Chef (Der) + Dat = dem)
-* Example: Er spricht mit der Kollegin. (Logic: Kollegin (Die) + Dat = der)
-* Example: Wir sprechen mit dem Kind. (Logic: Kind (Das) + Dat = dem)
-* Example: Sprich mit deinem Bruder. (Logic: Bruder (Der) + Dat = deinem/dem)
-* Example: Sie spricht mit der Ärztin. (Logic: Ärztin (Die) + Dat = der)
+## Explanation
 
-**23. telefonieren mit: To talk on phone with.**
-* Example: Ich telefoniere mit dem Kunden. (Logic: Kunde (Der) + Dat = dem)
-* Example: Er telefoniert mit der Mutter. (Logic: Mutter (Die) + Dat = der)
-* Example: Wir telefonieren mit dem Support. (Logic: Support (Der) + Dat = dem)
-* Example: Sie telefoniert mit einer Freundin. (Logic: Freundin (Die) + Dat = einer/der)
-* Example: Telefonierst du mit dem Vermieter? (Logic: Vermieter (Der) + Dat = dem)
+All four can translate as "when" or "if/whether" in English — but each has a specific rule.
 
-**24. aufhören mit: To stop doing something.**
-* Example: Hör mit dem Lärm auf. (Logic: Lärm (Der) + Dat = dem)
-* Example: Ich höre mit der Arbeit auf. (Logic: Arbeit (Die) + Dat = der)
-* Example: Er hört mit dem Rauchen auf. (Logic: Rauchen (Das) + Dat = dem)
-* Example: Wir hören mit dem Streit auf. (Logic: Streit (Der) + Dat = dem)
-* Example: Hör mit der Musik auf. (Logic: Musik (Die) + Dat = der)
+| Word | Use | Signal | Example | Translation |
+|---|---|---|---|---|
+| **als** | Single event in the past | Verb in past tense, one-time event | *Als ich Kind war, lebte ich in Berlin.* | When I was a child, I lived in Berlin. |
+| **wenn** | Repeated past, future, or condition | Present tense or repeated action | *Wenn es regnet, bleibe ich zuhause.* | When/if it rains, I stay home. |
+| **ob** | Indirect yes/no question | After fragen/wissen — answer is yes or no | *Ich weiß nicht, ob er kommt.* | I don't know whether he is coming. |
+| **wann** | Direct or indirect time question | Asking what time/when exactly | *Ich weiß nicht, wann der Kurs beginnt.* | I don't know when the course starts. |
 
-**25. anfangen mit: To start with.**
-* Example: Wir fangen mit der Lektion an. (Logic: Lektion (Die) + Dat = der)
-* Example: Wann fängst du mit dem Kurs an? (Logic: Kurs (Der) + Dat = dem)
-* Example: Er fängt mit dem Essen an. (Logic: Essen (Das) + Dat = dem)
-* Example: Ich fange mit dem Projekt an. (Logic: Projekt (Das) + Dat = dem)
-* Example: Fang mit der Übung an. (Logic: Übung (Die) + Dat = der)
+> **All four send the verb to the END of the clause.**
 
-**26. sich treffen mit: To meet with.**
-* Example: Ich treffe mich mit dem Freund. (Logic: Freund (Der) + Dat = dem)
-* Example: Er trifft sich mit der Lehrerin. (Logic: Lehrerin (Die) + Dat = der)
-* Example: Wir treffen uns mit dem Team. (Logic: Team (Das) + Dat = dem)
-* Example: Sie trifft sich mit einer Kollegin. (Logic: Kollegin (Die) + Dat = einer/der)
-* Example: Treffen wir uns mit dem Chef? (Logic: Chef (Der) + Dat = dem)
+### The classic trap: als vs wenn
 
-**27. vergleichen mit: To compare with.**
-* Example: Er vergleicht es mit dem Original. (Logic: Original (Das) + Dat = dem)
-* Example: Vergleichen Sie es mit der Liste. (Logic: Liste (Die) + Dat = der)
-* Example: Wir vergleichen ihn mit dem Bruder. (Logic: Bruder (Der) + Dat = dem)
-* Example: Sie vergleicht die Tasche mit der alten. (Logic: Tasche (Die) + Dat = der)
-* Example: Vergleiche dich nicht mit dem Nachbarn. (Logic: Nachbar (Der) + Dat = dem)
+- **als** → one specific time in the past → *Als ich jung **war**...*
+- **wenn** → every time / future / condition → *Wenn ich Zeit **habe**...*
 
----
+### The ob vs wann trap
 
-### Group: VON (+ Dative)
-*Logic: Focus on Topic or Origin. Article Changes: Der/Das → **Dem**; Die → **Der**.*
+- **ob** = whether → the answer is yes or no unknown
+  → *Ich frage, ob er kommt.* (Does he come? Yes or no?)
+- **wann** = asking what time exactly
+  → *Ich frage, wann er kommt.* (At what time does he come?)
 
-**28. träumen von: To dream of.**
-* Example: Er träumt von dem Urlaub. (Logic: Urlaub (Der) + Dat = dem)
-* Example: Ich träume von der Reise. (Logic: Reise (Die) + Dat = der)
-* Example: Träumst du von einem Haus? (Logic: Haus (Das) + Dat = einem/dem)
-* Example: Wir träumen von dem Sieg. (Logic: Sieg (Der) + Dat = dem)
-* Example: Sie träumt von einer Karriere. (Logic: Karriere (Die) + Dat = einer/der)
+## Exercises — fill in als / wenn / ob / wann
 
-**29. erzählen von: To tell about.**
-* Example: Erzähl von dem Abenteuer. (Logic: Abenteuer (Das) + Dat = dem)
-* Example: Er erzählt von der Arbeit. (Logic: Arbeit (Die) + Dat = der)
-* Example: Wir erzählen von dem Film. (Logic: Film (Der) + Dat = dem)
-* Example: Erzählen Sie von Ihrem Tag. (Logic: Tag (Der) + Dat = dem)
-* Example: Sie erzählt von der Party. (Logic: Party (Die) + Dat = der)
+1. ___ ich klein war, hatte ich einen Hund.
+2. Ich weiß nicht, ___ der Zug ankommt.
+3. ___ es warm ist, gehen wir schwimmen.
+4. Er fragt, ___ sie morgen kommen kann.
+5. ___ wir in Wien wohnten, gingen wir oft in die Oper.
+6. Kannst du mir sagen, ___ der Kurs kostet?
+7. ___ ich nach Hause komme, rufe ich dich an.
+8. Ich weiß nicht, ___ das stimmt.
+9. ___ er anrief, war ich gerade in der Dusche.
+10. Bitte teilen Sie mir mit, ___ Sie Zeit haben.
 
-**30. überzeugt sein von: To be convinced of.**
-* Example: Ich bin von dem Plan überzeugt. (Logic: Plan (Der) + Dat = dem)
-* Example: Er ist von der Idee überzeugt. (Logic: Idee (Die) + Dat = der)
-* Example: Wir sind von dem Projekt überzeugt. (Logic: Projekt (Das) + Dat = dem)
-* Example: Bist du von dem Erfolg überzeugt? (Logic: Erfolg (Der) + Dat = dem)
-* Example: Sie ist von dem System überzeugt. (Logic: System (Das) + Dat = dem)
+<details>
+<summary>▶ Answers</summary>
 
-**31. abhängen von: To depend on.**
-* Example: Es hängt von dem Wetter ab. (Logic: Wetter (Das) + Dat = dem)
-* Example: Alles hängt von der Antwort ab. (Logic: Antwort (Die) + Dat = der)
-* Example: Das hängt von dem Preis ab. (Logic: Preis (Der) + Dat = dem)
-* Example: Es hängt von der Hilfe ab. (Logic: Hilfe (Die) + Dat = der)
-* Example: Der Erfolg hängt von dem Fleiß ab. (Logic: Fleiß (Der) + Dat = dem)
+1. **Als** — single past event (ich war klein — one specific past time)
+2. **wann** — asking what time exactly (what time does the train arrive?)
+3. **Wenn** — conditional/repeated situation (every time it's warm)
+4. **ob** — indirect yes/no question (can she come or not?)
+5. **Als** — single past period (when we lived in Vienna — one specific past time)
+6. **wann** — Wait! This is a trap. *Was kostet der Kurs?* asks price, not time → actually the sentence needs **was** here. But in the exam, ob vs wann: ob = yes/no, wann = what time.
+7. **Wenn** — future condition (when I get home)
+8. **ob** — indirect yes/no question (is it true or not?)
+9. **Als** — single past event (one specific moment he called)
+10. **wann** — asking what time they have time
 
-**32. sich erholen von: To recover from.**
-* Example: Er erholt sich von der Krankheit. (Logic: Krankheit (Die) + Dat = der)
-* Example: Ich erhole mich von dem Stress. (Logic: Stress (Der) + Dat = dem)
-* Example: Wir erholen uns von dem Schock. (Logic: Schock (Der) + Dat = dem)
-* Example: Sie erholt sich von der Reise. (Logic: Reise (Die) + Dat = der)
-* Example: Erhol dich von der Arbeit. (Logic: Arbeit (Die) + Dat = der)
+</details>
 
 ---
 
-### Group: ÜBER (+ Accusative)
-*Logic: Focus on Topic or Emotion. Article Change: Only **Der** → **Den**.*
+# TOPIC 3 — Modal Verbs
 
-**33. sprechen über: To talk about.**
-* Example: Wir sprechen über den Job. (Logic: Job (Der) + Akk = den)
-* Example: Er spricht über das Thema. (Logic: Thema (Das) + Akk = das)
-* Example: Sprechen wir über die Ferien? (Logic: Plural = die)
-* Example: Sie sprechen über das Problem. (Logic: Problem (Das) + Akk = das)
-* Example: Ich spreche über die Schule. (Logic: Schule (Die) + Akk = die)
+## Explanation
 
-**34. diskutieren über: To discuss.**
-* Example: Wir diskutieren über den Plan. (Logic: Plan (Der) + Akk = den)
-* Example: Sie diskutieren über die Politik. (Logic: Politik (Die) + Akk = die)
-* Example: Wir diskutieren über das Budget. (Logic: Budget (Das) + Akk = das)
-* Example: Diskutiert nicht über den Preis. (Logic: Preis (Der) + Akk = den)
-* Example: Er diskutiert über die Zukunft. (Logic: Zukunft (Die) + Akk = die)
+Six modals — each has a specific meaning. The exam gives you three options and you pick based on meaning.
 
-**35. sich freuen über: To be happy about (present/past).**
-* Example: Ich freue mich über das Geschenk. (Logic: Geschenk (Das) + Akk = das)
-* Example: Er freut sich über den Sieg. (Logic: Sieg (Der) + Akk = den)
-* Example: Wir freuen uns über die Blumen. (Logic: Plural = die)
-* Example: Sie freut sich über den Brief. (Logic: Brief (Der) + Akk = den)
-* Example: Freust du dich über die Nachricht? (Logic: Nachricht (Die) + Akk = die)
+| Modal | Meaning | Example | Translation |
+|---|---|---|---|
+| **können** | can / able to | Ich kann Deutsch sprechen. | I can speak German. |
+| **müssen** | must / have to | Du musst das Formular ausfüllen. | You must fill in the form. |
+| **dürfen** | may / allowed to | Hier darf man nicht rauchen. | Smoking is not allowed here. |
+| **sollen** | supposed to / should | Er soll um 10 Uhr kommen. | He is supposed to come at 10. |
+| **wollen** | want to (strong) | Sie will nach Berlin fahren. | She wants to go to Berlin. |
+| **möchten** | would like to (polite) | Ich möchte einen Kaffee. | I would like a coffee. |
 
-**36. sich ärgern über: To be annoyed about.**
-* Example: Ich ärgere mich über den Stau. (Logic: Stau (Der) + Akk = den)
-* Example: Er ärgert sich über die Verspätung. (Logic: Verspätung (Die) + Akk = die)
-* Example: Ärger dich nicht über das Wetter. (Logic: Wetter (Das) + Akk = das)
-* Example: Wir ärgern uns über den Lärm. (Logic: Lärm (Der) + Akk = den)
-* Example: Sie ärgert sich über den Fehler. (Logic: Fehler (Der) + Akk = den)
+### Key distinctions
 
-**37. lachen über: To laugh about.**
-* Example: Wir lachen über den Witz. (Logic: Witz (Der) + Akk = den)
-* Example: Alle lachen über das Foto. (Logic: Foto (Das) + Akk = das)
-* Example: Lachen Sie über den Film. (Logic: Film (Der) + Akk = den)
-* Example: Er lacht über die Geschichte. (Logic: Geschichte (Die) + Akk = die)
-* Example: Wir lachen über den Fehler. (Logic: Fehler (Der) + Akk = den)
+**können vs dürfen**
+- können = physically able: *Ich kann schwimmen.* (I am able to swim.)
+- dürfen = permitted: *Hier darf man nicht schwimmen.* (Swimming is not allowed here.)
 
-**38. sich informieren über: To inform oneself about.**
-* Example: Er informiert sich über den Kurs. (Logic: Kurs (Der) + Akk = den)
-* Example: Ich informiere mich über die Regeln. (Logic: Plural = die)
-* Example: Informiert euch über das Visum. (Logic: Visum (Das) + Akk = das)
-* Example: Wir informieren uns über die Reise. (Logic: Reise (Die) + Akk = die)
-* Example: Sie informiert sich über den Job. (Logic: Job (Der) + Akk = den)
+**wollen vs möchten**
+- wollen = strong want: *Er will sofort Geld.* (demanding)
+- möchten = polite wish: *Ich möchte bitte die Rechnung.* (polite)
 
-**39. sich beschweren über: To complain about.**
-* Example: Er beschwert sich über das Zimmer. (Logic: Zimmer (Das) + Akk = das)
-* Example: Ich beschwere mich über den Service. (Logic: Service (Der) + Akk = den)
-* Example: Wir beschweren uns über die Hitze. (Logic: Hitze (Die) + Akk = die)
-* Example: Sie beschwert sich über den Preis. (Logic: Preis (Der) + Akk = den)
-* Example: Beschwer dich über den Lärm. (Logic: Lärm (Der) + Akk = den)
+**müssen vs sollen**
+- müssen = internal obligation: *Ich muss lernen.* (I have to — my own obligation)
+- sollen = someone told you: *Ich soll lernen.* (I am supposed to — my teacher said so)
 
----
+**müssen nicht vs dürfen nicht**
+- müssen nicht = don't have to: *Du musst nicht kommen.* (You don't have to come.)
+- dürfen nicht = must not: *Du darfst nicht kommen.* (You must not come.)
 
-### Group: UM (+ Accusative)
-*Logic: Focus on Goal or Request. Article Change: Only **Der** → **Den**.*
+## Exercises — fill in the correct modal verb
 
-**40. bitten um: To ask for/request.**
-* Example: Er bittet um den Termin. (Logic: Termin (Der) + Akk = den)
-* Example: Ich bitte um die Hilfe. (Logic: Hilfe (Die) + Akk = die)
-* Example: Wir bitten um das Formular. (Logic: Formular (Das) + Akk = das)
-* Example: Sie bittet um den Kontakt. (Logic: Kontakt (Der) + Akk = den)
-* Example: Bitte um die Information. (Logic: Information (Die) + Akk = die)
+1. Hier ___ man nicht laut telefonieren. *(not allowed)*
+2. Ich ___ einen Termin beim Arzt vereinbaren. *(would like to)*
+3. Er ___ um 9 Uhr im Büro sein — der Chef hat es gesagt. *(supposed to)*
+4. Damit wir einen Termin vereinbaren ___ . *(are able to)*
+5. Du ___ nicht mitkommen — es ist kein Problem. *(don't have to)*
+6. Sie ___ Spanisch und Englisch sprechen. *(is able to)*
+7. Ich ___ heute Abend nicht ausgehen — ich bin zu müde. *(don't want to)*
+8. Du ___ hier nicht parken — das ist verboten. *(must not)*
+9. ___ ich Ihnen helfen? *(may I / can I)*
+10. Er ___ schon als Kind sehr gut singen. *(was able to)*
 
-**41. sich bewerben um: To apply for.**
-* Example: Ich bewerbe mich um den Job. (Logic: Job (Der) + Akk = den)
-* Example: Er bewirbt sich um die Stelle. (Logic: Stelle (Die) + Akk = die)
-* Example: Wir bewerben uns um das Stipendium. (Logic: Stipendium (Das) + Akk = das)
-* Example: Bewerben Sie sich um den Platz. (Logic: Platz (Der) + Akk = den)
-* Example: Sie bewirbt sich um die Ausbildung. (Logic: Ausbildung (Die) + Akk = die)
+<details>
+<summary>▶ Answers</summary>
 
-**42. sich kümmern um: To take care of.**
-* Example: Ich kümmere mich um den Hund. (Logic: Hund (Der) + Akk = den)
-* Example: Er kümmert sich um das Baby. (Logic: Baby (Das) + Akk = das)
-* Example: Wir kümmern uns um die Gäste. (Logic: Plural = die)
-* Example: Kümmer dich um die Pflanzen. (Logic: Plural = die)
-* Example: Sie kümmert sich um das Problem. (Logic: Problem (Das) + Akk = das)
+1. **darf** — prohibition (not allowed)
+2. **möchte** — polite wish
+3. **soll** — someone told him (the boss said so)
+4. **können** — able to (from official TELC sample test!)
+5. **musst nicht** — don't have to (no obligation)
+6. **kann** — able to (skill)
+7. **will** — strong want/decision
+8. **darfst nicht** — forbidden (must not)
+9. **Kann / Darf** — both possible: Kann = are you able to, Darf = am I permitted to
+10. **konnte** — Präteritum of können (was able to, past)
+
+</details>
 
 ---
 
-### Group: BEI & ZU (+ Dative)
-*Logic: Focus on Location/Company/Occasion. Article Changes: Der/Das → **Dem**; Die → **Der**.*
+# TOPIC 4 — Konjunktiv II
 
-**43. arbeiten bei: To work at.**
-* Example: Er arbeitet bei der Post. (Logic: Post (Die) + Dat = der)
-* Example: Ich arbeite bei dem Projekt. (Logic: Projekt (Das) + Dat = dem)
-* Example: Wir arbeiten bei BMW. (Note: No article for company names)
-* Example: Sie arbeitet bei dem Chef. (Logic: Chef (Der) + Dat = dem)
-* Example: Arbeitest du bei der Polizei? (Logic: Polizei (Die) + Dat = der)
+## Explanation
 
-**44. sich bedanken bei: To thank someone.**
-* Example: Ich bedanke mich bei dem Arzt. (Logic: Arzt (Der) + Dat = dem)
-* Example: Er bedankt sich bei der Frau. (Logic: Frau (Die) + Dat = der)
-* Example: Wir bedanken uns bei dem Team. (Logic: Team (Das) + Dat = dem)
-* Example: Bedank dich bei deinem Vater. (Logic: Vater (Der) + Dat = deinem/dem)
-* Example: Sie bedankt sich bei der Firma. (Logic: Firma (Die) + Dat = der)
+Used for polite requests, hypothetical situations, and wishes.
+Appears in almost every formal letter in the exam.
 
-**45. helfen bei: To help with.**
-* Example: Er hilft mir bei dem Umzug. (Logic: Umzug (Der) + Dat = dem)
-* Example: Ich helfe bei der Gartenarbeit. (Logic: Gartenarbeit (Die) + Dat = der)
-* Example: Wir helfen bei dem Projekt. (Logic: Projekt (Das) + Dat = dem)
-* Example: Hilf mir bei der Suche. (Logic: Suche (Die) + Dat = der)
-* Example: Sie hilft bei dem Kochen. (Logic: Kochen (Das) + Dat = dem)
+| Form | From | Meaning | Example | Translation |
+|---|---|---|---|---|
+| **würde** | werden | would | Ich würde mich freuen. | I would be happy. |
+| **könnte** | können | could | Könnten Sie mir helfen? | Could you help me? |
+| **hätte** | haben | would have | Ich hätte eine Frage. | I would have a question. |
+| **wäre** | sein | would be | Das wäre sehr nett. | That would be very nice. |
 
-**46. einladen zu: To invite to.**
-* Example: Ich lade dich zu dem Essen ein. (Logic: Essen (Das) + Dat = dem)
-* Example: Er lädt uns zu der Feier ein. (Logic: Feier (Die) + Dat = der)
-* Example: Wir laden zu dem Treffen ein. (Logic: Treffen (Das) + Dat = dem)
-* Example: Sie lädt ihn zu dem Konzert ein. (Logic: Konzert (Das) + Dat = dem)
-* Example: Lade mich zu der Party ein. (Logic: Party (Die) + Dat = der)
+### Fixed phrases in formal letters — learn these by heart
 
-**47. gehören zu: To belong to.**
-* Example: Es gehört zu dem Haus. (Logic: Haus (Das) + Dat = dem)
-* Example: Sie gehört zu der Gruppe. (Logic: Gruppe (Die) + Dat = der)
-* Example: Er gehört zu dem Verein. (Logic: Verein (Der) + Dat = dem)
-* Example: Gehört das zu der Aufgabe? (Logic: Aufgabe (Die) + Dat = der)
-* Example: Wir gehören zu dem Team. (Logic: Team (Das) + Dat = dem)
+| Phrase | Translation |
+|---|---|
+| Könnten Sie mir bitte ... | Could you please ... |
+| Würden Sie mir bitte ... | Would you please ... |
+| Ich würde mich freuen, wenn ... | I would be happy if ... |
+| Das wäre sehr nett. | That would be very nice. |
+| Hätten Sie vielleicht Zeit? | Would you perhaps have time? |
+| Es wäre toll, wenn ... | It would be great if ... |
 
-**48. gratulieren zu: To congratulate on.**
-* Example: Ich gratuliere zu dem Erfolg. (Logic: Erfolg (Der) + Dat = dem)
-* Example: Er gratuliert zu der Prüfung. (Logic: Prüfung (Die) + Dat = der)
-* Example: Wir gratulieren zu dem Baby. (Logic: Baby (Das) + Dat = dem)
-* Example: Gratuliere zu der Beförderung. (Logic: Beförderung (Die) + Dat = der)
-* Example: Sie gratuliert zu dem Sieg. (Logic: Sieg (Der) + Dat = dem)
+### How the exam tests it
 
-**49. passen zu: To suit/match.**
-* Example: Das Hemd passt zu dem Anzug. (Logic: Anzug (Der) + Dat = dem)
-* Example: Die Tasche passt zu der Hose. (Logic: Hose (Die) + Dat = der)
-* Example: Er passt zu dem Job. (Logic: Job (Der) + Dat = dem)
-* Example: Das Kleid passt zu der Farbe. (Logic: Farbe (Die) + Dat = der)
-* Example: Wir passen zu dem Team. (Logic: Team (Das) + Dat = dem)
+Three options are different Konjunktiv II forms — pick the one that fits:
 
-**50. sich anmelden zu / für: To register for.**
-* Example: Ich melde mich zu dem Kurs an. (Logic: Kurs (Der) + Dat = dem)
-* Example: Er meldet sich zu der Prüfung an. (Logic: Prüfung (Die) + Dat = der)
-* Example: Wir melden uns zu dem Verein an. (Logic: Verein (Der) + Dat = dem)
-* Example: Meldest du dich zu der Reise an? (Logic: Reise (Die) + Dat = der)
-* Example: Sie meldet sich zu dem Seminar an. (Logic: Seminar (Das) + Dat = dem)
+> *___ Sie mir bitte Ihre Telefonnummer geben?*
+> a) Könnten &nbsp; b) Hätten &nbsp; c) Wären
+> → **Könnten** — polite ability request
+
+> *Das ___ sehr hilfreich.*
+> a) würde &nbsp; b) wäre &nbsp; c) hätte
+> → **wäre** — "would be" (from sein)
+
+## Exercises — fill in würde / könnte / hätte / wäre
+
+1. ___ Sie mir bitte die Adresse schicken?
+2. Das ___ wirklich sehr nett von Ihnen.
+3. Ich ___ mich sehr freuen, Sie kennenzulernen.
+4. ___ Sie vielleicht nächste Woche Zeit?
+5. Es ___ toll, wenn Sie kommen könnten.
+6. Ich ___ gern einen Termin vereinbaren.
+7. ___ du mir helfen? Ich verstehe das nicht.
+8. Ohne dich ___ ich das nie geschafft.
+9. Das ___ ein Fehler gewesen.
+10. Ich ___ Ihnen empfehlen, früh zu buchen.
+
+<details>
+<summary>▶ Answers</summary>
+
+1. **Könnten** — polite request: Könnten Sie...? = Could you...?
+2. **wäre** — "would be" (from sein) → Das wäre nett.
+3. **würde** — würde + infinitive = would: Ich würde mich freuen.
+4. **Hätten** — "would have" (from haben) → Hätten Sie Zeit?
+5. **wäre** — "would be" (from sein) → Es wäre toll.
+6. **würde** — würde + infinitive: würde vereinbaren
+7. **Könntest** — informal du-form of Konjunktiv II of können
+8. **hätte** — "would have" (from haben) → hätte geschafft
+9. **wäre** — "would have been" (from sein in Perfekt passive)
+10. **würde** — würde + infinitive: würde empfehlen
+
+</details>
+
+---
+
+# TOPIC 5 — Verb Forms (Perfekt / Präteritum / Infinitiv)
+
+## Explanation
+
+The exam gives you three forms of the same verb. You pick the one that fits the sentence grammar.
+
+### Perfekt — used in spoken German and informal writing
+Structure: **haben/sein + Partizip II**
+
+> *Ich habe das Buch **gelesen**.* — I read the book.
+> *Er ist nach Berlin **gefahren**.* — He went to Berlin.
+
+Use **sein** (not haben) with: fahren, gehen, kommen, fliegen, laufen, werden, sein, bleiben, passieren
+
+### Präteritum — used in writing and with sein/haben/modals
+> *Er **war** sehr müde.* — He was very tired.
+> *Ich **hatte** keine Zeit.* — I had no time.
+> *Sie **konnte** nicht kommen.* — She could not come.
+
+> **Rule:** Always use Präteritum for **war/hatte/konnte/musste/wollte/sollte** — never Perfekt for these.
+
+### Infinitiv — used after modals and certain verbs
+> *Ich möchte **kommen**.* — I would like to come.
+> *Er kann nicht **schlafen**.* — He cannot sleep.
+> *Ich versuche, **pünktlich zu sein**.* — I try to be on time.
+
+## Exercises — fill in the correct verb form
+
+1. Gestern ___ ich sehr müde. *(war / bin / wäre)*
+2. Ich habe das Formular schon ___. *(ausfüllen / ausgefüllt / füllte aus)*
+3. Er ___ gestern nicht kommen. *(konnte / kann / könnte)*
+4. Ich möchte Sie um einen Termin ___. *(bitten / gebeten / bat)*
+5. Wir ___ letztes Jahr in Spanien. *(waren / sind / wären)*
+6. Sie hat mir eine E-Mail ___. *(schreiben / geschrieben / schrieb)*
+7. Als Kind ___ ich kein Gemüse. *(mochte / mag / mögen)*
+8. Er ist gestern nach Hause ___. *(gefahren / fahren / fuhr)*
+9. Ich ___ das Buch noch nicht lesen. *(habe / musste / konnte)*
+10. Das Meeting ___ gestern stattgefunden. *(hatte / hat / ist)*
+
+<details>
+<summary>▶ Answers</summary>
+
+1. **war** — Präteritum of sein. Always Präteritum for war/hatte.
+2. **ausgefüllt** — Partizip II for Perfekt: habe ausgefüllt.
+3. **konnte** — Präteritum of können. Modal verbs always use Präteritum in past.
+4. **bitten** — Infinitiv after möchten: möchte...bitten.
+5. **waren** — Präteritum of sein (wir waren = we were).
+6. **geschrieben** — Partizip II: hat geschrieben.
+7. **mochte** — Präteritum of mögen (als Kind = past).
+8. **gefahren** — Partizip II with sein: ist gefahren.
+9. **konnte** — konnte...lesen (modal + infinitiv at end).
+10. **hat** — Perfekt with haben: hat stattgefunden.
+
+</details>
+
+---
+
+# TOPIC 6 — Possessives with Endings
+
+## Explanation
+
+Possessives follow the same endings as **ein/kein**.
+The ending changes depending on gender and case.
+
+| | Maskulin | Feminin | Neutrum | Plural |
+|---|---|---|---|---|
+| **Nom** | mein | meine | mein | meine |
+| **Akk** | **meinen** | meine | mein | meine |
+| **Dat** | **meinem** | **meiner** | **meinem** | **meinen** |
+
+Same endings for: **dein / sein / ihr / unser / euer / Ihr**
+
+### Register trap — Ihre vs ihre
+
+| | Meaning | Example |
+|---|---|---|
+| **Ihre** (capital I) | formal your (Sie) | Bitte bringen Sie **Ihre** Zeugnisse. |
+| **ihre** (lowercase) | her | Sie liebt **ihre** Kinder. |
+
+### Quick memory trick
+
+Dativ endings: **-em / -er / -em / -en**
+Say it as: **em-er-em-en**
+Mask. → em · Fem. → er · Neut. → em · Pl. → en
+
+## Exercises — fill in the correct possessive form
+
+1. Das ist ein Geschenk für ___ Mutter. *(mein)*
+2. Bitte bringen Sie ___ Unterlagen mit. *(Ihr — formal)*
+3. Er schreibt ___ Chef eine E-Mail. *(sein)*
+4. Ich danke ___ Eltern für die Hilfe. *(mein)*
+5. Sie liebt ___ Kinder sehr. *(ihr)*
+6. Das Fahrrad gehört ___ Bruder. *(mein)*
+7. Wir besuchen ___ Großeltern am Wochenende. *(unser)*
+8. Er hat ___ Freundin eine Nachricht geschickt. *(sein)*
+9. Ich habe ___ Schlüssel vergessen. *(mein)*
+10. Könnten Sie mir ___ Telefonnummer geben? *(Ihr — formal)*
+
+<details>
+<summary>▶ Answers</summary>
+
+1. **meine** — Mutter = Feminin, für = Akk → Fem. Akk = meine (no change)
+2. **Ihre** — formal Sie, Unterlagen = Plural, Nom/Akk Pl → Ihre
+3. **seinem** — Chef = Maskulin, schreiben + Dativ → seinem Chef
+4. **meinen** — Eltern = Plural, Dativ (danken takes Dativ) → meinen
+5. **ihre** — lowercase, her children, Plural Akk → ihre
+6. **meinem** — Bruder = Maskulin, gehören takes Dativ → meinem
+7. **unsere** — Großeltern = Plural, Akk (besuchen) → unsere
+8. **seiner** — Freundin = Feminin, Dativ (geschickt + Dativ person) → seiner
+9. **meinen** — Schlüssel = Maskulin, Akk (direct object) → meinen
+10. **Ihre** — formal Sie, Telefonnummer = Feminin, Akk → Ihre
+
+</details>
+
+---
+
+# TOPIC 7 — kein Wort (no word needed)
+
+## Explanation
+
+One of the three options is always **kein Wort** — meaning the gap needs no word at all.
+The sentence is already grammatically complete without anything in the gap.
+
+### When is kein Wort the answer?
+
+When the verb takes two objects — a **Dativ person** and an **Akkusativ thing** — with no preposition:
+
+> *Ich gebe ___ dir das Buch.*
+> Read without any word: *"Ich gebe dir das Buch."* → perfect ✅ → **kein Wort**
+
+### Verbs that follow this pattern
+
+| Verb | Meaning | Example |
+|---|---|---|
+| geben | to give | Ich gebe **dir** das Buch. |
+| schicken | to send | Er schickt **mir** die Rechnung. |
+| zeigen | to show | Sie zeigt **uns** den Weg. |
+| erklären | to explain | Er erklärt **mir** die Grammatik. |
+| vermitteln | to convey/provide | Der Kurs vermittelt **Ihnen** Kenntnisse. |
+| bringen | to bring | Ich bringe **dir** einen Kaffee. |
+| kaufen | to buy | Er kauft **ihr** Blumen. |
+
+### How to spot it in the exam
+
+**Step 1:** Read the sentence with no word in the gap.
+**Step 2:** If it sounds complete and correct → **kein Wort**.
+**Step 3:** If something is missing → pick a preposition or connector.
+
+### The trap — when it is NOT kein Wort
+
+> *Wir freuen uns ___, Sie kennenzulernen.*
+> Read without a word: *"Wir freuen uns, Sie kennenzulernen."*
+> Sounds okay? → BUT *sich freuen* needs *auf* or the Pronominaladverb *darauf*
+> → Answer: **darauf** (not kein Wort!)
+
+Always check if the verb has a fixed preposition before choosing kein Wort.
+
+## Exercises — kein Wort or a preposition?
+
+1. Der Kurs vermittelt ___ Ihnen eine solide Grundlage.
+2. Ich schicke ___ Ihnen die Unterlagen morgen.
+3. Wir freuen uns ___, von Ihnen zu hören.
+4. Er zeigt ___ uns den neuen Arbeitsplan.
+5. Ich warte ___ Ihre Antwort.
+6. Sie erklärt ___ mir die Aufgabe noch einmal.
+7. Ich interessiere mich ___ diesen Kurs.
+8. Er kauft ___ seiner Mutter Blumen.
+9. Wir danken ___ Ihrer Unterstützung.
+10. Ich bringe ___ dir einen Kaffee mit.
+
+<details>
+<summary>▶ Answers</summary>
+
+1. **kein Wort** — vermitteln + Dativ person + Akk thing: no prep needed
+2. **kein Wort** — schicken + Dativ person + Akk thing: no prep needed
+3. **darauf** — sich freuen auf → Pronominaladverb: darauf (NOT kein Wort!)
+4. **kein Wort** — zeigen + Dativ person + Akk thing: no prep needed
+5. **auf** — warten auf → fixed verb+prep: warten auf Ihre Antwort
+6. **kein Wort** — erklären + Dativ person + Akk thing: no prep needed
+7. **für** — sich interessieren für → fixed verb+prep: für diesen Kurs
+8. **kein Wort** — kaufen + Dativ person + Akk thing: no prep needed
+9. **für** — danken für → fixed verb+prep: danken für Ihre Unterstützung
+10. **kein Wort** — bringen + Dativ person + Akk thing: no prep needed
+
+</details>
+
+---
+
+# 5 FULL MOCK TESTS
+### Exactly like the real exam — read the text, fill gaps 19–28, check answers at the bottom
+
+---
+
+## Mock Test 1 — Formal (Easy)
+### Kursanmeldung — Course registration
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Sehr geehrte Damen und Herren,
+
+ich wende ___19___ an Sie, weil ich ___20___ für Ihren Deutschkurs anmelden möchte.
+Ich habe ___21___ einem Freund von Ihrem Kurs gehört und bin sehr interessiert.
+
+Der Kurs findet ___22___ Montag bis Freitag von 18:00 bis 20:00 Uhr statt und beginnt ___23___ Oktober.
+Könnten Sie mir bitte ___24___ Informationen über den Kurs schicken?
+
+Ich lerne Deutsch ___25___ zwei Jahren und suche jetzt einen Kurs für Fortgeschrittene.
+Es ___26___ sehr nett, wenn Sie mir auch die Kursgebühren mitteilen ___27___.
+
+Über eine Antwort ___28___ ich mich sehr freuen.
+
+Mit freundlichen Grüßen,
+Thomas Bauer
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | mich | dich | sich |
+| 20 | mich | sich | uns |
+| 21 | von | mit | bei |
+| 22 | von | ab | seit |
+| 23 | am | im | um |
+| 24 | weitere | weiter | weiteren |
+| 25 | seit | für | ab |
+| 26 | wäre | würde | hätte |
+| 27 | könnten | können | konnte |
+| 28 | würde | wäre | hätte |
+
+<details>
+<summary>▶ Lösungen</summary>
+
+**19a · 20a · 21a · 22a · 23b · 24a · 25a · 26a · 27a · 28a**
+
+- **19a — mich:** sich wenden = reflexive. Subject = ich → mich.
+- **20a — mich:** sich anmelden = reflexive. Subject = ich → mich.
+- **21a — von:** von jemandem hören = to hear from/about someone. Always Dativ → von einem Freund.
+- **22a — von:** von...bis = from...to. Time range pair → von Montag bis Freitag.
+- **23b — im:** month → always im. Im Oktober.
+- **24a — weitere:** weitere Informationen = further information. Plural Akk → weitere.
+- **25a — seit:** seit = for/since (still ongoing). Still learning → seit zwei Jahren.
+- **26a — wäre:** "would be" = wäre (Konjunktiv II of sein). Es wäre nett.
+- **27a — könnten:** Konjunktiv II polite request: könnten Sie mitteilen.
+- **28a — würde:** würde + infinitive: würde mich freuen.
+
+</details>
+
+---
+
+## Mock Test 2 — Formal (Hard)
+### Bewerbung — Job application
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Sehr geehrte Frau Schneider,
+
+ich bewerbe ___19___ um die ausgeschriebene Stelle als Projektmanagerin in Ihrem Unternehmen.
+Ich bin davon überzeugt, dass ich die Anforderungen erfülle, und ___20___ mich sehr über
+die Möglichkeit freuen, Teil Ihres Teams zu werden.
+
+Ich habe ___21___ fünf Jahren in einem ähnlichen Bereich gearbeitet. ___22___ ich mein
+Studium abgeschlossen hatte, begann ich meine Karriere in der IT-Branche.
+Ich habe ___23___ stark für Projektmanagement interessiert und mehrere Zertifikate erworben.
+
+Es ___24___ toll, wenn ich ___25___ bei Ihnen vorstellen ___26___.
+Ich stehe Ihnen ___27___ Montag bis Donnerstag zwischen 9 und 17 Uhr zur Verfügung.
+
+Ich freue ___28___ darauf, von Ihnen zu hören.
+
+Mit freundlichen Grüßen,
+Anna Weber
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | mich | sich | uns |
+| 20 | würde | wäre | hätte |
+| 21 | seit | für | ab |
+| 22 | Als | Wenn | Ob |
+| 23 | mich | sich | uns |
+| 24 | wäre | würde | hätte |
+| 25 | mich | sich | uns |
+| 26 | könnte | kann | konnte |
+| 27 | von | ab | seit |
+| 28 | mich | sich | uns |
+
+<details>
+<summary>▶ Lösungen</summary>
+
+**19a · 20a · 21a · 22a · 23a · 24a · 25a · 26a · 27a · 28a**
+
+- **19a — mich:** sich bewerben = reflexive. Subject = ich → mich.
+- **20a — würde:** würde + infinitive: würde mich freuen.
+- **21a — seit:** seit = for (duration still relevant). seit fünf Jahren.
+- **22a — Als:** single past event (finished study — one-time) → als.
+- **23a — mich:** sich interessieren = reflexive. Subject = ich → mich.
+- **24a — wäre:** "would be" = wäre. Es wäre toll.
+- **25a — mich:** sich vorstellen = reflexive. Subject = ich → mich.
+- **26a — könnte:** Konjunktiv II: könnte vorstellen = could introduce myself.
+- **27a — von:** von...bis = from...to. von Montag bis Donnerstag.
+- **28a — mich:** sich freuen = reflexive. Subject = ich → mich.
+
+</details>
+
+---
+
+## Mock Test 3 — Informal (Easy)
+### Nachricht an einen Freund — Message to a friend
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Lieber Marco,
+
+wie geht's? Ich freue ___19___ schon so auf dein Kommen! ___20___ du letztes Mal hier warst,
+haben wir so viel Spaß gehabt. Ich hoffe, das klappt wieder so.
+
+Ich weiß noch nicht genau, ___21___ du ankommst — schreib mir bitte Bescheid.
+Wir ___22___ uns dann am Bahnhof treffen. Ich weiß auch nicht, ___23___ du bleiben möchtest —
+bei mir oder im Hotel. Bei mir ist natürlich mehr Platz.
+
+Ich habe ___24___ ein bisschen für Sport interessiert und gehe jetzt regelmäßig ins Fitnessstudio.
+___25___ du willst, können wir zusammen hingehen! Das ___26___ super sein.
+
+Ich freue ___27___ wirklich sehr auf deinen Besuch. Schreib mir bald!
+
+Viele Grüße,
+Kevin
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | mich | dich | sich |
+| 20 | Als | Wenn | Ob |
+| 21 | wann | ob | als |
+| 22 | könnten | können | konnte |
+| 23 | ob | wann | als |
+| 24 | mich | dich | sich |
+| 25 | Wenn | Als | Ob |
+| 26 | wäre | würde | hätte |
+| 27 | mich | dich | sich |
+| 28 | kein Wort | für | mit |
+
+<details>
+<summary>▶ Lösungen</summary>
+
+**19a · 20a · 21a · 22a · 23a · 24a · 25a · 26a · 27a**
+
+- **19a — mich:** sich freuen = reflexive. Subject = ich → mich.
+- **20a — Als:** single past event (last time you were here — one specific visit) → als.
+- **21a — wann:** asking what time exactly (at what time do you arrive?) → wann.
+- **22a — könnten:** Konjunktiv II suggestion: könnten uns treffen = we could meet.
+- **23a — ob:** indirect yes/no question (stay with me or in a hotel — yes or no?) → ob.
+- **24a — mich:** sich interessieren = reflexive. Subject = ich → mich.
+- **25a — Wenn:** condition/future (if/when you want) → wenn.
+- **26a — wäre:** "would be" = wäre. Das wäre super.
+- **27a — mich:** sich freuen = reflexive. Subject = ich → mich.
+
+</details>
+
+---
+
+## Mock Test 4 — Informal (Hard)
+### E-Mail an eine Freundin — Email to a friend
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Sara,
+
+endlich schreibe ich dir! Es tut mir leid, ___19___ ich so lange nicht geschrieben habe.
+Ich war total beschäftigt, ___20___ ich einen neuen Job angefangen habe und ___21___
+gleichzeitig in eine neue Wohnung gezogen bin.
+
+Die Arbeit macht mir viel Spaß, ___22___ die Arbeitszeiten manchmal sehr lang sind.
+Ich arbeite ___23___ Montag bis Freitag von 8 ___24___ 19 Uhr — das ist wirklich viel.
+
+___25___ ich das erste Mal in meinem neuen Büro war, habe ich ___26___ sofort wohlgefühlt.
+Meine Kollegen sind sehr nett. Ich habe ___27___ schon sehr gut mit ihnen verstanden.
+
+Ich würde ___28___ sehr freuen, wenn du mich bald besuchen ___29___.
+Ich zeige ___30___ dann meine neue Wohnung!
+
+Viele Grüße,
+Lena
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | dass | ob | weil |
+| 20 | weil | obwohl | dass |
+| 21 | kein Wort | auch | aber |
+| 22 | obwohl | weil | dass |
+| 23 | von | ab | seit |
+| 24 | bis | von | ab |
+| 25 | Als | Wenn | Ob |
+| 26 | mich | dich | sich |
+| 27 | mich | dich | sich |
+| 28 | mich | dich | sich |
+| 29 | könntest | kannst | konntest |
+| 30 | kein Wort | dir | dich |
+
+<details>
+<summary>▶ Lösungen</summary>
+
+**19a · 20a · 21b · 22a · 23a · 24a · 25a · 26a · 27a · 28a · 29a · 30c**
+
+- **19a — dass:** after *es tut mir leid* → dass. Verb to end.
+- **20a — weil:** because → verb to end: angefangen habe.
+- **21b — auch:** "and at the same time also moved" → auch (also/additionally).
+- **22a — obwohl:** although (contrast — fun work BUT long hours) → obwohl.
+- **23a — von:** von...bis = time range → von Montag bis Freitag.
+- **24a — bis:** second part of von...bis → von 8 bis 19 Uhr.
+- **25a — Als:** single past event (first time in new office — one specific moment) → als.
+- **26a — mich:** sich wohlfühlen = reflexive. Subject = ich → mich.
+- **27a — mich:** sich verstehen = reflexive. Subject = ich → mich.
+- **28a — mich:** sich freuen = reflexive. Subject = ich → mich.
+- **29a — könntest:** Konjunktiv II (polite wish/hypothetical): könntest besuchen.
+- **30c — dir:** zeigen + Dativ person + Akk thing: zeige dir meine Wohnung. kein Wort would also work here — both acceptable. Dir makes the sentence more natural.
+
+</details>
+
+---
+
+## Mock Test 5 — Mixed (Closest to real exam)
+### Ankündigung — Public announcement
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Bürgerinnen und Bürger,
+
+wir freuen ___19___ , Ihnen mitteilen zu können, ___20___ unsere Stadt in diesem Jahr
+ein großes Kulturfestival organisiert. Das Festival findet ___21___ 15. bis zum 20. August statt
+und bietet ___22___ Ihnen ein vielfältiges Programm für die ganze Familie.
+
+Das Programm beginnt ___23___ 10:00 Uhr mit einer Eröffnungsveranstaltung.
+Anschließend ___24___ Sie verschiedene Konzerte und Ausstellungen besuchen.
+Bitte beachten Sie, ___25___ die Teilnehmerzahl begrenzt ist, ___26___ wir allen Besuchern
+ein angenehmes Erlebnis garantieren möchten.
+
+___27___ Sie sich anmelden möchten oder weitere Informationen benötigen,
+kontaktieren Sie ___28___ bitte unter der Telefonnummer 030/456789.
+
+Wir freuen ___29___ auf Ihre Teilnahme und hoffen, ___30___ wir Sie bei unserem
+Festival begrüßen dürfen.
+
+Mit herzlichen Grüßen,
+Das Organisationsteam
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | uns | mich | sich |
+| 20 | dass | ob | weil |
+| 21 | vom | ab | seit |
+| 22 | kein Wort | für | mit |
+| 23 | um | am | ab |
+| 24 | können | könnten | konnten |
+| 25 | dass | ob | weil |
+| 26 | damit | weil | obwohl |
+| 27 | Wenn | Als | Ob |
+| 28 | uns | mich | sich |
+| 29 | uns | mich | sich |
+| 30 | dass | ob | weil |
+
+<details>
+<summary>▶ Lösungen</summary>
+
+**19a · 20a · 21a · 22c · 23a · 24b · 25a · 26a · 27a · 28a · 29a · 30a**
+
+- **19a — uns:** sich freuen = reflexive. Subject = wir → uns.
+- **20a — dass:** after *mitteilen* → dass. Verb to end: organisiert.
+- **21a — vom:** vom (= von dem) 15. bis zum 20. → vom...bis.
+- **22c — mit:** bieten + Dativ → bieten Ihnen. Wait — actually: *bieten Ihnen* takes kein Wort... but *mit* fits: "bietet mit Ihnen" doesn't work. → **kein Wort** — bieten + Dativ person + Akk thing. Read without a word: "bietet Ihnen ein vielfältiges Programm" ✅
+  > Corrected: **22 = kein Wort (a)**
+- **23a — um:** clock time → um 10:00 Uhr.
+- **24b — könnten:** Konjunktiv II suggestion (polite): könnten Sie besuchen = you could visit.
+- **25a — dass:** after *beachten Sie* → dass. Verb to end.
+- **26a — damit:** purpose clause (so that) → damit. Verb to end: möchten.
+- **27a — Wenn:** condition (if you want to register) → wenn. Future/conditional.
+- **28a — uns:** reflexive with wir: kontaktieren Sie uns = contact us. (uns here = direct object, not reflexive — but correct form).
+- **29a — uns:** sich freuen = reflexive. Subject = wir → uns.
+- **30a — dass:** after *hoffen* → dass. Verb to end: dürfen.
+
+</details>
+
+---
+
+# 5 Mixed Mock Tests — TELC A2-B1 Sprachbausteine
+### Exactly like the real exam format
+
+> **Instructions:** Read the full text first. Then fill in gaps 19–30.
+> Each gap has three options: a), b), c). Only one is correct.
+> Check your answers in the collapsible section at the bottom.
+
+---
+
+## Mock Test 6 — Stadtbibliothek (Public library announcement)
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Leseratten und Bücherwürmer,
+
+wir freuen ___19___ , Ihnen mitteilen zu können, dass unsere Stadtbibliothek
+ab nächstem Monat neue Öffnungszeiten einführt. ___20___ Sie uns bisher nur
+von Montag bis Freitag besuchen ___21___ , sind wir jetzt auch ___22___ Samstag
+von 10:00 bis 16:00 Uhr für Sie geöffnet.
+
+Zusätzlich bieten wir ___23___ Ihnen ab ___24___ Oktober einen neuen Leseclub an.
+Der Leseclub trifft ___25___ jeden zweiten Dienstag um 18:30 Uhr.
+Wir lesen gemeinsam aktuelle Bücher und diskutieren ___26___ deren Inhalt.
+
+Bitte melden Sie ___27___ bis zum 30. September an, ___28___ wir die Teilnehmerzahl
+planen ___29___ . Für Kinder gibt es außerdem jeden Samstag eine Vorlesestunde —
+fragen Sie ___30___ an der Anmeldung nach weiteren Informationen.
+
+Wir freuen uns auf Ihren Besuch!
+
+Mit freundlichen Grüßen,
+Das Team der Stadtbibliothek
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | uns | mich | sich |
+| 20 | Als | Wenn | Ob |
+| 21 | konnten | können | könnten |
+| 22 | am | im | um |
+| 23 | kein Wort | für | mit |
+| 24 | ab | seit | von |
+| 25 | sich | mich | uns |
+| 26 | über | von | mit |
+| 27 | sich | mich | uns |
+| 28 | damit | weil | obwohl |
+| 29 | können | könnten | konnten |
+| 30 | kein Wort | uns | sich |
+
+<details>
+<summary>▶ Lösungen — Mock Test 6</summary>
+
+**19a · 20a · 21a · 22a · 23a · 24a · 25a · 26a · 27a · 28a · 29b · 30c**
+
+- **19a — uns:** sich freuen = reflexive. Subject = wir → uns.
+- **20a — Als:** single past event (until now, you could only visit Mon–Fri — one specific past situation) → als.
+- **21a — konnten:** Präteritum of können. Past ability → konnten. Not Konjunktiv II (könnten) because this is a real past fact, not hypothetical.
+- **22a — am:** day → always am. Am Samstag.
+- **23a — kein Wort:** bieten + Dativ person + Akk thing → bieten Ihnen einen neuen Leseclub. Read without a word: "bieten Ihnen ab Oktober einen neuen Leseclub an" ✅ → kein Wort.
+- **24a — ab:** starting from a future point → ab Oktober = from October onwards.
+- **25a — sich:** sich treffen = reflexive. Subject = der Leseclub (er) → sich.
+- **26a — über:** diskutieren über = to discuss something. Fixed verb+prep → über.
+- **27a — sich:** sich anmelden = reflexive. Subject = formal Sie → sich.
+- **28a — damit:** purpose clause (so that we can plan) → damit. Verb to end: können.
+- **29b — könnten:** Konjunktiv II — polite/hypothetical planning. damit wir...planen könnten.
+- **30c — sich:** erkundigen Sie sich = reflexive with formal Sie → sich. fragen Sie sich nach = inquire.
+
+</details>
+
+---
+
+## Mock Test 7 — Sportverein (Sports club invitation)
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Sportbegeisterte,
+
+unser Sportverein lädt Sie herzlich ein, ___19___ bei unserem Tag der offenen Tür
+am kommenden Samstag, dem 12. Oktober, zu informieren. Die Veranstaltung beginnt
+___20___ 10:00 Uhr und endet gegen 17:00 Uhr.
+
+___21___ Sie unser Angebot schon immer interessiert hat, ist das die perfekte Gelegenheit.
+Wir zeigen ___22___ unsere modernen Trainingsräume und erklären ___23___ alle
+Mitgliedschaftsoptionen. Sie können ___24___ auch direkt bei unserem Team erkundigen,
+___25___ ein Mitgliedschaft für Sie geeignet wäre.
+
+Wir bieten Kurse ___26___ alle Altersgruppen an — ___27___ Kinder bis zu Senioren.
+Seit ___28___ Gründung vor 25 Jahren hat ___29___ unser Verein stark weiterentwickelt.
+Heute haben wir über 2.000 Mitglieder, auf ___30___ wir sehr stolz sind.
+
+Wir freuen uns auf Ihren Besuch!
+
+Mit sportlichen Grüßen,
+Der Vorstand des SV Altstadt
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | sich | mich | uns |
+| 20 | um | am | ab |
+| 21 | Wenn | Als | Ob |
+| 22 | kein Wort | Ihnen | Sie |
+| 23 | kein Wort | Ihnen | Sie |
+| 24 | sich | mich | uns |
+| 25 | ob | wann | dass |
+| 26 | für | mit | ohne |
+| 27 | von | ab | seit |
+| 28 | unserer | unsere | unserem |
+| 29 | sich | mich | uns |
+| 30 | die | denen | dem |
+
+<details>
+<summary>▶ Lösungen — Mock Test 7</summary>
+
+**19a · 20a · 21a · 22b · 23b · 24a · 25a · 26a · 27a · 28a · 29a · 30b**
+
+- **19a — sich:** sich informieren = reflexive. Subject = formal Sie → sich.
+- **20a — um:** clock time → um 10:00 Uhr.
+- **21a — Wenn:** condition/repeated (if/whenever our offer has interested you) → wenn. Present relevance, not a single past event.
+- **22b — Ihnen:** zeigen + Dativ person + Akk thing: zeigen Ihnen unsere Räume. The Dativ person needs to be stated → Ihnen. (Not kein Wort — without it the sentence is incomplete.)
+- **23b — Ihnen:** erklären + Dativ person + Akk thing: erklären Ihnen alle Optionen. Same structure → Ihnen needed.
+- **24a — sich:** sich erkundigen = reflexive. Subject = formal Sie → sich.
+- **25a — ob:** indirect yes/no question (is a membership suitable for you or not?) → ob.
+- **26a — für:** Kurse für alle Altersgruppen = courses for all age groups. für = always Akk.
+- **27a — von:** von...bis = from...to. Von Kindern bis zu Senioren.
+- **28a — unserer:** Gründung = Feminin. seit = always Dativ → Fem. Dat → unserer.
+- **29a — sich:** sich weiterentwickeln = reflexive. Subject = unser Verein (er) → sich.
+- **30b — denen:** relative pronoun in Dativ Plural (auf die Mitglieder, auf die/denen wir stolz sind). auf + Dativ → denen (Dativ Plural relative pronoun).
+
+</details>
+
+---
+
+## Mock Test 8 — Arbeitskollegin (Email from a colleague)
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Kollegen,
+
+wie ihr wisst, ist Gesundheit am Arbeitsplatz sehr wichtig. Deshalb möchte ich euch
+heute ___19___ ein Projekt vorstellen, das wir gemeinsam starten ___20___ .
+
+Erstens schlage ich vor, dass wir ___21___ jeden Monat einen Tag organisieren, ___22___
+wir alle gemeinsam mit dem Fahrrad zur Arbeit fahren. ___23___ wir das regelmäßig tun,
+können wir nicht nur die Umwelt schonen, sondern ___24___ unsere Gesundheit verbessern.
+
+Zweitens ___25___ es eine gute Idee, ___26___ wir in der Kantine mehr vegetarische
+Gerichte anbieten. Ich habe ___27___ schon länger für dieses Thema interessiert und
+glaube, dass kleine Änderungen einen großen Unterschied machen ___28___ .
+
+Bitte lasst mich wissen, ___29___ ihr an diesem Projekt interessiert seid.
+Ich freue ___30___ auf euer Feedback!
+
+Viele Grüße,
+Jonas
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | kein Wort | euch | uns |
+| 20 | können | könnten | konnten |
+| 21 | kein Wort | uns | sich |
+| 22 | an dem | an der | an denen |
+| 23 | Wenn | Als | Ob |
+| 24 | auch | kein Wort | noch |
+| 25 | wäre | würde | hätte |
+| 26 | dass | ob | damit |
+| 27 | mich | dich | sich |
+| 28 | können | könnten | konnten |
+| 29 | ob | wann | dass |
+| 30 | mich | dich | sich |
+
+<details>
+<summary>▶ Lösungen — Mock Test 8</summary>
+
+**19a · 20b · 21b · 22c · 23a · 24a · 25a · 26a · 27a · 28a · 29a · 30a**
+
+- **19a — kein Wort:** vorstellen + Dativ person + Akk thing: vorstelle ich euch ein Projekt. Read without a word: "möchte ich euch heute ein Projekt vorstellen" ✅ → kein Wort.
+- **20b — könnten:** Konjunktiv II — polite suggestion: starten könnten = could start.
+- **21b — uns:** sich organisieren here means "to organise for ourselves / as a group" — wir → uns. Alternatively this could be kein Wort, but uns fits better to indicate collective action.
+- **22c — an denen:** relative clause with Dativ Plural (an den Tagen, an denen wir alle fahren) → denen (Dativ Plural relative pronoun).
+- **23a — Wenn:** condition/repeated action (every time we do this regularly) → wenn.
+- **24a — auch:** nicht nur...sondern auch = not only...but also. Fixed pair → auch.
+- **25a — wäre:** "would be" = wäre (Konjunktiv II of sein). Es wäre eine gute Idee.
+- **26a — dass:** after vorschlagen/Idee → dass. Verb to end: anbieten.
+- **27a — mich:** sich interessieren = reflexive. Subject = ich → mich.
+- **28a — können:** können at the end — Infinitiv after können in the main clause: Änderungen können einen Unterschied machen.
+- **29a — ob:** indirect yes/no question (are you interested or not?) → ob.
+- **30a — mich:** sich freuen = reflexive. Subject = ich → mich.
+
+</details>
+
+---
+
+## Mock Test 9 — Reisebericht (Travel report — informal)
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Freunde,
+
+ich schreibe euch, um von meinen Erfahrungen während ___19___ Auslandsjahres in Japan
+zu berichten. Die Kultur hier ist so anders als zuhause — jeden Tag erlebe ich etwas Neues
+und freue ___20___ sehr darüber.
+
+___21___ ich das erste Mal einen japanischen Tempel besuchte, war ich absolut begeistert.
+Ich hatte ___22___ nie vorgestellt, dass es so schön sein ___23___ . Die Architektur ist
+atemberaubend, besonders die historischen Gebäude, die bis ins Mittelalter zurückreichen.
+
+Eines der Highlights meiner Reise war ein traditionelles Teezeremoniefest.
+Es war unglaublich — ich konnte ___24___ in eine andere Welt versetzen.
+Ich habe versucht, ein paar Wörter Japanisch zu lernen, ___25___ ich besser
+mit den Menschen kommunizieren ___26___ .
+
+Außerdem genieße ich die lokale Küche sehr. Ich habe ___27___ bereits einige Rezepte
+notiert, ___28___ ich sie zuhause nachkochen kann. Ich werde euch dann einladen
+und ___29___ japanisch kochen!
+
+Bis bald und viele Grüße,
+Lena
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | meines | meine | meinem |
+| 20 | mich | dich | sich |
+| 21 | Als | Wenn | Ob |
+| 22 | mich | dich | sich |
+| 23 | könnte | kann | konnte |
+| 24 | mich | dich | sich |
+| 25 | damit | weil | obwohl |
+| 26 | kann | könnte | konnte |
+| 27 | kein Wort | mir | mich |
+| 28 | damit | weil | obwohl |
+| 29 | kein Wort | euch | für euch |
+
+<details>
+<summary>▶ Lösungen — Mock Test 9</summary>
+
+**19a · 20a · 21a · 22a · 23a · 24a · 25a · 26b · 27b · 28a · 29b**
+
+- **19a — meines:** Auslandsjahr = Neutrum. während = always Genitiv → Neut. Gen → meines. *(Note: Genitiv appears occasionally at B1 level after während/wegen/trotz)*
+- **20a — mich:** sich freuen = reflexive. Subject = ich → mich.
+- **21a — Als:** single past event (the first time I visited — one specific moment) → als.
+- **22a — mich:** sich vorstellen = reflexive. Subject = ich → mich.
+- **23a — könnte:** Konjunktiv II — hypothetical (I hadn't imagined it could be so beautiful) → könnte.
+- **24a — mich:** sich versetzen = reflexive (to transport oneself). Subject = ich → mich.
+- **25a — damit:** purpose clause (so that I could communicate better) → damit. Verb to end.
+- **26b — könnte:** Konjunktiv II — purpose/hypothetical after damit: damit ich...kommunizieren könnte.
+- **27b — mir:** notieren + Dativ person is less common here; actually notiert is used without Dativ. Better: **kein Wort** — habe notiert is complete without mir. Both 27a (kein Wort) and 27b (mir) were included as options — kein Wort is cleaner here.
+- **28a — damit:** purpose clause (so that I can cook them at home) → damit. Verb to end: kann.
+- **29b — euch:** einladen + Dativ/Akk person: werde euch einladen. Then: kochen is a separate verb — kein Wort before euch... Actually: "werde euch einladen und euch japanisch kochen" → euch is the object of kochen. → **euch**.
+
+</details>
+
+---
+
+## Mock Test 10 — Stadtfest (City festival — mixed formal/public)
+
+Lesen Sie den Text. Welches Wort passt in die jeweilige Lücke?
+
+---
+
+Liebe Bürgerinnen und Bürger,
+
+es ist wieder so weit: Unser alljährliches Stadtfest steht bevor!
+___19___ 3. bis zum 5. Juli verwandelt ___20___ der Marktplatz in eine bunte Festmeile.
+
+Das Fest beginnt ___21___ Freitag um 16:00 Uhr mit der Eröffnungsrede des Bürgermeisters.
+Anschließend können Sie ___22___ der ganzen Familie die zahlreichen Stände genießen.
+Für die musikalische Unterhaltung sorgt ___23___ dieses Jahr eine Auswahl lokaler Bands,
+die verschiedene Musikrichtungen abdecken.
+
+Auch für das leibliche Wohl ist gesorgt: Ob herzhafte Spezialitäten oder süße Leckereien —
+unsere lokalen Gastronomen bieten ___24___ etwas für jeden Geschmack.
+Vergessen Sie nicht, ___25___ unserem Gewinnspiel teilzunehmen, bei ___26___ Sie
+attraktive Preise aus der Region gewinnen ___27___ !
+
+Kommen Sie vorbei und machen Sie ___28___ Fest zu einem unvergesslichen Erlebnis.
+Wir freuen ___29___ auf fröhliches Beisammensein und tolle Gespräche ___30___
+Nachbarn und Freunden.
+
+Bis dahin herzliche Grüße,
+Ihr Organisationsteam Stadtfest
+
+---
+
+| Gap | a | b | c |
+|---|---|---|---|
+| 19 | Vom | Ab | Seit |
+| 20 | sich | mich | uns |
+| 21 | am | im | um |
+| 22 | mit | bei | für |
+| 23 | kein Wort | auch | noch |
+| 24 | kein Wort | für | mit |
+| 25 | an | bei | kein Wort |
+| 26 | dem | der | denen |
+| 27 | können | könnten | konnten |
+| 28 | das | dieses | diesem |
+| 29 | uns | mich | sich |
+| 30 | mit | zwischen | von |
+
+<details>
+<summary>▶ Lösungen — Mock Test 10</summary>
+
+**19a · 20a · 21a · 22a · 23a · 24a · 25a · 26a · 27a · 28a · 29a · 30a**
+
+- **19a — Vom:** vom (= von dem) 3. bis zum 5. Juli → vom...bis. Time range pair.
+- **20a — sich:** sich verwandeln = reflexive. Subject = der Marktplatz (er) → sich.
+- **21a — am:** day → always am. Am Freitag.
+- **22a — mit:** mit + Dativ = with. Mit der ganzen Familie = with the whole family.
+- **23a — kein Wort:** sorgt here is used without an extra adverb — "sorgt dieses Jahr eine Auswahl lokaler Bands" is complete. kein Wort fits as no connector is needed between sorgt and dieses Jahr.
+- **24a — kein Wort:** bieten + Dativ person + Akk thing: bieten euch etwas. Read without a word: "unsere Gastronomen bieten etwas für jeden Geschmack" ✅ → kein Wort.
+- **25a — an:** an + Dativ (an etwas teilnehmen). teilnehmen an = to participate in. Fixed verb+prep → an.
+- **26a — dem:** relative pronoun. Gewinnspiel = Neutrum. bei = Dativ → Neut. Dativ relative pronoun → dem.
+- **27a — können:** können at the end — Sie attraktive Preise gewinnen können. Infinitiv construction.
+- **28a — das:** dieses Fest → das Fest. Fest = Neutrum. Akk (direct object of machen) → das.
+- **29a — uns:** sich freuen = reflexive. Subject = wir → uns.
+- **30a — mit:** Gespräche mit jemandem = conversations with someone. mit + Dativ → mit Nachbarn und Freunden.
+
+</details>
+
+---
+
+## Summary — What each test covers
+
+| Test | Text type | Key patterns tested |
+|---|---|---|
+| Mock Test 6 | Formal — library announcement | reflexive sich/uns, als, Konjunktiv II, damit, über+discuss |
+| Mock Test 7 | Formal — sports club invitation | wenn vs ob, kein Wort vs Ihnen, relative pronoun denen, Genitiv possessive |
+| Mock Test 8 | Semi-formal — colleague email | nicht nur...sondern auch, wäre, dass vs damit, ob for yes/no |
+| Mock Test 9 | Informal — travel report | als for single past, damit+Konjunktiv II, sich versetzen, purpose clauses |
+| Mock Test 10 | Mixed — public announcement | vom...bis, sich verwandeln, an+teilnehmen, relative pronoun dem |
+
+---
+
+
+
+
+
+## Quick Reference — All Rules on One Page
+
+```
+REFLEXIVE PRONOUNS
+ich → mich  |  du → dich  |  er/sie/es → sich
+wir → uns   |  ihr → euch  |  Sie (formal) → sich
+
+ALS / WENN / OB / WANN
+als   = single past event (war, hatte, konnte)
+wenn  = repeated / future / condition (habe, kommt)
+ob    = whether (yes/no unknown)
+wann  = asking what time
+
+MODAL VERBS
+können = can/able  |  müssen = must  |  dürfen = allowed
+sollen = supposed  |  wollen = want  |  möchten = would like
+müssen nicht ≠ dürfen nicht  (don't have to ≠ must not)
+
+KONJUNKTIV II
+würde + infinitiv = would  |  könnte = could
+wäre = would be            |  hätte = would have
+
+VERB FORMS
+Perfekt = haben/sein + Partizip II  (gesprochen, gefahren)
+Präteritum = war / hatte / konnte / musste / wollte
+Infinitiv = after modals and möchten
+
+POSSESSIVES (endings = same as ein/kein)
+Nom: mein  meine  mein  meine
+Akk: meinen  meine  mein  meine    ← only Mask. changes
+Dat: meinem  meiner  meinem  meinen ← all change
+Ihre (capital) = formal Sie  |  ihre (small) = her
+
+KEIN WORT
+→ Read sentence without any word
+→ If grammatically complete → kein Wort
+→ Verbs: geben / schicken / zeigen / erklären / vermitteln / bringen
+→ BUT: freuen auf → darauf (NOT kein Wort!)
+
+PREPOSITIONS — ALWAYS AKK
+für · ohne · durch · gegen · um
+
+PREPOSITIONS — ALWAYS DAT
+mit · aus · bei · von · zu · seit · nach
+
+TWO-WAY PREPOSITIONS
+an · auf · in · hinter · neben · über · unter · vor · zwischen
+Wohin? (legen/stellen/gehen) → Akkusativ
+Wo? (liegen/stehen/sein)     → Dativ
+```
+
+---
+
+*File created for TELC A2-B1 preparation | github.com/nhcp/Telc-A2B1--Preparation*
