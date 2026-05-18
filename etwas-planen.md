@@ -752,6 +752,3 @@ Hake jeden Punkt ab, bevor du fertig bist:
 
 ---
 
-*Viel Erfolg bei der telc A2/B1 Prüfung! 🍀*
-
-*German with Nilufa | +491738662160*
